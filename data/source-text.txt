@@ -1,1 +1,88 @@
-This file is updated by the GitHub Action with the visible text scraped from https://live.sfrautox.com/#N.
+Participants: 80
+2026 AAS #06 Live Results
+Date: 2026-04-26
+
+Overall Class PAX
+
+Overall
+Rank	Driver	Class - Number	Time
+1	Tom Exley	P-XP #25	58.287
+2	Andy McKee	X-XB #141	58.748
+3	Boris Vujasinovic	M-FM #67	60.071
+4	Bryan Stewart	CAMS #138	60.294
+5	Teresa Neidel-McKee	X-XB #41	60.348
+6	Mack Tsang	EVX #188	60.503
+7	Chris Cox	CAMS #38	60.683
+8	Tara Shapowal	CAMS #78	60.833
+9	Steve Lau	XA #187	60.880
+10	Steve Mclaughlin	SP-ESP #911	61.406
+11	Justin Tsang	EVX #88	61.484
+12	Justin Bowen	EVX #48	61.709
+13	James Clenney	EVX #76	61.898
+14	Ben Martinez	M-CM #60	61.962
+15	Arvind Govindaraj	ST1-AST #1	62.356
+16	Monty Pack	SS #15	62.624
+17	Navid Kahangi	EVX #80	62.710
+18	Juven Lat	SS #31	62.756
+19	Shelly Monfort	AS #196	62.768
+20	Aris Perez	ST1-AST #845	63.158
+21	Rich Lee	S1-BS #99	63.289
+22	Tom Ellam	X-XB #161	63.631
+23	Erik Acks	AS #68	63.637
+24	Patrick Drudge	ST1-SST #126	63.758
+25	Maggie Elorza	S1-BS #22	63.846
+26	Kristen Acharya	ST1-AST #117	63.963
+27	Ken Mollenauer	AS #96	63.982
+28	Shawn Tokairin	ST1-AST #938	64.076
+29	Wilson Velandia	S1-FS #6	64.153
+30	Andrew Kauble	ST1-SST #121	64.175
+31	Jesus Villarreal	CAMS #126	64.228
+32	James Laeno	X-XU #96	64.267
+33	Kevin Jung	X-XB #178	64.274
+34	Vince Russell	SP-CSP #192	64.448
+35	Da Chang	CST #63	64.533
+36	Tom Kubo	SP-CSP #92	64.805
+37	Michael Jones	AS #26	64.823
+38	Michael Gardner	CAMC #48	64.833
+39	Renee Russell	SPL-CSP #92	64.840
+40	Michael Scott	AS #2	65.149
+41	Andre Piernot	ST1-EST #19	65.270
+42	Colin Mullan	XA #27	65.289
+43	Hal Dorton	CAMC #74	65.311
+44	Paul Tibbals	BST #35	65.637
+45	Mike Ansell	CAMS #21	65.824
+46	Alex Petrovsky	ST1-AST #412	65.964
+47	Ed Runnion	CST #18	65.970
+48	Eric Martin	ST1-SSC #74	66.417
+49	Michael Ansell	CAMS #121	66.420
+50	Lloyd Feaver	S1-DS #5	66.467
+51	Keith Bullock	ST1-EST #18	66.507
+52	Darren Shortes	AS #57	66.622
+53	Sandra Gartner	P-XP #125	66.737
+54	Gregory Kehoe	BST #95	67.098
+55	Jeremy Leung	CST #78	67.136
+56	Dwayne Komush	P-DP #99	67.185
+57	David Silva	P-CP #16	67.274
+58	Darren Voges	CAMT #669	67.791
+59	Brandon Phillips	S2-HS #14	69.045
+60	Brenna Comacchio	S2-HS #4	69.164
+61	Daniel Labao	AS #991	69.289
+62	Bob Ely	P-CP #27	69.927
+63	Sandra Fu	ST1-AST #45	70.501
+64	Phil Wiltens	ST1-EST #453	70.588
+65	David Johnson	SM-SM #35	71.237
+66	Johanna Guarino	BST #571	71.349
+67	Kun Qian	CST #8	71.419
+68	Pedro Duran III	CAMS #55	71.531
+69	Meg Conkling	S1-DS #511	71.614
+70	Leon Weinroth	CAMC #51	72.460
+71	DARIN NELMS	SM-SSM #66	72.556
+72	Linus Gugino	S1-FS #131	72.972
+73	Ibtisam A.	S2-CS #764	73.063
+74	Andrew Shutt	S2-CS #77	73.410
+75	Jen-Yee Hong	S1-BS #86	74.063
+76	Alvin Ongyod	CAMT #508	75.501
+77	Roy Evans	SS #196	76.026
+78	Karthik P	S1-FS #31	76.028
+79	Charla Wiltens	STL-EST #435	77.992
+80	Lauren Pham	S1-DS #148	84.456
