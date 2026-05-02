@@ -28,7 +28,7 @@ jobs:
         run: npx playwright install chromium --with-deps
 
       - name: Fetch and parse SFR live results
-        run: npm run update
+        run: npm run fetch:sfr
 
       - name: Commit updated data
         uses: stefanzweifel/git-auto-commit-action@v5
