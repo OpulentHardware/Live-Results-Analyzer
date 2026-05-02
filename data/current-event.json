@@ -1,16 +1,22 @@
 {
   "status": "ok",
   "sourceUrl": "https://live.sfrautox.com/#N",
-  "updatedAt": "2026-05-02T05:19:10.381Z",
+  "updatedAt": "2026-05-02T05:31:04.741Z",
   "event": {
     "title": "2026 AAS #06 Live Results",
     "date": "2026-04-26",
-    "participants": 80
+    "participants": 80,
+    "sourceUrl": "https://live.sfrautox.com/#N",
+    "updatedAt": "2026-05-02T05:31:04.741Z",
+    "status": "ok"
   },
   "meta": {
     "title": "2026 AAS #06 Live Results",
     "date": "2026-04-26",
-    "participants": 80
+    "participants": 80,
+    "sourceUrl": "https://live.sfrautox.com/#N",
+    "updatedAt": "2026-05-02T05:31:04.741Z",
+    "status": "ok"
   },
   "title": "2026 AAS #06 Live Results",
   "date": "2026-04-26",
@@ -26,7 +32,16 @@
       "classNumber": "P-XP #25",
       "time": 58.287,
       "rawTime": 58.287,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XP) 1987 Mazda Rx7",
+      "runs": [
+        "61.417",
+        "58.892",
+        "58.287",
+        "71.125 +1"
+      ],
+      "bestRaw": 58.287,
+      "bestPax": 52.458
     },
     {
       "rank": 2,
@@ -38,7 +53,17 @@
       "classNumber": "X-XB #141",
       "time": 58.748,
       "rawTime": 58.748,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "61.131",
+        "59.723",
+        "58.748",
+        "61.673",
+        "61.922"
+      ],
+      "bestRaw": 58.748,
+      "bestPax": 51.698
     },
     {
       "rank": 3,
@@ -50,7 +75,17 @@
       "classNumber": "M-FM #67",
       "time": 60.071,
       "rawTime": 60.071,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(FM) 1995 RD",
+      "runs": [
+        "61.323",
+        "60.071",
+        "60.524 +1",
+        "68.077",
+        "61.883 +1"
+      ],
+      "bestRaw": 60.071,
+      "bestPax": 55.085
     },
     {
       "rank": 4,
@@ -62,7 +97,17 @@
       "classNumber": "CAMS #138",
       "time": 60.294,
       "rawTime": 60.294,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2004 Chevrolet Z06",
+      "runs": [
+        "62.933",
+        "61.643",
+        "60.963",
+        "60.294",
+        "61.152"
+      ],
+      "bestRaw": 60.294,
+      "bestPax": 51.129
     },
     {
       "rank": 5,
@@ -74,7 +119,15 @@
       "classNumber": "X-XB #41",
       "time": 60.348,
       "rawTime": 60.348,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "61.819 +1",
+        "60.348",
+        "65.208 +2"
+      ],
+      "bestRaw": 60.348,
+      "bestPax": 53.106
     },
     {
       "rank": 6,
@@ -86,7 +139,16 @@
       "classNumber": "EVX #188",
       "time": 60.503,
       "rawTime": 60.503,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2025 Tesla Model 3",
+      "runs": [
+        "61.039",
+        "60.655 +1",
+        "60.503",
+        "62.425"
+      ],
+      "bestRaw": 60.503,
+      "bestPax": 50.822
     },
     {
       "rank": 7,
@@ -98,7 +160,17 @@
       "classNumber": "CAMS #38",
       "time": 60.683,
       "rawTime": 60.683,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2004 Chevrolet Corvette",
+      "runs": [
+        "64.956",
+        "62.213",
+        "61.508",
+        "78.040",
+        "60.683"
+      ],
+      "bestRaw": 60.683,
+      "bestPax": 51.459
     },
     {
       "rank": 8,
@@ -110,7 +182,17 @@
       "classNumber": "CAMS #78",
       "time": 60.833,
       "rawTime": 60.833,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1966 Ford Cobra",
+      "runs": [
+        "64.415",
+        "62.196",
+        "61.469",
+        "61.429",
+        "60.833"
+      ],
+      "bestRaw": 60.833,
+      "bestPax": 51.586
     },
     {
       "rank": 9,
@@ -122,7 +204,17 @@
       "classNumber": "XA #187",
       "time": 60.88,
       "rawTime": 60.88,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2014 Porsche Boxster S",
+      "runs": [
+        "62.546",
+        "61.368 +1",
+        "62.494",
+        "62.470",
+        "60.880"
+      ],
+      "bestRaw": 60.88,
+      "bestPax": 52.6
     },
     {
       "rank": 10,
@@ -134,7 +226,17 @@
       "classNumber": "SP-ESP #911",
       "time": 61.406,
       "rawTime": 61.406,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(ESP) 2020 Nissan 370Z",
+      "runs": [
+        "63.970 +1",
+        "62.491",
+        "62.414",
+        "61.432",
+        "61.406"
+      ],
+      "bestRaw": 61.406,
+      "bestPax": 51.581
     },
     {
       "rank": 11,
@@ -146,7 +248,16 @@
       "classNumber": "EVX #88",
       "time": 61.484,
       "rawTime": 61.484,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2025 Tesla Model 3 Performance",
+      "runs": [
+        "61.960 +1",
+        "61.672 +1",
+        "61.484",
+        "63.246"
+      ],
+      "bestRaw": 61.484,
+      "bestPax": 51.646
     },
     {
       "rank": 12,
@@ -158,7 +269,17 @@
       "classNumber": "EVX #48",
       "time": 61.709,
       "rawTime": 61.709,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2024 Tesla Model 3 Performance",
+      "runs": [
+        "63.670 +1",
+        "63.037",
+        "62.400",
+        "63.633",
+        "61.709"
+      ],
+      "bestRaw": 61.709,
+      "bestPax": 51.835
     },
     {
       "rank": 13,
@@ -170,7 +291,17 @@
       "classNumber": "EVX #76",
       "time": 61.898,
       "rawTime": 61.898,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2025 Tesla Model 3 Performance",
+      "runs": [
+        "62.660",
+        "61.900",
+        "61.898",
+        "63.213 +1",
+        "62.644"
+      ],
+      "bestRaw": 61.898,
+      "bestPax": 51.994
     },
     {
       "rank": 14,
@@ -182,7 +313,14 @@
       "classNumber": "M-CM #60",
       "time": 61.962,
       "rawTime": 61.962,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CM) 1984 Van Diemen",
+      "runs": [
+        "61.962",
+        "70.633"
+      ],
+      "bestRaw": 61.962,
+      "bestPax": 55.765
     },
     {
       "rank": 15,
@@ -194,7 +332,17 @@
       "classNumber": "ST1-AST #1",
       "time": 62.356,
       "rawTime": 62.356,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2020 Mazda MX-5",
+      "runs": [
+        "66.070 +1",
+        "62.870",
+        "62.729",
+        "62.356",
+        "61.372 +1"
+      ],
+      "bestRaw": 62.356,
+      "bestPax": 52.316
     },
     {
       "rank": 16,
@@ -206,7 +354,17 @@
       "classNumber": "SS #15",
       "time": 62.624,
       "rawTime": 62.624,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2018 Porsche GT3",
+      "runs": [
+        "63.483",
+        "62.624",
+        "62.697",
+        "67.121",
+        "63.659"
+      ],
+      "bestRaw": 62.624,
+      "bestPax": 52.792
     },
     {
       "rank": 17,
@@ -218,7 +376,16 @@
       "classNumber": "EVX #80",
       "time": 62.71,
       "rawTime": 62.71,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2024 Tesla Model 3 Performance",
+      "runs": [
+        "62.710",
+        "63.055",
+        "63.429",
+        "62.864"
+      ],
+      "bestRaw": 62.71,
+      "bestPax": 52.676
     },
     {
       "rank": 18,
@@ -230,7 +397,17 @@
       "classNumber": "SS #31",
       "time": 62.756,
       "rawTime": 62.756,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2023 Porsche Cayman GT4 RS",
+      "runs": [
+        "64.646",
+        "62.955",
+        "63.011",
+        "64.261",
+        "62.756"
+      ],
+      "bestRaw": 62.756,
+      "bestPax": 52.903
     },
     {
       "rank": 19,
@@ -242,7 +419,17 @@
       "classNumber": "AS #196",
       "time": 62.768,
       "rawTime": 62.768,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2018 Porsche Cayman GTS 2.5",
+      "runs": [
+        "63.855 +1",
+        "63.483",
+        "62.768",
+        "65.175",
+        "63.136"
+      ],
+      "bestRaw": 62.768,
+      "bestPax": 52.16
     },
     {
       "rank": 20,
@@ -254,7 +441,16 @@
       "classNumber": "ST1-AST #845",
       "time": 63.158,
       "rawTime": 63.158,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2022 Mazda Miata",
+      "runs": [
+        "65.605",
+        "64.356",
+        "63.427",
+        "63.158"
+      ],
+      "bestRaw": 63.158,
+      "bestPax": 52.989
     },
     {
       "rank": 21,
@@ -266,7 +462,17 @@
       "classNumber": "S1-BS #99",
       "time": 63.289,
       "rawTime": 63.289,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(BS) 2023 Toyota Supra",
+      "runs": [
+        "66.195",
+        "64.271",
+        "64.029",
+        "63.488 +1",
+        "63.289"
+      ],
+      "bestRaw": 63.289,
+      "bestPax": 52.15
     },
     {
       "rank": 22,
@@ -278,7 +484,14 @@
       "classNumber": "X-XB #161",
       "time": 63.631,
       "rawTime": 63.631,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XB) 1972 Mazda RX3",
+      "runs": [
+        "65.186",
+        "63.631"
+      ],
+      "bestRaw": 63.631,
+      "bestPax": 55.995
     },
     {
       "rank": 23,
@@ -290,7 +503,17 @@
       "classNumber": "AS #68",
       "time": 63.637,
       "rawTime": 63.637,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2018 Porsche Cayman GTS",
+      "runs": [
+        "64.232",
+        "63.637",
+        "64.488",
+        "65.890",
+        "64.018"
+      ],
+      "bestRaw": 63.637,
+      "bestPax": 52.882
     },
     {
       "rank": 24,
@@ -302,7 +525,17 @@
       "classNumber": "ST1-SST #126",
       "time": 63.758,
       "rawTime": 63.758,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(SST) 2024 Toyota Supra",
+      "runs": [
+        "65.091",
+        "63.979",
+        "63.758",
+        "64.206",
+        "63.799"
+      ],
+      "bestRaw": 63.758,
+      "bestPax": 53.62
     },
     {
       "rank": 25,
@@ -314,7 +547,16 @@
       "classNumber": "S1-BS #22",
       "time": 63.846,
       "rawTime": 63.846,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(BS) 2021 Toyota GR Supra 3.0",
+      "runs": [
+        "66.320",
+        "65.351",
+        "64.721",
+        "63.846"
+      ],
+      "bestRaw": 63.846,
+      "bestPax": 52.609
     },
     {
       "rank": 26,
@@ -326,7 +568,17 @@
       "classNumber": "ST1-AST #117",
       "time": 63.963,
       "rawTime": 63.963,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2020 Mazda TheAnswer",
+      "runs": [
+        "68.927 +1",
+        "65.807",
+        "65.067",
+        "64.377",
+        "63.963"
+      ],
+      "bestRaw": 63.963,
+      "bestPax": 53.664
     },
     {
       "rank": 27,
@@ -338,7 +590,17 @@
       "classNumber": "AS #96",
       "time": 63.982,
       "rawTime": 63.982,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2018 Porsche Cayman GTS",
+      "runs": [
+        "65.992",
+        "64.449",
+        "63.222 +1",
+        "63.986",
+        "63.982"
+      ],
+      "bestRaw": 63.982,
+      "bestPax": 53.169
     },
     {
       "rank": 28,
@@ -350,7 +612,17 @@
       "classNumber": "ST1-AST #938",
       "time": 64.076,
       "rawTime": 64.076,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2020 Mazda Mx5 Miata",
+      "runs": [
+        "66.609",
+        "64.910",
+        "64.515",
+        "64.076",
+        "64.289"
+      ],
+      "bestRaw": 64.076,
+      "bestPax": 53.759
     },
     {
       "rank": 29,
@@ -362,7 +634,16 @@
       "classNumber": "S1-FS #6",
       "time": 64.153,
       "rawTime": 64.153,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(FS) 2016 Ford GT350",
+      "runs": [
+        "66.668",
+        "65.753",
+        "64.444",
+        "64.153"
+      ],
+      "bestRaw": 64.153,
+      "bestPax": 52.477
     },
     {
       "rank": 30,
@@ -374,7 +655,16 @@
       "classNumber": "ST1-SST #121",
       "time": 64.175,
       "rawTime": 64.175,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(SST) 2024 Toyota Supra",
+      "runs": [
+        "70.648",
+        "65.070",
+        "64.638",
+        "64.175"
+      ],
+      "bestRaw": 64.175,
+      "bestPax": 53.971
     },
     {
       "rank": 31,
@@ -386,7 +676,17 @@
       "classNumber": "CAMS #126",
       "time": 64.228,
       "rawTime": 64.228,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2001 Chevrolet Corvette",
+      "runs": [
+        "66.598",
+        "64.316",
+        "64.228",
+        "63.175 +2",
+        "63.517 +1"
+      ],
+      "bestRaw": 64.228,
+      "bestPax": 54.465
     },
     {
       "rank": 32,
@@ -398,7 +698,16 @@
       "classNumber": "X-XU #96",
       "time": 64.267,
       "rawTime": 64.267,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XU) Mazda Exocet",
+      "runs": [
+        "63.267 +1",
+        "68.795",
+        "73.365 +1",
+        "78.297"
+      ],
+      "bestRaw": 64.267,
+      "bestPax": 56.169
     },
     {
       "rank": 33,
@@ -410,7 +719,17 @@
       "classNumber": "X-XB #178",
       "time": 64.274,
       "rawTime": 64.274,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XB) 1990 Mazda Miata",
+      "runs": [
+        "67.035",
+        "64.274",
+        "65.198",
+        "69.614",
+        "66.258"
+      ],
+      "bestRaw": 64.274,
+      "bestPax": 56.561
     },
     {
       "rank": 34,
@@ -422,7 +741,16 @@
       "classNumber": "SP-CSP #192",
       "time": 64.448,
       "rawTime": 64.448,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CSP) 1990 Mazda Miata",
+      "runs": [
+        "66.113",
+        "64.448",
+        "64.435 +1",
+        "65.054"
+      ],
+      "bestRaw": 64.448,
+      "bestPax": 55.296
     },
     {
       "rank": 35,
@@ -434,7 +762,17 @@
       "classNumber": "CST #63",
       "time": 64.533,
       "rawTime": 64.533,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2009 Mazda Miata",
+      "runs": [
+        "68.046",
+        "72.941",
+        "65.595",
+        "64.943",
+        "64.533"
+      ],
+      "bestRaw": 64.533,
+      "bestPax": 53.691
     },
     {
       "rank": 36,
@@ -446,7 +784,16 @@
       "classNumber": "SP-CSP #92",
       "time": 64.805,
       "rawTime": 64.805,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CSP) 1991 Mazda Miata",
+      "runs": [
+        "67.101",
+        "66.115",
+        "64.805",
+        "65.615"
+      ],
+      "bestRaw": 64.805,
+      "bestPax": 55.602
     },
     {
       "rank": 37,
@@ -458,7 +805,17 @@
       "classNumber": "AS #26",
       "time": 64.823,
       "rawTime": 64.823,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2004 Chevrolet",
+      "runs": [
+        "65.959",
+        "65.009",
+        "64.823",
+        "70.701",
+        "65.170"
+      ],
+      "bestRaw": 64.823,
+      "bestPax": 53.867
     },
     {
       "rank": 38,
@@ -470,7 +827,17 @@
       "classNumber": "CAMC #48",
       "time": 64.833,
       "rawTime": 64.833,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2016 Ford Shelby GT350",
+      "runs": [
+        "68.387",
+        "65.082 +2",
+        "65.164",
+        "64.046 +1",
+        "64.833"
+      ],
+      "bestRaw": 64.833,
+      "bestPax": 53.811
     },
     {
       "rank": 39,
@@ -482,7 +849,16 @@
       "classNumber": "SPL-CSP #92",
       "time": 64.84,
       "rawTime": 64.84,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CSP) 1990 Mazda Miata",
+      "runs": [
+        "66.199 +1",
+        "66.518",
+        "65.265",
+        "64.840"
+      ],
+      "bestRaw": 64.84,
+      "bestPax": 55.632
     },
     {
       "rank": 40,
@@ -494,7 +870,17 @@
       "classNumber": "AS #2",
       "time": 65.149,
       "rawTime": 65.149,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2023 Tesla 3",
+      "runs": [
+        "65.179",
+        "65.149",
+        "64.857 +1",
+        "68.248",
+        "66.547"
+      ],
+      "bestRaw": 65.149,
+      "bestPax": 54.138
     },
     {
       "rank": 41,
@@ -506,7 +892,16 @@
       "classNumber": "ST1-EST #19",
       "time": 65.27,
       "rawTime": 65.27,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "67.992",
+        "66.145",
+        "65.270",
+        "65.549"
+      ],
+      "bestRaw": 65.27,
+      "bestPax": 52.999
     },
     {
       "rank": 42,
@@ -518,7 +913,17 @@
       "classNumber": "XA #27",
       "time": 65.289,
       "rawTime": 65.289,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2002 Honda S2000",
+      "runs": [
+        "70.773",
+        "65.289",
+        "65.351",
+        "70.120",
+        "66.096"
+      ],
+      "bestRaw": 65.289,
+      "bestPax": 56.409
     },
     {
       "rank": 43,
@@ -530,7 +935,17 @@
       "classNumber": "CAMC #74",
       "time": 65.311,
       "rawTime": 65.311,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2022 Ford Mustang",
+      "runs": [
+        "68.220",
+        "66.647",
+        "66.181",
+        "64.968 +1",
+        "65.311"
+      ],
+      "bestRaw": 65.311,
+      "bestPax": 54.208
     },
     {
       "rank": 44,
@@ -542,7 +957,15 @@
       "classNumber": "BST #35",
       "time": 65.637,
       "rawTime": 65.637,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2006 Subaru WRX STi",
+      "runs": [
+        "67.509",
+        "65.637",
+        "67.267"
+      ],
+      "bestRaw": 65.637,
+      "bestPax": 55.003
     },
     {
       "rank": 45,
@@ -554,7 +977,17 @@
       "classNumber": "CAMS #21",
       "time": 65.824,
       "rawTime": 65.824,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1972 Chevrolet Corvette",
+      "runs": [
+        "70.912 +2",
+        "67.684",
+        "66.577",
+        "66.080",
+        "65.824"
+      ],
+      "bestRaw": 65.824,
+      "bestPax": 55.818
     },
     {
       "rank": 46,
@@ -566,7 +999,17 @@
       "classNumber": "ST1-AST #412",
       "time": 65.964,
       "rawTime": 65.964,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2024 Mazda MX-5",
+      "runs": [
+        "68.682 +1",
+        "67.557",
+        "66.554",
+        "65.939 +1",
+        "65.964"
+      ],
+      "bestRaw": 65.964,
+      "bestPax": 55.343
     },
     {
       "rank": 47,
@@ -578,7 +1021,17 @@
       "classNumber": "CST #18",
       "time": 65.97,
       "rawTime": 65.97,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2022 Subaru BRZ",
+      "runs": [
+        "65.970",
+        "65.534 +1",
+        "66.363",
+        "66.098",
+        "67.091 +1"
+      ],
+      "bestRaw": 65.97,
+      "bestPax": 54.887
     },
     {
       "rank": 48,
@@ -590,7 +1043,17 @@
       "classNumber": "ST1-SSC #74",
       "time": 66.417,
       "rawTime": 66.417,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(SSC) 2013 Scion FR-S",
+      "runs": [
+        "68.852",
+        "67.176",
+        "66.417",
+        "66.794",
+        "67.186 +1"
+      ],
+      "bestRaw": 66.417,
+      "bestPax": 53.465
     },
     {
       "rank": 49,
@@ -602,7 +1065,17 @@
       "classNumber": "CAMS #121",
       "time": 66.42,
       "rawTime": 66.42,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1972 Chevrolet Corvette",
+      "runs": [
+        "68.983",
+        "66.516 +1",
+        "74.714",
+        "66.420",
+        "66.910"
+      ],
+      "bestRaw": 66.42,
+      "bestPax": 56.324
     },
     {
       "rank": 50,
@@ -614,7 +1087,17 @@
       "classNumber": "S1-DS #5",
       "time": 66.467,
       "rawTime": 66.467,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(DS) 2020 Ford Mustang",
+      "runs": [
+        "70.476",
+        "66.634",
+        "66.467",
+        "67.242",
+        "66.118 +1"
+      ],
+      "bestRaw": 66.467,
+      "bestPax": 53.705
     },
     {
       "rank": 51,
@@ -626,7 +1109,16 @@
       "classNumber": "ST1-EST #18",
       "time": 66.507,
       "rawTime": 66.507,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "68.937",
+        "67.025",
+        "67.136",
+        "66.507"
+      ],
+      "bestRaw": 66.507,
+      "bestPax": 54.003
     },
     {
       "rank": 52,
@@ -638,7 +1130,17 @@
       "classNumber": "AS #57",
       "time": 66.622,
       "rawTime": 66.622,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2002 Chevrolet Corvett Z06",
+      "runs": [
+        "68.970",
+        "66.926",
+        "66.622",
+        "72.963",
+        "68.498"
+      ],
+      "bestRaw": 66.622,
+      "bestPax": 55.362
     },
     {
       "rank": 53,
@@ -650,7 +1152,15 @@
       "classNumber": "P-XP #125",
       "time": 66.737,
       "rawTime": 66.737,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(XP) 1987 Mazda Rx7 Turbo",
+      "runs": [
+        "70.664",
+        "67.220",
+        "65.737 +1"
+      ],
+      "bestRaw": 66.737,
+      "bestPax": 60.063
     },
     {
       "rank": 54,
@@ -662,7 +1172,17 @@
       "classNumber": "BST #95",
       "time": 67.098,
       "rawTime": 67.098,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2009 Nissan 370Z",
+      "runs": [
+        "69.102",
+        "67.098",
+        "67.021 +1",
+        "68.760",
+        "67.284"
+      ],
+      "bestRaw": 67.098,
+      "bestPax": 56.228
     },
     {
       "rank": 55,
@@ -674,7 +1194,17 @@
       "classNumber": "CST #78",
       "time": 67.136,
       "rawTime": 67.136,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2024 Subaru BRZ",
+      "runs": [
+        "69.987",
+        "68.218",
+        "67.136",
+        "68.879",
+        "68.222 +1"
+      ],
+      "bestRaw": 67.136,
+      "bestPax": 55.857
     },
     {
       "rank": 56,
@@ -686,7 +1216,16 @@
       "classNumber": "P-DP #99",
       "time": 67.185,
       "rawTime": 67.185,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(DP) 1970 Ford Escort Mexico",
+      "runs": [
+        "67.888 +1",
+        "67.791 +1",
+        "67.185",
+        "69.411"
+      ],
+      "bestRaw": 67.185,
+      "bestPax": 58.115
     },
     {
       "rank": 57,
@@ -698,7 +1237,17 @@
       "classNumber": "P-CP #16",
       "time": 67.274,
       "rawTime": 67.274,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CP) 1994 Ford Mustang",
+      "runs": [
+        "74.194",
+        "69.747",
+        "68.258",
+        "67.274",
+        "77.008"
+      ],
+      "bestRaw": 67.274,
+      "bestPax": 58.528
     },
     {
       "rank": 58,
@@ -710,7 +1259,17 @@
       "classNumber": "CAMT #669",
       "time": 67.791,
       "rawTime": 67.791,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1969 Chevrolet Camaro",
+      "runs": [
+        "72.427",
+        "68.853",
+        "67.791",
+        "68.043",
+        "68.506"
+      ],
+      "bestRaw": 67.791,
+      "bestPax": 55.927
     },
     {
       "rank": 59,
@@ -722,7 +1281,15 @@
       "classNumber": "S2-HS #14",
       "time": 69.045,
       "rawTime": 69.045,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(HS) 2016 Honda Accord",
+      "runs": [
+        "70.139 +1",
+        "69.045",
+        "70.552"
+      ],
+      "bestRaw": 69.045,
+      "bestPax": 53.717
     },
     {
       "rank": 60,
@@ -734,7 +1301,15 @@
       "classNumber": "S2-HS #4",
       "time": 69.164,
       "rawTime": 69.164,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(HS) 2016 Honda Accord",
+      "runs": [
+        "70.128",
+        "69.164",
+        "70.097"
+      ],
+      "bestRaw": 69.164,
+      "bestPax": 53.809
     },
     {
       "rank": 61,
@@ -746,7 +1321,17 @@
       "classNumber": "AS #991",
       "time": 69.289,
       "rawTime": 69.289,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2013 Porsche Carrera S",
+      "runs": [
+        "71.554",
+        "69.289",
+        "69.967 +2",
+        "71.465",
+        "69.974"
+      ],
+      "bestRaw": 69.289,
+      "bestPax": 57.579
     },
     {
       "rank": 62,
@@ -758,7 +1343,15 @@
       "classNumber": "P-CP #27",
       "time": 69.927,
       "rawTime": 69.927,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CP) 1969 Ford Mustang",
+      "runs": [
+        "69.927",
+        "69.008 +1",
+        "76.681"
+      ],
+      "bestRaw": 69.927,
+      "bestPax": 60.836
     },
     {
       "rank": 63,
@@ -770,7 +1363,17 @@
       "classNumber": "ST1-AST #45",
       "time": 70.501,
       "rawTime": 70.501,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(AST) 2022 Mazda Miata",
+      "runs": [
+        "73.922",
+        "88.275",
+        "73.375 +1",
+        "70.501",
+        "83.459"
+      ],
+      "bestRaw": 70.501,
+      "bestPax": 59.15
     },
     {
       "rank": 64,
@@ -782,7 +1385,17 @@
       "classNumber": "ST1-EST #453",
       "time": 70.588,
       "rawTime": 70.588,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "74.901 +1",
+        "72.063",
+        "71.486",
+        "71.474 +1",
+        "70.588"
+      ],
+      "bestRaw": 70.588,
+      "bestPax": 57.317
     },
     {
       "rank": 65,
@@ -794,7 +1407,16 @@
       "classNumber": "SM-SM #35",
       "time": 71.237,
       "rawTime": 71.237,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(SM) 2016 Ford focus rs",
+      "runs": [
+        "73.088",
+        "71.257",
+        "71.237",
+        "75.712"
+      ],
+      "bestRaw": 71.237,
+      "bestPax": 62.189
     },
     {
       "rank": 66,
@@ -806,7 +1428,17 @@
       "classNumber": "BST #571",
       "time": 71.349,
       "rawTime": 71.349,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2021 Subaru WRX STI Limited",
+      "runs": [
+        "72.981",
+        "71.349",
+        "89.693 +1",
+        "77.628",
+        "73.259 +1"
+      ],
+      "bestRaw": 71.349,
+      "bestPax": 59.79
     },
     {
       "rank": 67,
@@ -818,7 +1450,17 @@
       "classNumber": "CST #8",
       "time": 71.419,
       "rawTime": 71.419,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2013 Mazda Miata",
+      "runs": [
+        "83.337",
+        "75.841",
+        "74.931",
+        "73.492",
+        "71.419"
+      ],
+      "bestRaw": 71.419,
+      "bestPax": 59.42
     },
     {
       "rank": 68,
@@ -830,7 +1472,17 @@
       "classNumber": "CAMS #55",
       "time": 71.531,
       "rawTime": 71.531,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1998 Chevrolet 98 Corvette C-5 convert",
+      "runs": [
+        "80.794",
+        "76.888",
+        "74.924",
+        "72.743",
+        "71.531"
+      ],
+      "bestRaw": 71.531,
+      "bestPax": 60.658
     },
     {
       "rank": 69,
@@ -842,7 +1494,17 @@
       "classNumber": "S1-DS #511",
       "time": 71.614,
       "rawTime": 71.614,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(DS) 2020 Ford Mustang",
+      "runs": [
+        "71.980 +1",
+        "73.026 +1",
+        "74.531 +1",
+        "73.371 +1",
+        "71.614"
+      ],
+      "bestRaw": 71.614,
+      "bestPax": 57.864
     },
     {
       "rank": 70,
@@ -854,7 +1516,16 @@
       "classNumber": "CAMC #51",
       "time": 72.46,
       "rawTime": 72.46,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2014 Ford Blue Mustang V6",
+      "runs": [
+        "76.854",
+        "74.954",
+        "72.460",
+        "72.766"
+      ],
+      "bestRaw": 72.46,
+      "bestPax": 60.141
     },
     {
       "rank": 71,
@@ -866,7 +1537,17 @@
       "classNumber": "SM-SSM #66",
       "time": 72.556,
       "rawTime": 72.556,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(SSM) 2001 Mazda Miata",
+      "runs": [
+        "75.118",
+        "73.630",
+        "73.109",
+        "78.706",
+        "72.556"
+      ],
+      "bestRaw": 72.556,
+      "bestPax": 63.994
     },
     {
       "rank": 72,
@@ -878,7 +1559,18 @@
       "classNumber": "S1-FS #131",
       "time": 72.972,
       "rawTime": 72.972,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(FS) 2012 BMW 135i",
+      "runs": [
+        "76.347",
+        "75.084",
+        "73.466",
+        "79.858",
+        "80.584",
+        "72.972"
+      ],
+      "bestRaw": 72.972,
+      "bestPax": 59.691
     },
     {
       "rank": 73,
@@ -890,7 +1582,15 @@
       "classNumber": "S2-CS #764",
       "time": 73.063,
       "rawTime": 73.063,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CS) 2019 Mazda Miata RF",
+      "runs": [
+        "74.222",
+        "81.088",
+        "73.063"
+      ],
+      "bestRaw": 73.063,
+      "bestPax": 59.254
     },
     {
       "rank": 74,
@@ -902,7 +1602,17 @@
       "classNumber": "S2-CS #77",
       "time": 73.41,
       "rawTime": 73.41,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(CS) 2010 Mazda Miata",
+      "runs": [
+        "73.917",
+        "73.410",
+        "73.641",
+        "75.622",
+        "73.122 +1"
+      ],
+      "bestRaw": 73.41,
+      "bestPax": 59.535
     },
     {
       "rank": 75,
@@ -914,7 +1624,17 @@
       "classNumber": "S1-BS #86",
       "time": 74.063,
       "rawTime": 74.063,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(BS) 2024 Toyota GR Corolla",
+      "runs": [
+        "80.400",
+        "76.303",
+        "74.631",
+        "76.690",
+        "74.063"
+      ],
+      "bestRaw": 74.063,
+      "bestPax": 61.027
     },
     {
       "rank": 76,
@@ -926,7 +1646,17 @@
       "classNumber": "CAMT #508",
       "time": 75.501,
       "rawTime": 75.501,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "1965 Ford Mustang",
+      "runs": [
+        "81.053",
+        "76.435",
+        "76.994",
+        "75.945",
+        "75.501"
+      ],
+      "bestRaw": 75.501,
+      "bestPax": 62.288
     },
     {
       "rank": 77,
@@ -938,7 +1668,15 @@
       "classNumber": "SS #196",
       "time": 76.026,
       "rawTime": 76.026,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "2024 Chevrolet Corvette",
+      "runs": [
+        "78.560",
+        "75.026 +1",
+        "80.340"
+      ],
+      "bestRaw": 76.026,
+      "bestPax": 64.089
     },
     {
       "rank": 78,
@@ -950,7 +1688,16 @@
       "classNumber": "S1-FS #31",
       "time": 76.028,
       "rawTime": 76.028,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(FS) 2012 BMW 135",
+      "runs": [
+        "78.727",
+        "77.067",
+        "76.028",
+        "77.058 +1"
+      ],
+      "bestRaw": 76.028,
+      "bestPax": 62.19
     },
     {
       "rank": 79,
@@ -962,7 +1709,17 @@
       "classNumber": "STL-EST #435",
       "time": 77.992,
       "rawTime": 77.992,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "84.999",
+        "82.556",
+        "81.319",
+        "78.739",
+        "76.992 +1"
+      ],
+      "bestRaw": 77.992,
+      "bestPax": 63.329
     },
     {
       "rank": 80,
@@ -974,7 +1731,17 @@
       "classNumber": "S1-DS #148",
       "time": 84.456,
       "rawTime": 84.456,
-      "indexedTime": null
+      "indexedTime": null,
+      "car": "(DS) 2005 BMW 330ci",
+      "runs": [
+        "89.925",
+        "87.947",
+        "85.807",
+        "84.630",
+        "84.456"
+      ],
+      "bestRaw": 84.456,
+      "bestPax": 68.24
     }
   ],
   "pax": [
@@ -988,7 +1755,16 @@
       "classNumber": "EVX #188",
       "time": 50.822,
       "rawTime": null,
-      "indexedTime": 50.822
+      "indexedTime": 50.822,
+      "car": "2025 Tesla Model 3",
+      "runs": [
+        "61.039",
+        "60.655 +1",
+        "60.503",
+        "62.425"
+      ],
+      "bestRaw": 60.503,
+      "bestPax": 50.822
     },
     {
       "rank": 2,
@@ -1000,7 +1776,17 @@
       "classNumber": "CAMS #138",
       "time": 51.129,
       "rawTime": null,
-      "indexedTime": 51.129
+      "indexedTime": 51.129,
+      "car": "2004 Chevrolet Z06",
+      "runs": [
+        "62.933",
+        "61.643",
+        "60.963",
+        "60.294",
+        "61.152"
+      ],
+      "bestRaw": 60.294,
+      "bestPax": 51.129
     },
     {
       "rank": 3,
@@ -1012,7 +1798,17 @@
       "classNumber": "CAMS #38",
       "time": 51.459,
       "rawTime": null,
-      "indexedTime": 51.459
+      "indexedTime": 51.459,
+      "car": "2004 Chevrolet Corvette",
+      "runs": [
+        "64.956",
+        "62.213",
+        "61.508",
+        "78.040",
+        "60.683"
+      ],
+      "bestRaw": 60.683,
+      "bestPax": 51.459
     },
     {
       "rank": 4,
@@ -1024,7 +1820,17 @@
       "classNumber": "SP-ESP #911",
       "time": 51.581,
       "rawTime": null,
-      "indexedTime": 51.581
+      "indexedTime": 51.581,
+      "car": "(ESP) 2020 Nissan 370Z",
+      "runs": [
+        "63.970 +1",
+        "62.491",
+        "62.414",
+        "61.432",
+        "61.406"
+      ],
+      "bestRaw": 61.406,
+      "bestPax": 51.581
     },
     {
       "rank": 5,
@@ -1036,7 +1842,17 @@
       "classNumber": "CAMS #78",
       "time": 51.586,
       "rawTime": null,
-      "indexedTime": 51.586
+      "indexedTime": 51.586,
+      "car": "1966 Ford Cobra",
+      "runs": [
+        "64.415",
+        "62.196",
+        "61.469",
+        "61.429",
+        "60.833"
+      ],
+      "bestRaw": 60.833,
+      "bestPax": 51.586
     },
     {
       "rank": 6,
@@ -1048,7 +1864,16 @@
       "classNumber": "EVX #88",
       "time": 51.646,
       "rawTime": null,
-      "indexedTime": 51.646
+      "indexedTime": 51.646,
+      "car": "2025 Tesla Model 3 Performance",
+      "runs": [
+        "61.960 +1",
+        "61.672 +1",
+        "61.484",
+        "63.246"
+      ],
+      "bestRaw": 61.484,
+      "bestPax": 51.646
     },
     {
       "rank": 7,
@@ -1060,7 +1885,17 @@
       "classNumber": "X-XB #141",
       "time": 51.698,
       "rawTime": null,
-      "indexedTime": 51.698
+      "indexedTime": 51.698,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "61.131",
+        "59.723",
+        "58.748",
+        "61.673",
+        "61.922"
+      ],
+      "bestRaw": 58.748,
+      "bestPax": 51.698
     },
     {
       "rank": 8,
@@ -1072,7 +1907,17 @@
       "classNumber": "EVX #48",
       "time": 51.835,
       "rawTime": null,
-      "indexedTime": 51.835
+      "indexedTime": 51.835,
+      "car": "2024 Tesla Model 3 Performance",
+      "runs": [
+        "63.670 +1",
+        "63.037",
+        "62.400",
+        "63.633",
+        "61.709"
+      ],
+      "bestRaw": 61.709,
+      "bestPax": 51.835
     },
     {
       "rank": 9,
@@ -1084,7 +1929,17 @@
       "classNumber": "EVX #76",
       "time": 51.994,
       "rawTime": null,
-      "indexedTime": 51.994
+      "indexedTime": 51.994,
+      "car": "2025 Tesla Model 3 Performance",
+      "runs": [
+        "62.660",
+        "61.900",
+        "61.898",
+        "63.213 +1",
+        "62.644"
+      ],
+      "bestRaw": 61.898,
+      "bestPax": 51.994
     },
     {
       "rank": 10,
@@ -1096,7 +1951,17 @@
       "classNumber": "S1-BS #99",
       "time": 52.15,
       "rawTime": null,
-      "indexedTime": 52.15
+      "indexedTime": 52.15,
+      "car": "(BS) 2023 Toyota Supra",
+      "runs": [
+        "66.195",
+        "64.271",
+        "64.029",
+        "63.488 +1",
+        "63.289"
+      ],
+      "bestRaw": 63.289,
+      "bestPax": 52.15
     },
     {
       "rank": 11,
@@ -1108,7 +1973,17 @@
       "classNumber": "AS #196",
       "time": 52.16,
       "rawTime": null,
-      "indexedTime": 52.16
+      "indexedTime": 52.16,
+      "car": "2018 Porsche Cayman GTS 2.5",
+      "runs": [
+        "63.855 +1",
+        "63.483",
+        "62.768",
+        "65.175",
+        "63.136"
+      ],
+      "bestRaw": 62.768,
+      "bestPax": 52.16
     },
     {
       "rank": 12,
@@ -1120,7 +1995,17 @@
       "classNumber": "ST1-AST #1",
       "time": 52.316,
       "rawTime": null,
-      "indexedTime": 52.316
+      "indexedTime": 52.316,
+      "car": "(AST) 2020 Mazda MX-5",
+      "runs": [
+        "66.070 +1",
+        "62.870",
+        "62.729",
+        "62.356",
+        "61.372 +1"
+      ],
+      "bestRaw": 62.356,
+      "bestPax": 52.316
     },
     {
       "rank": 13,
@@ -1132,7 +2017,16 @@
       "classNumber": "P-XP #25",
       "time": 52.458,
       "rawTime": null,
-      "indexedTime": 52.458
+      "indexedTime": 52.458,
+      "car": "(XP) 1987 Mazda Rx7",
+      "runs": [
+        "61.417",
+        "58.892",
+        "58.287",
+        "71.125 +1"
+      ],
+      "bestRaw": 58.287,
+      "bestPax": 52.458
     },
     {
       "rank": 14,
@@ -1144,7 +2038,16 @@
       "classNumber": "S1-FS #6",
       "time": 52.477,
       "rawTime": null,
-      "indexedTime": 52.477
+      "indexedTime": 52.477,
+      "car": "(FS) 2016 Ford GT350",
+      "runs": [
+        "66.668",
+        "65.753",
+        "64.444",
+        "64.153"
+      ],
+      "bestRaw": 64.153,
+      "bestPax": 52.477
     },
     {
       "rank": 15,
@@ -1156,7 +2059,17 @@
       "classNumber": "XA #187",
       "time": 52.6,
       "rawTime": null,
-      "indexedTime": 52.6
+      "indexedTime": 52.6,
+      "car": "2014 Porsche Boxster S",
+      "runs": [
+        "62.546",
+        "61.368 +1",
+        "62.494",
+        "62.470",
+        "60.880"
+      ],
+      "bestRaw": 60.88,
+      "bestPax": 52.6
     },
     {
       "rank": 16,
@@ -1168,7 +2081,16 @@
       "classNumber": "S1-BS #22",
       "time": 52.609,
       "rawTime": null,
-      "indexedTime": 52.609
+      "indexedTime": 52.609,
+      "car": "(BS) 2021 Toyota GR Supra 3.0",
+      "runs": [
+        "66.320",
+        "65.351",
+        "64.721",
+        "63.846"
+      ],
+      "bestRaw": 63.846,
+      "bestPax": 52.609
     },
     {
       "rank": 17,
@@ -1180,7 +2102,16 @@
       "classNumber": "EVX #80",
       "time": 52.676,
       "rawTime": null,
-      "indexedTime": 52.676
+      "indexedTime": 52.676,
+      "car": "2024 Tesla Model 3 Performance",
+      "runs": [
+        "62.710",
+        "63.055",
+        "63.429",
+        "62.864"
+      ],
+      "bestRaw": 62.71,
+      "bestPax": 52.676
     },
     {
       "rank": 18,
@@ -1192,7 +2123,17 @@
       "classNumber": "SS #15",
       "time": 52.792,
       "rawTime": null,
-      "indexedTime": 52.792
+      "indexedTime": 52.792,
+      "car": "2018 Porsche GT3",
+      "runs": [
+        "63.483",
+        "62.624",
+        "62.697",
+        "67.121",
+        "63.659"
+      ],
+      "bestRaw": 62.624,
+      "bestPax": 52.792
     },
     {
       "rank": 19,
@@ -1204,7 +2145,17 @@
       "classNumber": "AS #68",
       "time": 52.882,
       "rawTime": null,
-      "indexedTime": 52.882
+      "indexedTime": 52.882,
+      "car": "2018 Porsche Cayman GTS",
+      "runs": [
+        "64.232",
+        "63.637",
+        "64.488",
+        "65.890",
+        "64.018"
+      ],
+      "bestRaw": 63.637,
+      "bestPax": 52.882
     },
     {
       "rank": 20,
@@ -1216,7 +2167,17 @@
       "classNumber": "SS #31",
       "time": 52.903,
       "rawTime": null,
-      "indexedTime": 52.903
+      "indexedTime": 52.903,
+      "car": "2023 Porsche Cayman GT4 RS",
+      "runs": [
+        "64.646",
+        "62.955",
+        "63.011",
+        "64.261",
+        "62.756"
+      ],
+      "bestRaw": 62.756,
+      "bestPax": 52.903
     },
     {
       "rank": 21,
@@ -1228,7 +2189,16 @@
       "classNumber": "ST1-AST #845",
       "time": 52.989,
       "rawTime": null,
-      "indexedTime": 52.989
+      "indexedTime": 52.989,
+      "car": "(AST) 2022 Mazda Miata",
+      "runs": [
+        "65.605",
+        "64.356",
+        "63.427",
+        "63.158"
+      ],
+      "bestRaw": 63.158,
+      "bestPax": 52.989
     },
     {
       "rank": 22,
@@ -1240,7 +2210,16 @@
       "classNumber": "ST1-EST #19",
       "time": 52.999,
       "rawTime": null,
-      "indexedTime": 52.999
+      "indexedTime": 52.999,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "67.992",
+        "66.145",
+        "65.270",
+        "65.549"
+      ],
+      "bestRaw": 65.27,
+      "bestPax": 52.999
     },
     {
       "rank": 23,
@@ -1252,7 +2231,15 @@
       "classNumber": "X-XB #41",
       "time": 53.106,
       "rawTime": null,
-      "indexedTime": 53.106
+      "indexedTime": 53.106,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "61.819 +1",
+        "60.348",
+        "65.208 +2"
+      ],
+      "bestRaw": 60.348,
+      "bestPax": 53.106
     },
     {
       "rank": 24,
@@ -1264,7 +2251,17 @@
       "classNumber": "AS #96",
       "time": 53.169,
       "rawTime": null,
-      "indexedTime": 53.169
+      "indexedTime": 53.169,
+      "car": "2018 Porsche Cayman GTS",
+      "runs": [
+        "65.992",
+        "64.449",
+        "63.222 +1",
+        "63.986",
+        "63.982"
+      ],
+      "bestRaw": 63.982,
+      "bestPax": 53.169
     },
     {
       "rank": 25,
@@ -1276,7 +2273,17 @@
       "classNumber": "ST1-SSC #74",
       "time": 53.465,
       "rawTime": null,
-      "indexedTime": 53.465
+      "indexedTime": 53.465,
+      "car": "(SSC) 2013 Scion FR-S",
+      "runs": [
+        "68.852",
+        "67.176",
+        "66.417",
+        "66.794",
+        "67.186 +1"
+      ],
+      "bestRaw": 66.417,
+      "bestPax": 53.465
     },
     {
       "rank": 26,
@@ -1288,7 +2295,17 @@
       "classNumber": "ST1-SST #126",
       "time": 53.62,
       "rawTime": null,
-      "indexedTime": 53.62
+      "indexedTime": 53.62,
+      "car": "(SST) 2024 Toyota Supra",
+      "runs": [
+        "65.091",
+        "63.979",
+        "63.758",
+        "64.206",
+        "63.799"
+      ],
+      "bestRaw": 63.758,
+      "bestPax": 53.62
     },
     {
       "rank": 27,
@@ -1300,7 +2317,17 @@
       "classNumber": "ST1-AST #117",
       "time": 53.664,
       "rawTime": null,
-      "indexedTime": 53.664
+      "indexedTime": 53.664,
+      "car": "(AST) 2020 Mazda TheAnswer",
+      "runs": [
+        "68.927 +1",
+        "65.807",
+        "65.067",
+        "64.377",
+        "63.963"
+      ],
+      "bestRaw": 63.963,
+      "bestPax": 53.664
     },
     {
       "rank": 28,
@@ -1312,7 +2339,17 @@
       "classNumber": "CST #63",
       "time": 53.691,
       "rawTime": null,
-      "indexedTime": 53.691
+      "indexedTime": 53.691,
+      "car": "2009 Mazda Miata",
+      "runs": [
+        "68.046",
+        "72.941",
+        "65.595",
+        "64.943",
+        "64.533"
+      ],
+      "bestRaw": 64.533,
+      "bestPax": 53.691
     },
     {
       "rank": 29,
@@ -1324,7 +2361,17 @@
       "classNumber": "S1-DS #5",
       "time": 53.705,
       "rawTime": null,
-      "indexedTime": 53.705
+      "indexedTime": 53.705,
+      "car": "(DS) 2020 Ford Mustang",
+      "runs": [
+        "70.476",
+        "66.634",
+        "66.467",
+        "67.242",
+        "66.118 +1"
+      ],
+      "bestRaw": 66.467,
+      "bestPax": 53.705
     },
     {
       "rank": 30,
@@ -1336,7 +2383,15 @@
       "classNumber": "S2-HS #14",
       "time": 53.717,
       "rawTime": null,
-      "indexedTime": 53.717
+      "indexedTime": 53.717,
+      "car": "(HS) 2016 Honda Accord",
+      "runs": [
+        "70.139 +1",
+        "69.045",
+        "70.552"
+      ],
+      "bestRaw": 69.045,
+      "bestPax": 53.717
     },
     {
       "rank": 31,
@@ -1348,7 +2403,17 @@
       "classNumber": "ST1-AST #938",
       "time": 53.759,
       "rawTime": null,
-      "indexedTime": 53.759
+      "indexedTime": 53.759,
+      "car": "(AST) 2020 Mazda Mx5 Miata",
+      "runs": [
+        "66.609",
+        "64.910",
+        "64.515",
+        "64.076",
+        "64.289"
+      ],
+      "bestRaw": 64.076,
+      "bestPax": 53.759
     },
     {
       "rank": 32,
@@ -1360,7 +2425,15 @@
       "classNumber": "S2-HS #4",
       "time": 53.809,
       "rawTime": null,
-      "indexedTime": 53.809
+      "indexedTime": 53.809,
+      "car": "(HS) 2016 Honda Accord",
+      "runs": [
+        "70.128",
+        "69.164",
+        "70.097"
+      ],
+      "bestRaw": 69.164,
+      "bestPax": 53.809
     },
     {
       "rank": 33,
@@ -1372,7 +2445,17 @@
       "classNumber": "CAMC #48",
       "time": 53.811,
       "rawTime": null,
-      "indexedTime": 53.811
+      "indexedTime": 53.811,
+      "car": "2016 Ford Shelby GT350",
+      "runs": [
+        "68.387",
+        "65.082 +2",
+        "65.164",
+        "64.046 +1",
+        "64.833"
+      ],
+      "bestRaw": 64.833,
+      "bestPax": 53.811
     },
     {
       "rank": 34,
@@ -1384,7 +2467,17 @@
       "classNumber": "AS #26",
       "time": 53.867,
       "rawTime": null,
-      "indexedTime": 53.867
+      "indexedTime": 53.867,
+      "car": "2004 Chevrolet",
+      "runs": [
+        "65.959",
+        "65.009",
+        "64.823",
+        "70.701",
+        "65.170"
+      ],
+      "bestRaw": 64.823,
+      "bestPax": 53.867
     },
     {
       "rank": 35,
@@ -1396,7 +2489,16 @@
       "classNumber": "ST1-SST #121",
       "time": 53.971,
       "rawTime": null,
-      "indexedTime": 53.971
+      "indexedTime": 53.971,
+      "car": "(SST) 2024 Toyota Supra",
+      "runs": [
+        "70.648",
+        "65.070",
+        "64.638",
+        "64.175"
+      ],
+      "bestRaw": 64.175,
+      "bestPax": 53.971
     },
     {
       "rank": 36,
@@ -1408,7 +2510,16 @@
       "classNumber": "ST1-EST #18",
       "time": 54.003,
       "rawTime": null,
-      "indexedTime": 54.003
+      "indexedTime": 54.003,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "68.937",
+        "67.025",
+        "67.136",
+        "66.507"
+      ],
+      "bestRaw": 66.507,
+      "bestPax": 54.003
     },
     {
       "rank": 37,
@@ -1420,7 +2531,17 @@
       "classNumber": "AS #2",
       "time": 54.138,
       "rawTime": null,
-      "indexedTime": 54.138
+      "indexedTime": 54.138,
+      "car": "2023 Tesla 3",
+      "runs": [
+        "65.179",
+        "65.149",
+        "64.857 +1",
+        "68.248",
+        "66.547"
+      ],
+      "bestRaw": 65.149,
+      "bestPax": 54.138
     },
     {
       "rank": 38,
@@ -1432,7 +2553,17 @@
       "classNumber": "CAMC #74",
       "time": 54.208,
       "rawTime": null,
-      "indexedTime": 54.208
+      "indexedTime": 54.208,
+      "car": "2022 Ford Mustang",
+      "runs": [
+        "68.220",
+        "66.647",
+        "66.181",
+        "64.968 +1",
+        "65.311"
+      ],
+      "bestRaw": 65.311,
+      "bestPax": 54.208
     },
     {
       "rank": 39,
@@ -1444,7 +2575,17 @@
       "classNumber": "CAMS #126",
       "time": 54.465,
       "rawTime": null,
-      "indexedTime": 54.465
+      "indexedTime": 54.465,
+      "car": "2001 Chevrolet Corvette",
+      "runs": [
+        "66.598",
+        "64.316",
+        "64.228",
+        "63.175 +2",
+        "63.517 +1"
+      ],
+      "bestRaw": 64.228,
+      "bestPax": 54.465
     },
     {
       "rank": 40,
@@ -1456,7 +2597,17 @@
       "classNumber": "CST #18",
       "time": 54.887,
       "rawTime": null,
-      "indexedTime": 54.887
+      "indexedTime": 54.887,
+      "car": "2022 Subaru BRZ",
+      "runs": [
+        "65.970",
+        "65.534 +1",
+        "66.363",
+        "66.098",
+        "67.091 +1"
+      ],
+      "bestRaw": 65.97,
+      "bestPax": 54.887
     },
     {
       "rank": 41,
@@ -1468,7 +2619,15 @@
       "classNumber": "BST #35",
       "time": 55.003,
       "rawTime": null,
-      "indexedTime": 55.003
+      "indexedTime": 55.003,
+      "car": "2006 Subaru WRX STi",
+      "runs": [
+        "67.509",
+        "65.637",
+        "67.267"
+      ],
+      "bestRaw": 65.637,
+      "bestPax": 55.003
     },
     {
       "rank": 42,
@@ -1480,7 +2639,17 @@
       "classNumber": "M-FM #67",
       "time": 55.085,
       "rawTime": null,
-      "indexedTime": 55.085
+      "indexedTime": 55.085,
+      "car": "(FM) 1995 RD",
+      "runs": [
+        "61.323",
+        "60.071",
+        "60.524 +1",
+        "68.077",
+        "61.883 +1"
+      ],
+      "bestRaw": 60.071,
+      "bestPax": 55.085
     },
     {
       "rank": 43,
@@ -1492,7 +2661,16 @@
       "classNumber": "SP-CSP #192",
       "time": 55.296,
       "rawTime": null,
-      "indexedTime": 55.296
+      "indexedTime": 55.296,
+      "car": "(CSP) 1990 Mazda Miata",
+      "runs": [
+        "66.113",
+        "64.448",
+        "64.435 +1",
+        "65.054"
+      ],
+      "bestRaw": 64.448,
+      "bestPax": 55.296
     },
     {
       "rank": 44,
@@ -1504,7 +2682,17 @@
       "classNumber": "ST1-AST #412",
       "time": 55.343,
       "rawTime": null,
-      "indexedTime": 55.343
+      "indexedTime": 55.343,
+      "car": "(AST) 2024 Mazda MX-5",
+      "runs": [
+        "68.682 +1",
+        "67.557",
+        "66.554",
+        "65.939 +1",
+        "65.964"
+      ],
+      "bestRaw": 65.964,
+      "bestPax": 55.343
     },
     {
       "rank": 45,
@@ -1516,7 +2704,17 @@
       "classNumber": "AS #57",
       "time": 55.362,
       "rawTime": null,
-      "indexedTime": 55.362
+      "indexedTime": 55.362,
+      "car": "2002 Chevrolet Corvett Z06",
+      "runs": [
+        "68.970",
+        "66.926",
+        "66.622",
+        "72.963",
+        "68.498"
+      ],
+      "bestRaw": 66.622,
+      "bestPax": 55.362
     },
     {
       "rank": 46,
@@ -1528,7 +2726,16 @@
       "classNumber": "SP-CSP #92",
       "time": 55.602,
       "rawTime": null,
-      "indexedTime": 55.602
+      "indexedTime": 55.602,
+      "car": "(CSP) 1991 Mazda Miata",
+      "runs": [
+        "67.101",
+        "66.115",
+        "64.805",
+        "65.615"
+      ],
+      "bestRaw": 64.805,
+      "bestPax": 55.602
     },
     {
       "rank": 47,
@@ -1540,7 +2747,16 @@
       "classNumber": "SPL-CSP #92",
       "time": 55.632,
       "rawTime": null,
-      "indexedTime": 55.632
+      "indexedTime": 55.632,
+      "car": "(CSP) 1990 Mazda Miata",
+      "runs": [
+        "66.199 +1",
+        "66.518",
+        "65.265",
+        "64.840"
+      ],
+      "bestRaw": 64.84,
+      "bestPax": 55.632
     },
     {
       "rank": 48,
@@ -1552,7 +2768,14 @@
       "classNumber": "M-CM #60",
       "time": 55.765,
       "rawTime": null,
-      "indexedTime": 55.765
+      "indexedTime": 55.765,
+      "car": "(CM) 1984 Van Diemen",
+      "runs": [
+        "61.962",
+        "70.633"
+      ],
+      "bestRaw": 61.962,
+      "bestPax": 55.765
     },
     {
       "rank": 49,
@@ -1564,7 +2787,17 @@
       "classNumber": "CAMS #21",
       "time": 55.818,
       "rawTime": null,
-      "indexedTime": 55.818
+      "indexedTime": 55.818,
+      "car": "1972 Chevrolet Corvette",
+      "runs": [
+        "70.912 +2",
+        "67.684",
+        "66.577",
+        "66.080",
+        "65.824"
+      ],
+      "bestRaw": 65.824,
+      "bestPax": 55.818
     },
     {
       "rank": 50,
@@ -1576,7 +2809,17 @@
       "classNumber": "CST #78",
       "time": 55.857,
       "rawTime": null,
-      "indexedTime": 55.857
+      "indexedTime": 55.857,
+      "car": "2024 Subaru BRZ",
+      "runs": [
+        "69.987",
+        "68.218",
+        "67.136",
+        "68.879",
+        "68.222 +1"
+      ],
+      "bestRaw": 67.136,
+      "bestPax": 55.857
     },
     {
       "rank": 51,
@@ -1588,7 +2831,17 @@
       "classNumber": "CAMT #669",
       "time": 55.927,
       "rawTime": null,
-      "indexedTime": 55.927
+      "indexedTime": 55.927,
+      "car": "1969 Chevrolet Camaro",
+      "runs": [
+        "72.427",
+        "68.853",
+        "67.791",
+        "68.043",
+        "68.506"
+      ],
+      "bestRaw": 67.791,
+      "bestPax": 55.927
     },
     {
       "rank": 52,
@@ -1600,7 +2853,14 @@
       "classNumber": "X-XB #161",
       "time": 55.995,
       "rawTime": null,
-      "indexedTime": 55.995
+      "indexedTime": 55.995,
+      "car": "(XB) 1972 Mazda RX3",
+      "runs": [
+        "65.186",
+        "63.631"
+      ],
+      "bestRaw": 63.631,
+      "bestPax": 55.995
     },
     {
       "rank": 53,
@@ -1612,7 +2872,16 @@
       "classNumber": "X-XU #96",
       "time": 56.169,
       "rawTime": null,
-      "indexedTime": 56.169
+      "indexedTime": 56.169,
+      "car": "(XU) Mazda Exocet",
+      "runs": [
+        "63.267 +1",
+        "68.795",
+        "73.365 +1",
+        "78.297"
+      ],
+      "bestRaw": 64.267,
+      "bestPax": 56.169
     },
     {
       "rank": 54,
@@ -1624,7 +2893,17 @@
       "classNumber": "BST #95",
       "time": 56.228,
       "rawTime": null,
-      "indexedTime": 56.228
+      "indexedTime": 56.228,
+      "car": "2009 Nissan 370Z",
+      "runs": [
+        "69.102",
+        "67.098",
+        "67.021 +1",
+        "68.760",
+        "67.284"
+      ],
+      "bestRaw": 67.098,
+      "bestPax": 56.228
     },
     {
       "rank": 55,
@@ -1636,7 +2915,17 @@
       "classNumber": "CAMS #121",
       "time": 56.324,
       "rawTime": null,
-      "indexedTime": 56.324
+      "indexedTime": 56.324,
+      "car": "1972 Chevrolet Corvette",
+      "runs": [
+        "68.983",
+        "66.516 +1",
+        "74.714",
+        "66.420",
+        "66.910"
+      ],
+      "bestRaw": 66.42,
+      "bestPax": 56.324
     },
     {
       "rank": 56,
@@ -1648,7 +2937,17 @@
       "classNumber": "XA #27",
       "time": 56.409,
       "rawTime": null,
-      "indexedTime": 56.409
+      "indexedTime": 56.409,
+      "car": "2002 Honda S2000",
+      "runs": [
+        "70.773",
+        "65.289",
+        "65.351",
+        "70.120",
+        "66.096"
+      ],
+      "bestRaw": 65.289,
+      "bestPax": 56.409
     },
     {
       "rank": 57,
@@ -1660,7 +2959,17 @@
       "classNumber": "X-XB #178",
       "time": 56.561,
       "rawTime": null,
-      "indexedTime": 56.561
+      "indexedTime": 56.561,
+      "car": "(XB) 1990 Mazda Miata",
+      "runs": [
+        "67.035",
+        "64.274",
+        "65.198",
+        "69.614",
+        "66.258"
+      ],
+      "bestRaw": 64.274,
+      "bestPax": 56.561
     },
     {
       "rank": 58,
@@ -1672,7 +2981,17 @@
       "classNumber": "ST1-EST #453",
       "time": 57.317,
       "rawTime": null,
-      "indexedTime": 57.317
+      "indexedTime": 57.317,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "74.901 +1",
+        "72.063",
+        "71.486",
+        "71.474 +1",
+        "70.588"
+      ],
+      "bestRaw": 70.588,
+      "bestPax": 57.317
     },
     {
       "rank": 59,
@@ -1684,7 +3003,17 @@
       "classNumber": "AS #991",
       "time": 57.579,
       "rawTime": null,
-      "indexedTime": 57.579
+      "indexedTime": 57.579,
+      "car": "2013 Porsche Carrera S",
+      "runs": [
+        "71.554",
+        "69.289",
+        "69.967 +2",
+        "71.465",
+        "69.974"
+      ],
+      "bestRaw": 69.289,
+      "bestPax": 57.579
     },
     {
       "rank": 60,
@@ -1696,7 +3025,17 @@
       "classNumber": "S1-DS #511",
       "time": 57.864,
       "rawTime": null,
-      "indexedTime": 57.864
+      "indexedTime": 57.864,
+      "car": "(DS) 2020 Ford Mustang",
+      "runs": [
+        "71.980 +1",
+        "73.026 +1",
+        "74.531 +1",
+        "73.371 +1",
+        "71.614"
+      ],
+      "bestRaw": 71.614,
+      "bestPax": 57.864
     },
     {
       "rank": 61,
@@ -1708,7 +3047,16 @@
       "classNumber": "P-DP #99",
       "time": 58.115,
       "rawTime": null,
-      "indexedTime": 58.115
+      "indexedTime": 58.115,
+      "car": "(DP) 1970 Ford Escort Mexico",
+      "runs": [
+        "67.888 +1",
+        "67.791 +1",
+        "67.185",
+        "69.411"
+      ],
+      "bestRaw": 67.185,
+      "bestPax": 58.115
     },
     {
       "rank": 62,
@@ -1720,7 +3068,17 @@
       "classNumber": "P-CP #16",
       "time": 58.528,
       "rawTime": null,
-      "indexedTime": 58.528
+      "indexedTime": 58.528,
+      "car": "(CP) 1994 Ford Mustang",
+      "runs": [
+        "74.194",
+        "69.747",
+        "68.258",
+        "67.274",
+        "77.008"
+      ],
+      "bestRaw": 67.274,
+      "bestPax": 58.528
     },
     {
       "rank": 63,
@@ -1732,7 +3090,17 @@
       "classNumber": "ST1-AST #45",
       "time": 59.15,
       "rawTime": null,
-      "indexedTime": 59.15
+      "indexedTime": 59.15,
+      "car": "(AST) 2022 Mazda Miata",
+      "runs": [
+        "73.922",
+        "88.275",
+        "73.375 +1",
+        "70.501",
+        "83.459"
+      ],
+      "bestRaw": 70.501,
+      "bestPax": 59.15
     },
     {
       "rank": 64,
@@ -1744,7 +3112,15 @@
       "classNumber": "S2-CS #764",
       "time": 59.254,
       "rawTime": null,
-      "indexedTime": 59.254
+      "indexedTime": 59.254,
+      "car": "(CS) 2019 Mazda Miata RF",
+      "runs": [
+        "74.222",
+        "81.088",
+        "73.063"
+      ],
+      "bestRaw": 73.063,
+      "bestPax": 59.254
     },
     {
       "rank": 65,
@@ -1756,7 +3132,17 @@
       "classNumber": "CST #8",
       "time": 59.42,
       "rawTime": null,
-      "indexedTime": 59.42
+      "indexedTime": 59.42,
+      "car": "2013 Mazda Miata",
+      "runs": [
+        "83.337",
+        "75.841",
+        "74.931",
+        "73.492",
+        "71.419"
+      ],
+      "bestRaw": 71.419,
+      "bestPax": 59.42
     },
     {
       "rank": 66,
@@ -1768,7 +3154,17 @@
       "classNumber": "S2-CS #77",
       "time": 59.535,
       "rawTime": null,
-      "indexedTime": 59.535
+      "indexedTime": 59.535,
+      "car": "(CS) 2010 Mazda Miata",
+      "runs": [
+        "73.917",
+        "73.410",
+        "73.641",
+        "75.622",
+        "73.122 +1"
+      ],
+      "bestRaw": 73.41,
+      "bestPax": 59.535
     },
     {
       "rank": 67,
@@ -1780,7 +3176,18 @@
       "classNumber": "S1-FS #131",
       "time": 59.691,
       "rawTime": null,
-      "indexedTime": 59.691
+      "indexedTime": 59.691,
+      "car": "(FS) 2012 BMW 135i",
+      "runs": [
+        "76.347",
+        "75.084",
+        "73.466",
+        "79.858",
+        "80.584",
+        "72.972"
+      ],
+      "bestRaw": 72.972,
+      "bestPax": 59.691
     },
     {
       "rank": 68,
@@ -1792,7 +3199,17 @@
       "classNumber": "BST #571",
       "time": 59.79,
       "rawTime": null,
-      "indexedTime": 59.79
+      "indexedTime": 59.79,
+      "car": "2021 Subaru WRX STI Limited",
+      "runs": [
+        "72.981",
+        "71.349",
+        "89.693 +1",
+        "77.628",
+        "73.259 +1"
+      ],
+      "bestRaw": 71.349,
+      "bestPax": 59.79
     },
     {
       "rank": 69,
@@ -1804,7 +3221,15 @@
       "classNumber": "P-XP #125",
       "time": 60.063,
       "rawTime": null,
-      "indexedTime": 60.063
+      "indexedTime": 60.063,
+      "car": "(XP) 1987 Mazda Rx7 Turbo",
+      "runs": [
+        "70.664",
+        "67.220",
+        "65.737 +1"
+      ],
+      "bestRaw": 66.737,
+      "bestPax": 60.063
     },
     {
       "rank": 70,
@@ -1816,7 +3241,16 @@
       "classNumber": "CAMC #51",
       "time": 60.141,
       "rawTime": null,
-      "indexedTime": 60.141
+      "indexedTime": 60.141,
+      "car": "2014 Ford Blue Mustang V6",
+      "runs": [
+        "76.854",
+        "74.954",
+        "72.460",
+        "72.766"
+      ],
+      "bestRaw": 72.46,
+      "bestPax": 60.141
     },
     {
       "rank": 71,
@@ -1828,7 +3262,17 @@
       "classNumber": "CAMS #55",
       "time": 60.658,
       "rawTime": null,
-      "indexedTime": 60.658
+      "indexedTime": 60.658,
+      "car": "1998 Chevrolet 98 Corvette C-5 convert",
+      "runs": [
+        "80.794",
+        "76.888",
+        "74.924",
+        "72.743",
+        "71.531"
+      ],
+      "bestRaw": 71.531,
+      "bestPax": 60.658
     },
     {
       "rank": 72,
@@ -1840,7 +3284,15 @@
       "classNumber": "P-CP #27",
       "time": 60.836,
       "rawTime": null,
-      "indexedTime": 60.836
+      "indexedTime": 60.836,
+      "car": "(CP) 1969 Ford Mustang",
+      "runs": [
+        "69.927",
+        "69.008 +1",
+        "76.681"
+      ],
+      "bestRaw": 69.927,
+      "bestPax": 60.836
     },
     {
       "rank": 73,
@@ -1852,7 +3304,17 @@
       "classNumber": "S1-BS #86",
       "time": 61.027,
       "rawTime": null,
-      "indexedTime": 61.027
+      "indexedTime": 61.027,
+      "car": "(BS) 2024 Toyota GR Corolla",
+      "runs": [
+        "80.400",
+        "76.303",
+        "74.631",
+        "76.690",
+        "74.063"
+      ],
+      "bestRaw": 74.063,
+      "bestPax": 61.027
     },
     {
       "rank": 74,
@@ -1864,7 +3326,16 @@
       "classNumber": "SM-SM #35",
       "time": 62.189,
       "rawTime": null,
-      "indexedTime": 62.189
+      "indexedTime": 62.189,
+      "car": "(SM) 2016 Ford focus rs",
+      "runs": [
+        "73.088",
+        "71.257",
+        "71.237",
+        "75.712"
+      ],
+      "bestRaw": 71.237,
+      "bestPax": 62.189
     },
     {
       "rank": 75,
@@ -1876,7 +3347,16 @@
       "classNumber": "S1-FS #31",
       "time": 62.19,
       "rawTime": null,
-      "indexedTime": 62.19
+      "indexedTime": 62.19,
+      "car": "(FS) 2012 BMW 135",
+      "runs": [
+        "78.727",
+        "77.067",
+        "76.028",
+        "77.058 +1"
+      ],
+      "bestRaw": 76.028,
+      "bestPax": 62.19
     },
     {
       "rank": 76,
@@ -1888,7 +3368,17 @@
       "classNumber": "CAMT #508",
       "time": 62.288,
       "rawTime": null,
-      "indexedTime": 62.288
+      "indexedTime": 62.288,
+      "car": "1965 Ford Mustang",
+      "runs": [
+        "81.053",
+        "76.435",
+        "76.994",
+        "75.945",
+        "75.501"
+      ],
+      "bestRaw": 75.501,
+      "bestPax": 62.288
     },
     {
       "rank": 77,
@@ -1900,7 +3390,17 @@
       "classNumber": "STL-EST #435",
       "time": 63.329,
       "rawTime": null,
-      "indexedTime": 63.329
+      "indexedTime": 63.329,
+      "car": "(EST) 1990 Mazda Miata",
+      "runs": [
+        "84.999",
+        "82.556",
+        "81.319",
+        "78.739",
+        "76.992 +1"
+      ],
+      "bestRaw": 77.992,
+      "bestPax": 63.329
     },
     {
       "rank": 78,
@@ -1912,7 +3412,17 @@
       "classNumber": "SM-SSM #66",
       "time": 63.994,
       "rawTime": null,
-      "indexedTime": 63.994
+      "indexedTime": 63.994,
+      "car": "(SSM) 2001 Mazda Miata",
+      "runs": [
+        "75.118",
+        "73.630",
+        "73.109",
+        "78.706",
+        "72.556"
+      ],
+      "bestRaw": 72.556,
+      "bestPax": 63.994
     },
     {
       "rank": 79,
@@ -1924,7 +3434,15 @@
       "classNumber": "SS #196",
       "time": 64.089,
       "rawTime": null,
-      "indexedTime": 64.089
+      "indexedTime": 64.089,
+      "car": "2024 Chevrolet Corvette",
+      "runs": [
+        "78.560",
+        "75.026 +1",
+        "80.340"
+      ],
+      "bestRaw": 76.026,
+      "bestPax": 64.089
     },
     {
       "rank": 80,
@@ -1936,7 +3454,17 @@
       "classNumber": "S1-DS #148",
       "time": 68.24,
       "rawTime": null,
-      "indexedTime": 68.24
+      "indexedTime": 68.24,
+      "car": "(DS) 2005 BMW 330ci",
+      "runs": [
+        "89.925",
+        "87.947",
+        "85.807",
+        "84.630",
+        "84.456"
+      ],
+      "bestRaw": 84.456,
+      "bestPax": 68.24
     }
   ],
   "classes": {
@@ -3700,6 +5228,27 @@
       }
     ]
   },
+  "classOrder": [
+    "AS",
+    "BST",
+    "CAMC",
+    "CAMS",
+    "CAMT",
+    "CST",
+    "EVX",
+    "SS",
+    "XA",
+    "M",
+    "P",
+    "S1",
+    "S2",
+    "SM",
+    "SP",
+    "SPL",
+    "ST1",
+    "STL",
+    "X"
+  ],
   "diagnostics": {
     "sourceLineCount": 688,
     "overallRows": 80,
