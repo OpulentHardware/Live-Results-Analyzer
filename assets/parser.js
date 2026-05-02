@@ -1,182 +1,188 @@
-export function parseSfrLiveText(rawText, options = {}) {
-  const sourceUrl = options.sourceUrl || 'https://live.sfrautox.com/#N';
-  const updatedAt = options.updatedAt || new Date().toISOString();
-  const text = String(rawText || '').replace(/\r/g, '').replace(/\u00a0/g, ' ');
-  const lines = text.split('\n').map(line => line.trim()).filter(Boolean);
+function cleanLine(line) {
+  return String(line || '').replace(/\s+/g, ' ').trim();
+}
 
-  const meta = {
-    title: findTitle(lines),
-    date: findValueAfter(lines, /^Date$/i),
-    participants: findValueAfter(lines, /^Participants$/i),
-    sourceUrl,
-    updatedAt,
-    status: 'ok'
+function toNumber(value) {
+  const num = Number(String(value || '').replace(/,/g, '').trim());
+  return Number.isFinite(num) ? num : null;
+}
+
+function parseMeta(lines) {
+  const participantsLine = lines.find(line => /^Participants:/i.test(line));
+  const dateLine = lines.find(line => /^Date:/i.test(line));
+  const titleLine = lines.find(line => /Live Results/i.test(line));
+
+  return {
+    title: titleLine || 'SFR Live Results',
+    date: dateLine ? dateLine.replace(/^Date:\s*/i, '').trim() : '',
+    participants: participantsLine ? toNumber(participantsLine.replace(/^Participants:\s*/i, '')) : null
   };
-
-  const overall = parseSimpleRanking(lines, 'Overall', ['PAX', 'Class', 'SELECT CLASS']);
-  const pax = parseSimpleRanking(lines, 'PAX', ['Class', 'SELECT CLASS']);
-  const classOrder = parseClassOrder(lines);
-  const classes = parseClassBlocks(lines, classOrder);
-
-  return { meta, overall, pax, classes, classOrder };
 }
 
-function findTitle(lines) {
-  const title = lines.find(line => /Live Results/i.test(line));
-  return title || 'SFR Solo Day of Event Results';
+function parseRankingRow(line, mode = 'overall') {
+  const cleaned = cleanLine(line);
+
+  // Matches rows like:
+  // 1 Tom Exley P-XP #25 58.287
+  // 15 Arvind Govindaraj ST1-AST #1 62.356
+  const match = cleaned.match(/^(\d+)\s+(.+?)\s+([A-Z0-9]+(?:-[A-Z0-9]+)?)\s+(#[A-Za-z0-9]+)\s+(\d+(?:\.\d+)?)$/);
+
+  if (!match) return null;
+
+  const rank = Number(match[1]);
+  const driver = match[2].trim();
+  const cls = match[3].trim();
+  const number = match[4].trim();
+  const time = Number(match[5]);
+
+  return {
+    rank,
+    driver,
+    class: cls,
+    cls,
+    number,
+    classNumber: `${cls} ${number}`,
+    time,
+    rawTime: mode === 'overall' ? time : null,
+    indexedTime: mode === 'pax' ? time : null
+  };
 }
 
-function findValueAfter(lines, labelRegex) {
-  const idx = lines.findIndex(line => labelRegex.test(line));
-  if (idx >= 0 && lines[idx + 1]) return lines[idx + 1];
-  const inline = lines.find(line => labelRegex.test(line));
-  if (!inline) return '';
-  return inline.replace(labelRegex, '').replace(/^[:\s-]+/, '').trim();
-}
+function parseOverallAndPax(lines) {
+  const overall = [];
+  const pax = [];
 
-function isRank(value) {
-  return /^\d+$/.test(String(value || '').trim());
-}
+  let section = '';
 
-function looksLikeTime(value) {
-  return /^\d{1,3}\.\d{3}(\s*(\+\d+|DNF|RRN|OC|OFF|DNS))*$/i.test(String(value || '').trim());
-}
+  for (const line of lines) {
+    const cleaned = cleanLine(line);
 
-function parseSimpleRanking(lines, sectionName, endMarkers) {
-  const start = lines.findIndex(line => line.toLowerCase() === sectionName.toLowerCase());
-  if (start < 0) return [];
+    if (!cleaned) continue;
 
-  let end = lines.length;
-  for (const marker of endMarkers) {
-    const idx = lines.findIndex((line, i) => i > start && line.toLowerCase() === marker.toLowerCase());
-    if (idx > start && idx < end) end = idx;
-  }
-
-  const slice = lines.slice(start + 1, end);
-  const firstRank = slice.findIndex(isRank);
-  if (firstRank < 0) return [];
-
-  const results = [];
-  for (let i = firstRank; i < slice.length;) {
-    if (!isRank(slice[i])) { i++; continue; }
-    const rank = Number(slice[i]);
-    const driver = slice[i + 1] || '';
-    const classNumber = slice[i + 2] || '';
-    const time = slice[i + 3] || '';
-
-    if (!driver || !classNumber || !time || !looksLikeTime(time)) {
-      i++;
+    if (/^Overall$/i.test(cleaned)) {
+      section = 'overall';
       continue;
     }
 
-    results.push({ rank, driver, classNumber, time: cleanTime(time) });
-    i += 4;
-  }
-  return results;
-}
-
-function parseClassOrder(lines) {
-  const idx = lines.findIndex(line => /^SELECT CLASS$/i.test(line));
-  if (idx < 0) return [];
-  const knownStop = new Set(['Position', 'Driver', 'Car', 'Best Raw', 'Best Pax', 'Raw Times']);
-  const order = [];
-  for (let i = idx + 1; i < lines.length; i++) {
-    const line = lines[i];
-    if (knownStop.has(line)) break;
-    if (/^[A-Z0-9-]{1,8}$/.test(line)) order.push(line);
-    if (order.length > 40) break;
-  }
-  return [...new Set(order)];
-}
-
-function parseClassBlocks(lines, classOrder) {
-  const classes = {};
-  const order = classOrder.length ? classOrder : inferClassNames(lines);
-
-  order.forEach((cls, index) => {
-    const start = findClassStart(lines, cls);
-    if (start < 0) return;
-
-    let end = lines.length;
-    for (let j = index + 1; j < order.length; j++) {
-      const next = findClassStart(lines, order[j], start + 1);
-      if (next > start) { end = next; break; }
+    if (/^PAX$/i.test(cleaned)) {
+      section = 'pax';
+      continue;
     }
 
-    const rows = parseOneClass(lines.slice(start, end), cls);
-    if (rows.length) classes[cls] = rows;
+    if (/^Class$/i.test(cleaned) || /^SELECT CLASS/i.test(cleaned)) {
+      section = '';
+      continue;
+    }
+
+    if (/^Rank Driver/i.test(cleaned)) continue;
+    if (/^Overall Class PAX$/i.test(cleaned)) continue;
+
+    if (section === 'overall') {
+      const row = parseRankingRow(cleaned, 'overall');
+      if (row) overall.push(row);
+    }
+
+    if (section === 'pax') {
+      const row = parseRankingRow(cleaned, 'pax');
+      if (row) pax.push(row);
+    }
+  }
+
+  return { overall, pax };
+}
+
+function looksLikeClassHeader(line) {
+  const cleaned = cleanLine(line);
+  return /^[A-Z0-9]{1,4}$/.test(cleaned) || /^(AS|BS|CS|DS|ES|FS|GS|HS|S1|S2|S3|S4|ST1|ST2|STL|CST|DST|AST|BST|CAMC|CAMS|CAMT|EVX|XA|XB|XS|M|P|SS|SP|SM|SPL)$/i.test(cleaned);
+}
+
+function parseClassRow(line, currentClass) {
+  const cleaned = cleanLine(line);
+
+  // Very loose fallback for class detail rows.
+  // Expected source can vary, so this captures:
+  // position, driver, best raw, best pax, and leaves middle text as car/runs candidate.
+  const match = cleaned.match(/^(\d+)\s+(.+?)\s+(\d+(?:\.\d+)?)\s+(\d+(?:\.\d+)?)(?:\s+(.+))?$/);
+  if (!match) return null;
+
+  return {
+    position: Number(match[1]),
+    rank: Number(match[1]),
+    driver: match[2].trim(),
+    class: currentClass,
+    cls: currentClass,
+    car: '',
+    bestRaw: Number(match[3]),
+    bestPax: Number(match[4]),
+    runs: match[5] ? match[5].trim().split(/\s+/) : []
+  };
+}
+
+function parseClasses(lines) {
+  const classes = {};
+  let currentClass = '';
+  let inClassArea = false;
+
+  for (const line of lines) {
+    const cleaned = cleanLine(line);
+    if (!cleaned) continue;
+
+    if (/^SELECT CLASS/i.test(cleaned)) {
+      inClassArea = true;
+      continue;
+    }
+
+    if (!inClassArea) continue;
+
+    if (looksLikeClassHeader(cleaned)) {
+      currentClass = cleaned.toUpperCase();
+      if (!classes[currentClass]) classes[currentClass] = [];
+      continue;
+    }
+
+    if (/^(Pos|Position|Rank)\s+Driver/i.test(cleaned)) continue;
+    if (!currentClass) continue;
+
+    const row = parseClassRow(cleaned, currentClass);
+    if (row) classes[currentClass].push(row);
+  }
+
+  Object.keys(classes).forEach(cls => {
+    if (!classes[cls].length) delete classes[cls];
   });
 
   return classes;
 }
 
-function inferClassNames(lines) {
-  const names = [];
-  for (let i = 0; i < lines.length - 6; i++) {
-    if (/^[A-Z0-9-]{1,8}$/.test(lines[i]) && lines[i + 1] === 'Position' && lines[i + 2] === 'Driver') {
-      names.push(lines[i]);
+export function parseSfrLiveText(sourceText, options = {}) {
+  const lines = String(sourceText || '')
+    .split(/\r?\n/)
+    .map(cleanLine)
+    .filter(Boolean);
+
+  const meta = parseMeta(lines);
+  const { overall, pax } = parseOverallAndPax(lines);
+  const classes = parseClasses(lines);
+
+  return {
+    status: 'ok',
+    sourceUrl: options.sourceUrl || 'https://live.sfrautox.com/#N',
+    updatedAt: options.updatedAt || new Date().toISOString(),
+    event: meta,
+    meta,
+    title: meta.title,
+    date: meta.date,
+    participants: meta.participants,
+    overall,
+    pax,
+    classes,
+    diagnostics: {
+      sourceLineCount: lines.length,
+      overallRows: overall.length,
+      paxRows: pax.length,
+      classGroups: Object.keys(classes).length
     }
-  }
-  return [...new Set(names)];
+  };
 }
 
-function findClassStart(lines, cls, fromIndex = 0) {
-  for (let i = fromIndex; i < lines.length - 6; i++) {
-    if (lines[i] === cls && lines[i + 1] === 'Position' && lines[i + 2] === 'Driver') return i;
-  }
-  return -1;
-}
-
-function parseOneClass(block, cls) {
-  const headerEnd = block.findIndex(line => line === 'Raw Times');
-  if (headerEnd < 0) return [];
-
-  const rows = [];
-  let i = headerEnd + 1;
-  while (i < block.length) {
-    if (!isRank(block[i])) { i++; continue; }
-
-    const position = Number(block[i]);
-    const driver = block[i + 1] || '';
-    let cursor = i + 2;
-
-    const carParts = [];
-    while (cursor < block.length && !looksLikeTime(block[cursor])) {
-      if (isRank(block[cursor]) && carParts.length > 0) break;
-      carParts.push(block[cursor]);
-      cursor++;
-    }
-
-    const bestRaw = block[cursor] || '';
-    const bestPax = block[cursor + 1] || '';
-    cursor += 2;
-
-    const runs = [];
-    while (cursor < block.length && !isRank(block[cursor])) {
-      if (looksLikeTime(block[cursor]) || /^(DNF|DNS|RRN|OC|OFF)$/i.test(block[cursor])) {
-        runs.push(cleanTime(block[cursor]));
-      }
-      cursor++;
-    }
-
-    if (driver && bestRaw) {
-      rows.push({
-        position,
-        driver,
-        className: cls,
-        car: carParts.join(' ').trim(),
-        bestRaw: cleanTime(bestRaw),
-        bestPax: cleanTime(bestPax),
-        runs
-      });
-    }
-
-    i = Math.max(cursor, i + 1);
-  }
-
-  return rows;
-}
-
-function cleanTime(value) {
-  return String(value || '').replace(/\s+/g, ' ').trim();
-}
+export default parseSfrLiveText;
