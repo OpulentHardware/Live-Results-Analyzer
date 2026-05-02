@@ -17,7 +17,7 @@ function formatTime(value) {
   return isTime(num) ? Number(num.toFixed(3)) : null;
 }
 
-function parseMeta(lines) {
+function parseMeta(lines, options = {}) {
   const participantsLine = lines.find(line => /^Participants:/i.test(line));
   const dateLine = lines.find(line => /^Date:/i.test(line));
   const titleLine = lines.find(line => /Live Results/i.test(line));
@@ -25,7 +25,10 @@ function parseMeta(lines) {
   return {
     title: titleLine || 'SFR Live Results',
     date: dateLine ? dateLine.replace(/^Date:\s*/i, '').trim() : '',
-    participants: participantsLine ? toNumber(participantsLine.replace(/^Participants:\s*/i, '')) : null
+    participants: participantsLine ? toNumber(participantsLine.replace(/^Participants:\s*/i, '')) : null,
+    sourceUrl: options.sourceUrl || 'https://live.sfrautox.com/#N',
+    updatedAt: options.updatedAt || new Date().toISOString(),
+    status: 'ok'
   };
 }
 
@@ -56,7 +59,9 @@ function parseRankingRow(line, mode = 'overall') {
     classNumber: `${cls} ${number}`,
     time,
     rawTime: mode === 'overall' ? time : null,
-    indexedTime: mode === 'pax' ? time : null
+    indexedTime: mode === 'pax' ? time : null,
+    car: '',
+    runs: []
   };
 }
 
@@ -241,6 +246,8 @@ function parseClassStartLine(line, currentClass) {
 
 function parseClasses(lines) {
   const classes = {};
+  const classOrder = [];
+
   let inClassView = false;
   let afterClassTableHeader = false;
   let currentClass = '';
@@ -279,12 +286,14 @@ function parseClasses(lines) {
     if (looksLikeClassHeader(cleaned)) {
       pushCurrentRow();
       currentClass = cleaned.toUpperCase();
+
       if (!classes[currentClass]) classes[currentClass] = [];
+      if (!classOrder.includes(currentClass)) classOrder.push(currentClass);
+
       continue;
     }
 
     if (isNoise(cleaned)) continue;
-
     if (!currentClass) continue;
 
     const startRow = parseClassStartLine(cleaned, currentClass);
@@ -311,7 +320,63 @@ function parseClasses(lines) {
     }
   });
 
-  return classes;
+  return {
+    classes,
+    classOrder: classOrder.filter(cls => classes[cls]?.length)
+  };
+}
+
+function normalizeKey(value) {
+  return String(value || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9#]+/g, '')
+    .trim();
+}
+
+function buildClassLookup(classes) {
+  const lookup = new Map();
+
+  Object.values(classes || {}).forEach(rows => {
+    rows.forEach(row => {
+      const keys = [
+        `${row.cls}|${row.number}|${row.driver}`,
+        `${row.class}|${row.number}|${row.driver}`,
+        `${row.number}|${row.driver}`,
+        `${row.driver}`
+      ];
+
+      keys.forEach(key => {
+        lookup.set(normalizeKey(key), row);
+      });
+    });
+  });
+
+  return lookup;
+}
+
+function enrichRankingRowsWithCars(rows, classes) {
+  const lookup = buildClassLookup(classes);
+
+  return rows.map(row => {
+    const keys = [
+      `${row.cls}|${row.number}|${row.driver}`,
+      `${row.class}|${row.number}|${row.driver}`,
+      `${row.number}|${row.driver}`,
+      `${row.driver}`
+    ];
+
+    const match = keys
+      .map(key => lookup.get(normalizeKey(key)))
+      .find(Boolean);
+
+    return {
+      ...row,
+      car: match?.car || row.car || '',
+      bestRaw: match?.bestRaw ?? row.bestRaw ?? row.rawTime ?? null,
+      bestPax: match?.bestPax ?? row.bestPax ?? row.indexedTime ?? null,
+      runs: match?.runs || row.runs || []
+    };
+  });
 }
 
 export function parseSfrLiveText(sourceText, options = {}) {
@@ -320,14 +385,20 @@ export function parseSfrLiveText(sourceText, options = {}) {
     .map(cleanLine)
     .filter(Boolean);
 
-  const meta = parseMeta(lines);
-  const { overall, pax } = parseOverallAndPax(lines);
-  const classes = parseClasses(lines);
+  const meta = parseMeta(lines, options);
+  const parsedRankings = parseOverallAndPax(lines);
+  const parsedClasses = parseClasses(lines);
+
+  const classes = parsedClasses.classes;
+  const classOrder = parsedClasses.classOrder;
+
+  const overall = enrichRankingRowsWithCars(parsedRankings.overall, classes);
+  const pax = enrichRankingRowsWithCars(parsedRankings.pax, classes);
 
   return {
     status: 'ok',
-    sourceUrl: options.sourceUrl || 'https://live.sfrautox.com/#N',
-    updatedAt: options.updatedAt || new Date().toISOString(),
+    sourceUrl: meta.sourceUrl,
+    updatedAt: meta.updatedAt,
 
     event: meta,
     meta,
@@ -338,6 +409,7 @@ export function parseSfrLiveText(sourceText, options = {}) {
     overall,
     pax,
     classes,
+    classOrder,
 
     diagnostics: {
       sourceLineCount: lines.length,
