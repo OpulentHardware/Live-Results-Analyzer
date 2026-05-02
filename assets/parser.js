@@ -32,9 +32,6 @@ function parseMeta(lines) {
 function parseRankingRow(line, mode = 'overall') {
   const cleaned = cleanLine(line);
 
-  // Matches:
-  // 1 Tom Exley P-XP #25 58.287
-  // 15 Arvind Govindaraj ST1-AST #1 62.356
   const match = cleaned.match(
     /^(\d+)\s+(.+?)\s+([A-Z0-9]+(?:-[A-Z0-9]+)?)\s+(#[A-Za-z0-9]+)\s+(\d+(?:\.\d+)?)$/
   );
@@ -66,7 +63,6 @@ function parseRankingRow(line, mode = 'overall') {
 function parseOverallAndPax(lines) {
   const overall = [];
   const pax = [];
-
   let section = '';
 
   for (const line of lines) {
@@ -135,15 +131,14 @@ const KNOWN_CLASSES = new Set([
   'SM', 'SMF', 'SSM',
   'SP', 'SPL',
   'S1', 'S2', 'S3', 'S4',
-  'N', 'NS'
+  'X', 'N', 'NS'
 ]);
 
 function looksLikeClassHeader(line) {
-  const cleaned = cleanLine(line).toUpperCase();
-  return KNOWN_CLASSES.has(cleaned);
+  return KNOWN_CLASSES.has(cleanLine(line).toUpperCase());
 }
 
-function isHeaderOrNoise(line) {
+function isNoise(line) {
   const cleaned = cleanLine(line);
 
   return (
@@ -161,43 +156,29 @@ function isHeaderOrNoise(line) {
   );
 }
 
-function parseRunToken(token) {
-  const cleaned = cleanLine(token);
+function isRunLine(line) {
+  const cleaned = cleanLine(line);
 
-  if (!cleaned) return null;
+  return (
+    /^\d{2,3}\.\d{3}(\s+\+\d+)?$/i.test(cleaned) ||
+    /^(DNF|DNS|RRN|OFF|DSQ)$/i.test(cleaned)
+  );
+}
 
-  if (/^(DNF|DNS|RRN|OFF|DSQ)$/i.test(cleaned)) {
-    return cleaned.toUpperCase();
-  }
-
-  // Times with penalties:
-  // 63.855+1
-  // 63.855 +1
-  // 63.855+2
-  if (/^\d{2,3}\.\d{3}\+?\d*$/i.test(cleaned)) {
-    return cleaned;
-  }
-
-  if (/^\+\d+$/.test(cleaned)) {
-    return cleaned;
-  }
-
-  return null;
+function parseRunLine(line) {
+  return cleanLine(line);
 }
 
 function splitDriverNumberCar(leftText) {
   const cleaned = cleanLine(leftText);
 
-  // Typical left side:
-  // Shelly Monfort #196 2018 Porsche Cayman GTS 2.5
-  // Michael Scott #2 2023 Tesla Model 3
-  const numberMatch = cleaned.match(/^(.*?)\s+(#[A-Za-z0-9]+)\s+(.+)$/);
+  const match = cleaned.match(/^(.*?)\s+(#[A-Za-z0-9]+)\s+(.+)$/);
 
-  if (numberMatch) {
+  if (match) {
     return {
-      driver: numberMatch[1].trim(),
-      number: numberMatch[2].trim(),
-      car: numberMatch[3].trim()
+      driver: match[1].trim(),
+      number: match[2].trim(),
+      car: match[3].trim()
     };
   }
 
@@ -208,60 +189,35 @@ function splitDriverNumberCar(leftText) {
   };
 }
 
-function parseClassRow(line, currentClass) {
+function parseClassStartLine(line, currentClass) {
   const cleaned = cleanLine(line);
-  if (!cleaned || !currentClass) return null;
 
-  const tokens = cleaned.split(' ');
-  if (!tokens.length) return null;
+  const startMatch = cleaned.match(/^(\d+)\s+(.+)$/);
+  if (!startMatch) return null;
 
-  const positionToken = tokens.shift();
-  const position = Number(positionToken);
+  const position = Number(startMatch[1]);
+  if (!Number.isInteger(position) || position < 1 || position > 999) return null;
 
-  if (!Number.isInteger(position) || position < 1 || position > 999) {
-    return null;
-  }
+  const rest = startMatch[2].trim();
+  const tokens = rest.split(' ');
 
-  // We parse from the right side because car names often contain misleading numbers:
-  // "Porsche Cayman GTS 2.5"
-  // "Tesla Model 3"
-  // "2004 Chevrolet"
-  //
-  // The timing values are near the end of the line.
-  const runTokens = [];
-  const timingTokens = [];
+  const timeIndexes = [];
+  tokens.forEach((token, index) => {
+    if (isTime(token)) timeIndexes.push(index);
+  });
 
-  while (tokens.length) {
-    const last = tokens[tokens.length - 1];
+  if (timeIndexes.length < 2) return null;
 
-    if (parseRunToken(last)) {
-      runTokens.unshift(tokens.pop());
-      continue;
-    }
+  const bestRawIndex = timeIndexes[timeIndexes.length - 2];
+  const bestPaxIndex = timeIndexes[timeIndexes.length - 1];
 
-    if (isTime(last)) {
-      timingTokens.unshift(tokens.pop());
-      continue;
-    }
+  const bestRaw = formatTime(tokens[bestRawIndex]);
+  const bestPax = formatTime(tokens[bestPaxIndex]);
 
-    break;
-  }
+  if (!bestRaw || !bestPax) return null;
 
-  // We need at least Best Raw and Best PAX.
-  // Some source layouts may include only those two times.
-  if (timingTokens.length < 2) {
-    return null;
-  }
-
-  const bestRaw = formatTime(timingTokens[0]);
-  const bestPax = formatTime(timingTokens[1]);
-
-  if (!bestRaw || !bestPax) {
-    return null;
-  }
-
-  const leftText = tokens.join(' ');
-  const { driver, number, car } = splitDriverNumberCar(leftText);
+  const leftTokens = tokens.slice(0, bestRawIndex);
+  const { driver, number, car } = splitDriverNumberCar(leftTokens.join(' '));
 
   if (!driver) return null;
 
@@ -279,48 +235,73 @@ function parseClassRow(line, currentClass) {
     rawTime: bestRaw,
     indexedTime: bestPax,
     time: bestRaw,
-    runs: runTokens
+    runs: []
   };
 }
 
 function parseClasses(lines) {
   const classes = {};
+  let inClassView = false;
+  let afterClassTableHeader = false;
   let currentClass = '';
-  let inClassArea = false;
+  let currentRow = null;
+
+  function pushCurrentRow() {
+    if (!currentClass || !currentRow) return;
+    if (!classes[currentClass]) classes[currentClass] = [];
+    classes[currentClass].push(currentRow);
+    currentRow = null;
+  }
 
   for (const line of lines) {
     const cleaned = cleanLine(line);
     if (!cleaned) continue;
 
     if (/^\[\[CLASS_VIEW\]\]$/i.test(cleaned)) {
-      inClassArea = true;
+      inClassView = true;
+      afterClassTableHeader = false;
       currentClass = '';
+      currentRow = null;
       continue;
     }
 
-    if (/^SELECT CLASS/i.test(cleaned)) {
-      inClassArea = true;
+    if (!inClassView) continue;
+
+    if (/^Position\s+Driver\s+Car\s+Best Raw\s+Best Pax\s+Raw Times$/i.test(cleaned)) {
+      afterClassTableHeader = true;
       currentClass = '';
+      pushCurrentRow();
       continue;
     }
 
-    if (!inClassArea) continue;
-
-    if (isHeaderOrNoise(cleaned)) continue;
+    if (!afterClassTableHeader) continue;
 
     if (looksLikeClassHeader(cleaned)) {
+      pushCurrentRow();
       currentClass = cleaned.toUpperCase();
       if (!classes[currentClass]) classes[currentClass] = [];
       continue;
     }
 
+    if (isNoise(cleaned)) continue;
+
     if (!currentClass) continue;
 
-    const row = parseClassRow(cleaned, currentClass);
-    if (row) {
-      classes[currentClass].push(row);
+    const startRow = parseClassStartLine(cleaned, currentClass);
+
+    if (startRow) {
+      pushCurrentRow();
+      currentRow = startRow;
+      continue;
+    }
+
+    if (currentRow && isRunLine(cleaned)) {
+      currentRow.runs.push(parseRunLine(cleaned));
+      continue;
     }
   }
+
+  pushCurrentRow();
 
   Object.keys(classes).forEach(cls => {
     if (!classes[cls].length) {
