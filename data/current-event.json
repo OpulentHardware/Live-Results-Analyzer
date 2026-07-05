@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "sourceUrl": "https://live.sfrautox.com/#N",
-  "updatedAt": "2026-07-04T23:26:27.017Z",
+  "updatedAt": "2026-07-05T01:17:26.693Z",
   "event": {
     "title": "2026 AAS #09 Live Results",
     "date": "2026-07-04",
     "participants": 140,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-07-04T23:26:27.017Z",
+    "updatedAt": "2026-07-05T01:17:26.693Z",
     "status": "ok"
   },
   "meta": {
@@ -15,7 +15,7 @@
     "date": "2026-07-04",
     "participants": 140,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-07-04T23:26:27.017Z",
+    "updatedAt": "2026-07-05T01:17:26.693Z",
     "status": "ok"
   },
   "title": "2026 AAS #09 Live Results",
@@ -850,27 +850,6 @@
     {
       "rank": 41,
       "position": 41,
-      "driver": "Tom Kubo",
-      "class": "SP-CSP",
-      "cls": "SP-CSP",
-      "number": "#92",
-      "classNumber": "SP-CSP #92",
-      "time": 82.42,
-      "rawTime": 82.42,
-      "indexedTime": null,
-      "car": "(CSP) 1991 Mazda Miata",
-      "runs": [
-        "84.160",
-        "83.868",
-        "82.420 +1",
-        "83.218"
-      ],
-      "bestRaw": 82.42,
-      "bestPax": 70.716
-    },
-    {
-      "rank": 42,
-      "position": 42,
       "driver": "Douglas Hargrove",
       "class": "M-FM",
       "cls": "M-FM",
@@ -890,8 +869,8 @@
       "bestPax": 75.645
     },
     {
-      "rank": 43,
-      "position": 43,
+      "rank": 42,
+      "position": 42,
       "driver": "Aris Perez",
       "class": "ST1-AST",
       "cls": "ST1-AST",
@@ -911,8 +890,8 @@
       "bestPax": 69.299
     },
     {
-      "rank": 44,
-      "position": 44,
+      "rank": 43,
+      "position": 43,
       "driver": "Rich Lee",
       "class": "S1-BS",
       "cls": "S1-BS",
@@ -932,8 +911,8 @@
       "bestPax": 68.101
     },
     {
-      "rank": 45,
-      "position": 45,
+      "rank": 44,
+      "position": 44,
       "driver": "Andre Piernot",
       "class": "AS",
       "cls": "AS",
@@ -953,8 +932,8 @@
       "bestPax": 68.7
     },
     {
-      "rank": 46,
-      "position": 46,
+      "rank": 45,
+      "position": 45,
       "driver": "Jesus Villarreal",
       "class": "SP-SSP",
       "cls": "SP-SSP",
@@ -974,8 +953,8 @@
       "bestPax": 71.389
     },
     {
-      "rank": 47,
-      "position": 47,
+      "rank": 46,
+      "position": 46,
       "driver": "Cody Mountjoy",
       "class": "S1-BS",
       "cls": "S1-BS",
@@ -995,8 +974,8 @@
       "bestPax": 68.181
     },
     {
-      "rank": 48,
-      "position": 48,
+      "rank": 47,
+      "position": 47,
       "driver": "Yon Visell",
       "class": "BST",
       "cls": "BST",
@@ -1016,8 +995,8 @@
       "bestPax": 69.373
     },
     {
-      "rank": 49,
-      "position": 49,
+      "rank": 48,
+      "position": 48,
       "driver": "Cameron Drudge",
       "class": "ST1-SST",
       "cls": "ST1-SST",
@@ -1037,8 +1016,8 @@
       "bestPax": 69.63
     },
     {
-      "rank": 50,
-      "position": 50,
+      "rank": 49,
+      "position": 49,
       "driver": "Khoa Cao",
       "class": "XA",
       "cls": "XA",
@@ -1059,8 +1038,8 @@
       "bestPax": 71.745
     },
     {
-      "rank": 51,
-      "position": 51,
+      "rank": 50,
+      "position": 50,
       "driver": "Anthony Topalian",
       "class": "CAMS",
       "cls": "CAMS",
@@ -1078,6 +1057,27 @@
       ],
       "bestRaw": 83.142,
       "bestPax": 70.504
+    },
+    {
+      "rank": 51,
+      "position": 51,
+      "driver": "Tom Kubo",
+      "class": "SP-CSP",
+      "cls": "SP-CSP",
+      "number": "#92",
+      "classNumber": "SP-CSP #92",
+      "time": 83.218,
+      "rawTime": 83.218,
+      "indexedTime": null,
+      "car": "(CSP) 1991 Mazda Miata",
+      "runs": [
+        "84.160",
+        "83.868",
+        "82.420 +1",
+        "83.218"
+      ],
+      "bestRaw": 83.218,
+      "bestPax": 71.401
     },
     {
       "rank": 52,
@@ -4310,27 +4310,6 @@
     {
       "rank": 68,
       "position": 68,
-      "driver": "Tom Kubo",
-      "class": "SP-CSP",
-      "cls": "SP-CSP",
-      "number": "#92",
-      "classNumber": "SP-CSP #92",
-      "time": 70.716,
-      "rawTime": null,
-      "indexedTime": 70.716,
-      "car": "(CSP) 1991 Mazda Miata",
-      "runs": [
-        "84.160",
-        "83.868",
-        "82.420 +1",
-        "83.218"
-      ],
-      "bestRaw": 82.42,
-      "bestPax": 70.716
-    },
-    {
-      "rank": 69,
-      "position": 69,
       "driver": "Ken Mollenauer",
       "class": "AS",
       "cls": "AS",
@@ -4350,8 +4329,8 @@
       "bestPax": 70.83
     },
     {
-      "rank": 70,
-      "position": 70,
+      "rank": 69,
+      "position": 69,
       "driver": "Chad Ryker",
       "class": "CAMS",
       "cls": "CAMS",
@@ -4370,8 +4349,8 @@
       "bestPax": 71.042
     },
     {
-      "rank": 71,
-      "position": 71,
+      "rank": 70,
+      "position": 70,
       "driver": "Teresa Neidel-McKee",
       "class": "X-XB",
       "cls": "X-XB",
@@ -4388,8 +4367,8 @@
       "bestPax": 71.063
     },
     {
-      "rank": 72,
-      "position": 72,
+      "rank": 71,
+      "position": 71,
       "driver": "Brian Hobaugh",
       "class": "XA",
       "cls": "XA",
@@ -4409,8 +4388,8 @@
       "bestPax": 71.079
     },
     {
-      "rank": 73,
-      "position": 73,
+      "rank": 72,
+      "position": 72,
       "driver": "Tom Ellam",
       "class": "X-XB",
       "cls": "X-XB",
@@ -4429,8 +4408,8 @@
       "bestPax": 71.171
     },
     {
-      "rank": 74,
-      "position": 74,
+      "rank": 73,
+      "position": 73,
       "driver": "SEAN BREESE",
       "class": "CAMS",
       "cls": "CAMS",
@@ -4450,8 +4429,8 @@
       "bestPax": 71.218
     },
     {
-      "rank": 75,
-      "position": 75,
+      "rank": 74,
+      "position": 74,
       "driver": "Brianne Maier",
       "class": "P-CP",
       "cls": "P-CP",
@@ -4470,8 +4449,8 @@
       "bestPax": 71.247
     },
     {
-      "rank": 76,
-      "position": 76,
+      "rank": 75,
+      "position": 75,
       "driver": "David Anderson",
       "class": "S2-CS",
       "cls": "S2-CS",
@@ -4491,8 +4470,8 @@
       "bestPax": 71.265
     },
     {
-      "rank": 77,
-      "position": 77,
+      "rank": 76,
+      "position": 76,
       "driver": "Katja Seltmann",
       "class": "BST",
       "cls": "BST",
@@ -4512,8 +4491,8 @@
       "bestPax": 71.31
     },
     {
-      "rank": 78,
-      "position": 78,
+      "rank": 77,
+      "position": 77,
       "driver": "Jesus Villarreal",
       "class": "SP-SSP",
       "cls": "SP-SSP",
@@ -4531,6 +4510,27 @@
       ],
       "bestRaw": 82.722,
       "bestPax": 71.389
+    },
+    {
+      "rank": 78,
+      "position": 78,
+      "driver": "Tom Kubo",
+      "class": "SP-CSP",
+      "cls": "SP-CSP",
+      "number": "#92",
+      "classNumber": "SP-CSP #92",
+      "time": 71.401,
+      "rawTime": null,
+      "indexedTime": 71.401,
+      "car": "(CSP) 1991 Mazda Miata",
+      "runs": [
+        "84.160",
+        "83.868",
+        "82.420 +1",
+        "83.218"
+      ],
+      "bestRaw": 83.218,
+      "bestPax": 71.401
     },
     {
       "rank": 79,
@@ -8140,27 +8140,6 @@
       {
         "position": 3,
         "rank": 3,
-        "driver": "Tom Kubo",
-        "class": "SP",
-        "cls": "SP",
-        "number": "#92",
-        "car": "(CSP) 1991 Mazda Miata",
-        "classNumber": "SP #92",
-        "bestRaw": 82.42,
-        "bestPax": 70.716,
-        "rawTime": 82.42,
-        "indexedTime": 70.716,
-        "time": 82.42,
-        "runs": [
-          "84.160",
-          "83.868",
-          "82.420 +1",
-          "83.218"
-        ]
-      },
-      {
-        "position": 4,
-        "rank": 4,
         "driver": "Jesus Villarreal",
         "class": "SP",
         "cls": "SP",
@@ -8177,6 +8156,27 @@
           "83.661",
           "83.479",
           "82.722"
+        ]
+      },
+      {
+        "position": 4,
+        "rank": 4,
+        "driver": "Tom Kubo",
+        "class": "SP",
+        "cls": "SP",
+        "number": "#92",
+        "car": "(CSP) 1991 Mazda Miata",
+        "classNumber": "SP #92",
+        "bestRaw": 83.218,
+        "bestPax": 71.401,
+        "rawTime": 83.218,
+        "indexedTime": 71.401,
+        "time": 83.218,
+        "runs": [
+          "84.160",
+          "83.868",
+          "82.420 +1",
+          "83.218"
         ]
       },
       {

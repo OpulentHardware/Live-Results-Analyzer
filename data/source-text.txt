@@ -47,17 +47,17 @@ Rank	Driver	Class - Number	Time
 38	Shelly Monfort	AS #196	82.124
 39	Brian Hobaugh	XA #132	82.268
 40	Steve Mclaughlin	SP-ESP #911	82.276
-41	Tom Kubo	SP-CSP #92	82.420
-42	Douglas Hargrove	M-FM #17	82.492
-43	Aris Perez	ST1-AST #845	82.598
-44	Rich Lee	S1-BS #99	82.648
-45	Andre Piernot	AS #9	82.672
-46	Jesus Villarreal	SP-SSP #261	82.722
-47	Cody Mountjoy	S1-BS #32	82.744
-48	Yon Visell	BST #131	82.785
-49	Cameron Drudge	ST1-SST #12	82.795
-50	Khoa Cao	XA #115	83.039
-51	Anthony Topalian	CAMS #586	83.142
+41	Douglas Hargrove	M-FM #17	82.492
+42	Aris Perez	ST1-AST #845	82.598
+43	Rich Lee	S1-BS #99	82.648
+44	Andre Piernot	AS #9	82.672
+45	Jesus Villarreal	SP-SSP #261	82.722
+46	Cody Mountjoy	S1-BS #32	82.744
+47	Yon Visell	BST #131	82.785
+48	Cameron Drudge	ST1-SST #12	82.795
+49	Khoa Cao	XA #115	83.039
+50	Anthony Topalian	CAMS #586	83.142
+51	Tom Kubo	SP-CSP #92	83.218
 52	Michael Ansell	P-CP #177	83.268
 53	Ken Yeo	CAMS #7	83.277
 54	Rob Boynton	SP-SSP #198	83.279
@@ -224,17 +224,17 @@ Rank	Driver	Class - Number	Indexed Time
 65	Ken Yeo	CAMS #7	70.618
 66	Ryan Yee	EVX #73	70.622
 67	Isaac Acks	XA #71	70.672
-68	Tom Kubo	SP-CSP #92	70.716
-69	Ken Mollenauer	AS #96	70.830
-70	Chad Ryker	CAMS #178	71.042
-71	Teresa Neidel-McKee	X-XB #41	71.063
-72	Brian Hobaugh	XA #132	71.079
-73	Tom Ellam	X-XB #161	71.171
-74	SEAN BREESE	CAMS #189	71.218
-75	Brianne Maier	P-CP #336	71.247
-76	David Anderson	S2-CS #43	71.265
-77	Katja Seltmann	BST #31	71.310
-78	Jesus Villarreal	SP-SSP #261	71.389
+68	Ken Mollenauer	AS #96	70.830
+69	Chad Ryker	CAMS #178	71.042
+70	Teresa Neidel-McKee	X-XB #41	71.063
+71	Brian Hobaugh	XA #132	71.079
+72	Tom Ellam	X-XB #161	71.171
+73	SEAN BREESE	CAMS #189	71.218
+74	Brianne Maier	P-CP #336	71.247
+75	David Anderson	S2-CS #43	71.265
+76	Katja Seltmann	BST #31	71.310
+77	Jesus Villarreal	SP-SSP #261	71.389
+78	Tom Kubo	SP-CSP #92	71.401
 79	Darren Voges	CAMT #669	71.481
 80	Andre Marconett	CAMS #180	71.574
 81	Lorde Grande	S1-FS #27	71.583
@@ -1022,19 +1022,19 @@ SP
 83.465 DNF
 80.860 +1
 
-3	Tom Kubo #92 (CSP)	1991 Mazda Miata	82.420	70.716	
-84.160
-83.868
-82.420 +1
-83.218
-113.333 RRN
-
-4	Jesus Villarreal #261 (SSP)	2001 Chevrolet Corvette	82.722	71.389	
+3	Jesus Villarreal #261 (SSP)	2001 Chevrolet Corvette	82.722	71.389	
 84.996
 83.661
 101.846 RRN
 83.479
 82.722
+
+4	Tom Kubo #92 (CSP)	1991 Mazda Miata	83.218	71.401	
+84.160
+83.868
+82.420 +1
+83.218
+113.333 RRN
 
 5	Rob Boynton #198 (SSP)	2002 Porsche Gt2	83.279	71.869	
 83.802
