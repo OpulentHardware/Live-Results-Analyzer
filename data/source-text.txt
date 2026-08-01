@@ -1,5 +1,5 @@
 [[OVERALL_VIEW]]
-Participants: 15
+Participants: 43
 2026 AAS #11 Live Results
 Date: 2026-08-01
 
@@ -7,24 +7,52 @@ Overall Class PAX
 
 Overall
 Rank	Driver	Class - Number	Time
-1	Justin Tsang	BST #88	55.097
-2	Frankie Trutanic	CAMS #97	55.279
-3	Chris Cox	CAMS #38	56.190
-4	Praneil Prasad	CAMC #174	57.651
-5	David Carson	S1-DS #477	61.008
-6	Christopher Cook	CST #19	61.375
-7	Lily Maier	CAMT #235	62.108
-8	JUSTIN SCHMELZER	CAMS #81	63.370
-9	Lloyd Feaver	S1-DS #5	65.422
-10	Don Burdge	CAMT #771	72.294
-11	Matthew Jones	CAMS #405	72.431
-12	Kirk Lozada	CAMT #89	76.319
-13	Kristen Jones	CAMS #742	82.422
-14	Glen Anderson	CST #79	999.000
-14	Pedro Duran III	CAMS #55	999.000
+1	Brian Hobaugh	CAMS #1	53.832
+2	Mack Tsang	BST #188	53.927
+3	Chris Cox	CAMS #38	54.016
+4	Justin Tsang	BST #88	54.366
+5	Chad Ryker	CAMS #178	54.548
+6	Bryan Stewart	CAMS #138	54.556
+7	Frankie Trutanic	CAMS #97	54.934
+8	Monty Pack	SS #15	55.143
+9	Praneil Prasad	CAMC #174	55.366
+10	John Smith	CST #119	56.580
+11	Andre Marconett	CAMS #180	56.768
+12	Mick Maier	CAMT #35	56.870
+13	Glen Anderson	CST #79	57.055
+14	Ed Runnion	CST #18	57.421
+15	Daniel Chavez	S1-DS #77	57.454
+16	Christopher Cook	CST #19	57.591
+17	David Carson	S1-DS #477	57.854
+18	Lloyd Feaver	S1-DS #5	57.872
+19	Michael Gardner	CAMC #48	58.324
+20	Hal Dorton	CAMC #74	58.523
+21	Mong Yiengyouav	CST #134	58.809
+22	Gregory Kehoe	BST #95	59.015
+23	JUSTIN SCHMELZER	CAMS #81	59.156
+24	Lily Maier	CAMT #235	59.720
+25	Paul Tibbals	BST #35	59.967
+26	Lanny Bowden	SS #73	60.209
+27	Jonah Olsen	BST #370	60.519
+28	Alana McKee	XL-XB #141	60.866
+29	Darren Voges	CAMT #669	61.534
+30	Tom Cuschieri	CAMT #44	63.322
+31	Zachery Galiste	CAMC #310	64.010
+32	Jose Rodriguez	CAMS #96	65.067
+33	Devin Perry	CAMT #77	65.317
+34	Derrick Galiste	CAMC #31	65.761
+35	Megan Anderson	CST #76	66.480
+36	Pedro Duran III	CAMS #55	67.109
+37	Matthew Jones	CAMS #405	68.032
+38	Don Burdge	CAMT #771	68.869
+39	Karun Nagarajan	CAMC #404	69.239
+40	Kirk Lozada	CAMT #89	70.205
+41	Carlo Cuevas	CST #117	70.296
+42	Kristen Jones	CAMS #742	71.228
+43	Jeffrey Xu	BST #11	81.804
 
 [[PAX_VIEW]]
-Participants: 15
+Participants: 43
 2026 AAS #11 Live Results
 Date: 2026-08-01
 
@@ -32,24 +60,52 @@ Overall Class PAX
 
 PAX
 Rank	Driver	Class - Number	Indexed Time
-1	Justin Tsang	BST #88	46.171
-2	Frankie Trutanic	CAMS #97	46.876
-3	Chris Cox	CAMS #38	47.649
-4	Praneil Prasad	CAMC #174	47.850
-5	David Carson	S1-DS #477	49.294
-6	Christopher Cook	CST #19	51.064
-7	Lily Maier	CAMT #235	51.239
-8	Lloyd Feaver	S1-DS #5	52.860
-9	JUSTIN SCHMELZER	CAMS #81	53.737
-10	Don Burdge	CAMT #771	59.642
-11	Matthew Jones	CAMS #405	61.421
-12	Kirk Lozada	CAMT #89	62.963
-13	Kristen Jones	CAMS #742	69.893
-14	Glen Anderson	CST #79	999.000
-14	Pedro Duran III	CAMS #55	999.000
+1	Mack Tsang	BST #188	45.190
+2	Justin Tsang	BST #88	45.558
+3	Brian Hobaugh	CAMS #1	45.649
+4	Chris Cox	CAMS #38	45.805
+5	Praneil Prasad	CAMC #174	45.953
+6	Chad Ryker	CAMS #178	46.256
+7	Bryan Stewart	CAMS #138	46.263
+8	Daniel Chavez	S1-DS #77	46.422
+9	Monty Pack	SS #15	46.485
+10	Frankie Trutanic	CAMS #97	46.584
+11	David Carson	S1-DS #477	46.746
+12	Lloyd Feaver	S1-DS #5	46.760
+13	Mick Maier	CAMT #35	46.917
+14	John Smith	CST #119	47.074
+15	Glen Anderson	CST #79	47.469
+16	Ed Runnion	CST #18	47.774
+17	Christopher Cook	CST #19	47.915
+18	Andre Marconett	CAMS #180	48.139
+19	Michael Gardner	CAMC #48	48.408
+20	Hal Dorton	CAMC #74	48.574
+21	Mong Yiengyouav	CST #134	48.929
+22	Lily Maier	CAMT #235	49.269
+23	Gregory Kehoe	BST #95	49.454
+24	JUSTIN SCHMELZER	CAMS #81	50.164
+25	Paul Tibbals	BST #35	50.252
+26	Jonah Olsen	BST #370	50.714
+27	Lanny Bowden	SS #73	50.756
+28	Darren Voges	CAMT #669	50.765
+29	Tom Cuschieri	CAMT #44	52.240
+30	Zachery Galiste	CAMC #310	53.128
+31	Alana McKee	XL-XB #141	53.562
+32	Devin Perry	CAMT #77	53.886
+33	Derrick Galiste	CAMC #31	54.581
+34	Jose Rodriguez	CAMS #96	55.176
+35	Megan Anderson	CST #76	55.311
+36	Don Burdge	CAMT #771	56.816
+37	Pedro Duran III	CAMS #55	56.908
+38	Karun Nagarajan	CAMC #404	57.468
+39	Matthew Jones	CAMS #405	57.691
+40	Kirk Lozada	CAMT #89	57.919
+41	Carlo Cuevas	CST #117	58.486
+42	Kristen Jones	CAMS #742	60.401
+43	Jeffrey Xu	BST #11	68.551
 
 [[CLASS_VIEW]]
-Participants: 15
+Participants: 43
 2026 AAS #11 Live Results
 Date: 2026-08-01
 
@@ -62,55 +118,244 @@ CAMS
 CAMT
 CST
 S1
+SS
+XL
 Class
 Position	Driver	Car	Best Raw	Best Pax	Raw Times
 BST
-1	Justin Tsang #88	2006 Mitsubishi Lancer	55.097	46.171	
+1	Mack Tsang #188	2006 Mitsubishi Lancer RalliArt	53.927	45.190	
+54.537 +1
+53.927
+53.973 +2
+
+2	Justin Tsang #88	2006 Mitsubishi Lancer	54.366	45.558	
 55.097
+54.656
+54.366
+54.617
+63.023 RRN
+
+3	Gregory Kehoe #95	2009 Nissan 370Z	59.015	49.454	
+63.483 DNF
+59.401 +1
+59.015
+
+4	Paul Tibbals #35	2006 Subaru STI	59.967	50.252	
+59.967
+59.059 +1
+59.491 +1
+
+5	Jonah Olsen #370	2014 Nissan 370z NISMO	60.519	50.714	
+62.396
+60.761 +1
+60.519
+
+6	Jeffrey Xu #11	2012 BMW 328i	81.804	68.551	
+101.739
+88.972
+81.804
 
 CAMC
-1	Praneil Prasad #174	2016 Ford Mustang	57.651	47.850	
+1	Praneil Prasad #174	2016 Ford Mustang	55.366	45.953	
 57.651
+56.337
+56.034
+55.462
+55.366
+
+2	Michael Gardner #48	2016 Ford Shelby GT350	58.324	48.408	
+59.989
+58.324
+57.818 +1
+
+3	Hal Dorton #74	2022 Ford Mustang	58.523	48.574	
+58.682
+58.523
+
+4	Zachery Galiste #310	2021 Chevrolet Camaro SS 1LE	64.010	53.128	
+67.901 +1
+62.318 DNF
+64.010
+
+5	Derrick Galiste #31	2021 Chevrolet Camaro SS 1LE	65.761	54.581	
+67.659
+66.385
+65.761
+65.911
+66.032
+
+6	Karun Nagarajan #404	2013 Ford Mustang BOSS 302	69.239	57.468	
+78.661
+71.541
+69.239
+68.567 +1
 
 CAMS
-1	Frankie Trutanic #97	2017 Chevrolet corvette	55.279	46.876	
-54.279 +1
+1	Brian Hobaugh #1	2017 Chevrolet Corvette	53.832	45.649	
+54.881 +1
+53.832
 
-2	Chris Cox #38	2004 Chevrolet Corvette	56.190	47.649	
+2	Chris Cox #38	2004 Chevrolet Corvette	54.016	45.805	
 56.190
+54.654
+54.016
+54.132
 
-3	JUSTIN SCHMELZER #81	1996 Dodge Viper	63.370	53.737	
+3	Chad Ryker #178	1966 Ford Cobra	54.548	46.256	
+55.716 +2
+67.541 DNF
+53.548 +1
+63.398 RRN
+
+4	Bryan Stewart #138	2004 Chevrolet Z06	54.556	46.263	
+54.739
+54.556
+55.361 DNF
+
+5	Frankie Trutanic #97	2017 Chevrolet corvette	54.934	46.584	
+54.279 +1
+54.934
+41.798 DNF
+
+6	Andre Marconett #180	2000 Dodge Viper GTS	56.768	48.139	
+57.754
+57.343 +1
+56.768
+
+7	JUSTIN SCHMELZER #81	1996 Dodge Viper	59.156	50.164	
 63.370
+62.029
+59.700
+59.156
 
-4	Matthew Jones #405	2003 Chevrolet Corvette Z06	72.431	61.421	
-72.431
+8	Jose Rodriguez #96	2010 Chevrolet Corvette	65.067	55.176	
+76.704
+66.950 DNF
+65.067
 
-5	Kristen Jones #742	2016 Chevrolet Corvette Stingray	82.422	69.893	
-82.422
-
-6	Pedro Duran III #55	1998 Chevrolet 98 Corvette C-5 convert	999.000	999.000	
+9	Pedro Duran III #55	1998 Chevrolet 98 Corvette C-5 convert	67.109	56.908	
 67.279 DNF
+67.694 +2
+66.109 +1
+66.281 +1
+
+10	Matthew Jones #405	2003 Chevrolet Corvette Z06	68.032	57.691	
+72.431
+69.689
+68.032
+68.444 +1
+
+11	Kristen Jones #742	2016 Chevrolet Corvette Stingray	71.228	60.401	
+82.422
+73.793
+72.084
+71.228
 
 CAMT
-1	Lily Maier #235	1965 Ford Mustang	62.108	51.239	
+1	Mick Maier #35	1965 Ford Mustang	56.870	46.917	
+57.268
+56.870
+
+2	Lily Maier #235	1965 Ford Mustang	59.720	49.269	
 61.108 +1
+61.070
+59.720
 
-2	Don Burdge #771	1996 Ford Mustang GT	72.294	59.642	
+3	Darren Voges #669	1969 Chevrolet Camaro	61.534	50.765	
+62.766
+61.612
+61.534
+
+4	Tom Cuschieri #44	1971 Chevrolet Camaro	63.322	52.240	
+67.585
+64.656
+63.322
+
+5	Devin Perry #77	1996 Ford Mustang	65.317	53.886	
+65.736 +2
+65.317
+65.621 +1
+
+6	Don Burdge #771	1996 Ford Mustang GT	68.869	56.816	
 71.294 +1
+72.992
+68.869
+70.252
 
-3	Kirk Lozada #89	1968 Chevrolet Chevelle	76.319	62.963	
+7	Kirk Lozada #89	1968 Chevrolet Chevelle	70.205	57.919	
 76.319
+73.111
+70.205
+70.298
 
 CST
-1	Christopher Cook #19	2002 Honda S2000	61.375	51.064	
-59.375 +2
+1	John Smith #119	2002 Honda S2000	56.580	47.074	
+57.824
+57.487
+56.580
 
-2	Glen Anderson #79	2022 Subaru BRZ	999.000	999.000	
+2	Glen Anderson #79	2022 Subaru BRZ	57.055	47.469	
 69.555 DNF
+57.055
+58.604 +2
+
+3	Ed Runnion #18	2022 Subaru BRZ	57.421	47.774	
+58.343
+57.211 +1
+57.421
+
+4	Christopher Cook #19	2002 Honda S2000	57.591	47.915	
+59.375 +2
+57.962 +1
+58.015
+57.591
+
+5	Mong Yiengyouav #134	2007 Honda S2000	58.809	48.929	
+60.163
+68.968
+58.809
+
+6	Megan Anderson #76	2022 Subaru BRZ	66.480	55.311	
+66.480
+67.097
+
+7	Carlo Cuevas #117	2017 Mazda Miata	70.296	58.486	
+91.280 +1
+70.296
+71.631
+
+SS
+1	Monty Pack #15	2018 Porsche GT3	55.143	46.485	
+56.258 +2
+55.207
+55.143
+
+2	Lanny Bowden #73	2018 Porsche GT3	60.209	50.756	
+60.209
+75.993 RRN
+60.449
+59.954 +1
 
 S1
-1	David Carson #477 (DS)	2022 Subaru BRZ	61.008	49.294	
-60.008 +1
+1	Daniel Chavez #77 (DS)	2022 Subaru BRZ	57.454	46.422	
+57.849
+57.886 +1
+57.454
 
-2	Lloyd Feaver #5 (DS)	2020 Ford Mustang	65.422	52.860	
+2	David Carson #477 (DS)	2022 Subaru BRZ	57.854	46.746	
+60.008 +1
+58.386 +1
+57.854
+57.922 +1
+
+3	Lloyd Feaver #5 (DS)	2020 Ford Mustang	57.872	46.760	
 65.422
+58.541 +1
+58.661
+57.872
+
+XL
+1	Alana McKee #141 (XB)	1993 Mazda RX7	60.866	53.562	
+124.497 +3
+60.866
+61.034 DNF
