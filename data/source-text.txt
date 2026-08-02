@@ -1,5 +1,5 @@
 [[OVERALL_VIEW]]
-Participants: 40
+Participants: 77
 2026 AAS #12 Live Results
 Date: 2026-08-02
 
@@ -7,49 +7,86 @@ Overall Class PAX
 
 Overall
 Rank	Driver	Class - Number	Time
-1	Bryan Stewart	CAMS #138	49.831
-2	Mack Tsang	BST #188	50.009
-3	Chad Ryker	CAMS #178	50.457
-4	Justin Tsang	BST #88	50.519
-5	James Clenney	EVX #76	50.784
-6	Navid Kahangi	EVX #80	50.831
-7	Monty Pack	SS #15	51.118
-8	Chris Cox	CAMS #38	51.379
-9	Timothy Naugler	EVX #7	51.510
-10	Frankie Trutanic	CAMS #97	52.095
-11	Mick Maier	CAMT #35	52.300
-12	Pilar Miranda	EVX #180	52.611
-13	Andre Marconett	CAMS #180	52.635
-14	Erik Acks	AS #68	52.757
-15	Alana McKee	XL-XB #141	53.151
-16	Glen Anderson	CST #79	53.445
-17	Ed Runnion	CST #18	53.521
-18	Michael Scott	AS #2	53.618
-19	Michael Gardner	CAMC #48	53.632
-20	Paul Tibbals	BST #35	53.645
-21	David Carson	S1-DS #477	53.713
-22	Christopher Cook	CST #19	53.764
-23	Hal Dorton	CAMC #74	53.902
-24	Mong Yiengyouav	CST #134	53.985
-25	Daniel Chavez	S1-DS #77	54.143
-26	Jonah Olsen	BST #370	54.729
-27	Lloyd Feaver	S1-DS #5	54.749
-28	Gregory Kehoe	BST #95	54.862
-29	Darren Voges	CAMT #669	56.080
-30	Lily Maier	CAMT #235	56.226
-31	Zachery Galiste	CAMC #310	56.988
-32	Megan Anderson	CST #76	57.963
-33	Derrick Galiste	CAMC #31	58.031
-34	Devin Perry	CAMT #77	59.773
-35	Pedro Duran III	CAMS #55	60.888
-36	Jen-Yee Hong	S1-BS #86	61.403
-37	DARIN NELMS	SM-SSM #66	62.372
-38	Illia Petrov	BST #17	62.502
-39	Don Burdge	CAMT #771	62.536
-40	Ajinkya Gode	CST #124	64.601
+1	Marshall Grice	M-BM #95	45.516
+2	Jason Swindle	M-BM #5	45.849
+3	Tom Exley	P-XP #25	48.285
+4	Andy McKee	X-XB #141	48.723
+5	Mike Maier	P-CP #136	48.952
+6	Steve Lau	XA #18	49.430
+7	Bryan Stewart	CAMS #138	49.831
+8	Tara Shapowal	XA #187	49.898
+9	Mack Tsang	BST #188	50.009
+10	Chad Ryker	CAMS #178	50.457
+11	Justin Tsang	BST #88	50.519
+12	Eric Gnesa	X-XB #93	50.693
+13	James Clenney	EVX #76	50.784
+14	Navid Kahangi	EVX #80	50.831
+15	Monty Pack	SS #15	51.118
+16	Chris Cox	CAMS #38	51.379
+17	Tom Ellam	X-XB #38	51.414
+18	Timothy Naugler	EVX #7	51.510
+19	Lisa Gnesa	X-XB #193	51.517
+20	Isaac Acks	XA #71	51.686
+21	Steve Mclaughlin	SP-ESP #911	51.786
+22	Patrick Drudge	SP-ESP #61	52.082
+23	Frankie Trutanic	CAMS #97	52.095
+24	Brianne Maier	P-CP #336	52.198
+25	Alana McKee	XL-XB #141	52.233
+26	Mick Maier	CAMT #35	52.300
+27	Erik Acks	AS #68	52.585
+28	Pilar Miranda	EVX #180	52.611
+29	Andre Marconett	CAMS #180	52.635
+30	Mark Lewis	ST1-AST #88	52.853
+31	Deanne Komush	P-DP #52	52.900
+32	Rob Boynton	SP-SSP #198	53.055
+33	Douglas Hargrove	M-FM #17	53.152
+34	Glen Anderson	CST #79	53.445
+35	Erika McKee	XL-XB #41	53.455
+36	Ed Runnion	CST #18	53.521
+37	Michael Scott	AS #2	53.618
+38	Michael Gardner	CAMC #48	53.632
+39	Paul Tibbals	BST #35	53.645
+40	David Carson	S1-DS #477	53.713
+41	Christopher Cook	CST #19	53.764
+42	Hal Dorton	CAMC #74	53.902
+43	Mong Yiengyouav	CST #134	53.985
+44	Daniel Chavez	S1-DS #77	54.143
+45	Michael Ansell	P-CP #177	54.421
+46	Sandra Gartner	P-XP #125	54.443
+47	Bill Charron	ST1-SST #9	54.538
+48	Jonah Olsen	BST #370	54.729
+49	Lloyd Feaver	S1-DS #5	54.749
+50	Gregory Kehoe	BST #95	54.862
+51	Andre Piernot	ST1-EST #19	55.018
+52	Brandon Phillips	S2-HS #14	55.077
+53	Keith Bullock	ST1-EST #18	55.607
+54	David Silva	P-CP #16	55.972
+55	Stephanie Medeiros	SP-ESP #611	56.054
+56	Darren Voges	CAMT #669	56.080
+57	Lily Maier	CAMT #235	56.226
+58	Dwayne Komush	P-DP #152	56.259
+59	Eric Martin	ST1-SSC #74	56.296
+60	Donald Lew	S2-CS #52	56.536
+61	Zachery Galiste	CAMC #310	56.988
+62	Craig Boyle	S2-GS #5	57.228
+63	Brenna Comacchio	S2-HS #4	57.404
+64	Ibtisam A.	S2-CS #764	57.408
+65	Ryan Gaines	XA #117	57.768
+66	Megan Anderson	CST #76	57.963
+67	Derrick Galiste	CAMC #31	58.031
+68	Devin Perry	CAMT #77	59.773
+69	Shane Chin	S2-GS #202	60.694
+70	Pedro Duran III	CAMS #55	60.888
+71	Jen-Yee Hong	S1-BS #86	61.403
+72	DARIN NELMS	SM-SSM #66	62.372
+73	Illia Petrov	BST #17	62.502
+74	Don Burdge	CAMT #771	62.536
+75	Andy Chen	ST1-DST #6	63.385
+76	Ajinkya Gode	CST #124	64.601
+77	Darrel Lunge	P-DP #903	999.000
 
 [[PAX_VIEW]]
-Participants: 40
+Participants: 77
 2026 AAS #12 Live Results
 Date: 2026-08-02
 
@@ -60,46 +97,83 @@ Rank	Driver	Class - Number	Indexed Time
 1	Mack Tsang	BST #188	41.907
 2	Bryan Stewart	CAMS #138	42.256
 3	Justin Tsang	BST #88	42.334
-4	James Clenney	EVX #76	42.658
-5	Navid Kahangi	EVX #80	42.698
-6	Chad Ryker	CAMS #178	42.787
-7	Monty Pack	SS #15	43.092
-8	Mick Maier	CAMT #35	43.147
-9	Timothy Naugler	EVX #7	43.268
-10	David Carson	S1-DS #477	43.400
-11	Chris Cox	CAMS #38	43.569
-12	Daniel Chavez	S1-DS #77	43.747
-13	Erik Acks	AS #68	43.841
-14	Frankie Trutanic	CAMS #97	44.176
-15	Pilar Miranda	EVX #180	44.193
-16	Lloyd Feaver	S1-DS #5	44.237
-17	Glen Anderson	CST #79	44.466
-18	Michael Gardner	CAMC #48	44.514
-19	Ed Runnion	CST #18	44.529
-20	Michael Scott	AS #2	44.556
-21	Andre Marconett	CAMS #180	44.634
-22	Christopher Cook	CST #19	44.731
-23	Hal Dorton	CAMC #74	44.738
-24	Mong Yiengyouav	CST #134	44.915
-25	Paul Tibbals	BST #35	44.954
-26	Jonah Olsen	BST #370	45.862
-27	Gregory Kehoe	BST #95	45.974
-28	Darren Voges	CAMT #669	46.266
-29	Lily Maier	CAMT #235	46.386
-30	Alana McKee	XL-XB #141	46.772
-31	Zachery Galiste	CAMC #310	47.300
-32	Derrick Galiste	CAMC #31	48.165
-33	Megan Anderson	CST #76	48.225
-34	Devin Perry	CAMT #77	49.312
-35	Jen-Yee Hong	S1-BS #86	50.596
-36	Don Burdge	CAMT #771	51.592
-37	Pedro Duran III	CAMS #55	51.633
-38	Illia Petrov	BST #17	52.376
-39	Ajinkya Gode	CST #124	53.748
-40	DARIN NELMS	SM-SSM #66	55.012
+4	Mike Maier	P-CP #136	42.588
+5	James Clenney	EVX #76	42.658
+6	Navid Kahangi	EVX #80	42.698
+7	Steve Lau	XA #18	42.707
+8	Chad Ryker	CAMS #178	42.787
+9	Brandon Phillips	S2-HS #14	42.849
+10	Andy McKee	X-XB #141	42.876
+11	Monty Pack	SS #15	43.092
+12	Tara Shapowal	XA #187	43.111
+13	Mick Maier	CAMT #35	43.147
+14	Timothy Naugler	EVX #7	43.268
+15	David Carson	S1-DS #477	43.400
+16	Tom Exley	P-XP #25	43.456
+17	Steve Mclaughlin	SP-ESP #911	43.500
+18	Chris Cox	CAMS #38	43.569
+19	Erik Acks	AS #68	43.698
+20	Daniel Chavez	S1-DS #77	43.747
+21	Patrick Drudge	SP-ESP #61	43.748
+22	Frankie Trutanic	CAMS #97	44.176
+23	Pilar Miranda	EVX #180	44.193
+24	Lloyd Feaver	S1-DS #5	44.237
+25	Mark Lewis	ST1-AST #88	44.343
+26	Glen Anderson	CST #79	44.466
+27	Michael Gardner	CAMC #48	44.514
+28	Ed Runnion	CST #18	44.529
+29	Michael Scott	AS #2	44.556
+30	Eric Gnesa	X-XB #93	44.609
+31	Andre Marconett	CAMS #180	44.634
+32	Isaac Acks	XA #71	44.656
+33	Brenna Comacchio	S2-HS #4	44.660
+34	Andre Piernot	ST1-EST #19	44.674
+35	Marshall Grice	M-BM #95	44.696
+36	Christopher Cook	CST #19	44.731
+37	Hal Dorton	CAMC #74	44.738
+38	Mong Yiengyouav	CST #134	44.915
+39	Paul Tibbals	BST #35	44.954
+40	Jason Swindle	M-BM #5	45.023
+41	Keith Bullock	ST1-EST #18	45.152
+42	Tom Ellam	X-XB #38	45.244
+43	Eric Martin	ST1-SSC #74	45.318
+44	Lisa Gnesa	X-XB #193	45.334
+45	Brianne Maier	P-CP #336	45.412
+46	Deanne Komush	P-DP #52	45.758
+47	Rob Boynton	SP-SSP #198	45.786
+48	Donald Lew	S2-CS #52	45.850
+49	Jonah Olsen	BST #370	45.862
+50	Bill Charron	ST1-SST #9	45.866
+51	Alana McKee	XL-XB #141	45.965
+52	Gregory Kehoe	BST #95	45.974
+53	Craig Boyle	S2-GS #5	46.240
+54	Darren Voges	CAMT #669	46.266
+55	Lily Maier	CAMT #235	46.386
+56	Ibtisam A.	S2-CS #764	46.557
+57	Erika McKee	XL-XB #41	47.040
+58	Stephanie Medeiros	SP-ESP #611	47.085
+59	Zachery Galiste	CAMC #310	47.300
+60	Michael Ansell	P-CP #177	47.346
+61	Derrick Galiste	CAMC #31	48.165
+62	Megan Anderson	CST #76	48.225
+63	Dwayne Komush	P-DP #152	48.664
+64	David Silva	P-CP #16	48.695
+65	Douglas Hargrove	M-FM #17	48.740
+66	Sandra Gartner	P-XP #125	48.998
+67	Shane Chin	S2-GS #202	49.040
+68	Devin Perry	CAMT #77	49.312
+69	Ryan Gaines	XA #117	49.911
+70	Jen-Yee Hong	S1-BS #86	50.596
+71	Don Burdge	CAMT #771	51.592
+72	Pedro Duran III	CAMS #55	51.633
+73	Andy Chen	ST1-DST #6	52.039
+74	Illia Petrov	BST #17	52.376
+75	Ajinkya Gode	CST #124	53.748
+76	DARIN NELMS	SM-SSM #66	55.012
+77	Darrel Lunge	P-DP #903	999.000
 
 [[CLASS_VIEW]]
-Participants: 40
+Participants: 77
 2026 AAS #12 Live Results
 Date: 2026-08-02
 
@@ -113,18 +187,26 @@ CAMS
 CAMT
 CST
 EVX
+M
+P
 S1
+S2
 SM
+SP
 SS
+ST1
+X
+XA
 XL
 Class
 Position	Driver	Car	Best Raw	Best Pax	Raw Times
 AS
-1	Erik Acks #68	2018 Porsche Cayman GTS	52.757	43.841	
+1	Erik Acks #68	2018 Porsche Cayman GTS	52.585	43.698	
 53.309
 53.026
 52.933
 52.757
+52.585
 
 2	Michael Scott #2	2023 Tesla 3	53.618	44.556	
 54.235
@@ -160,6 +242,7 @@ BST
 55.483
 55.014
 54.729
+55.149
 
 5	Gregory Kehoe #95	2009 Nissan 370Z	54.862	45.974	
 67.331 +2
@@ -257,6 +340,7 @@ CAMT
 57.018
 56.080
 56.198
+56.076 +2
 
 3	Lily Maier #235	1965 Ford Mustang	56.226	46.386	
 56.287
@@ -356,6 +440,76 @@ SS
 51.118
 51.220
 
+XA
+1	Steve Lau #18	2010 Porsche Cayman	49.430	42.707	
+49.220 +1
+49.430
+
+2	Tara Shapowal #187	2010 Porsche Cayman	49.898	43.111	
+50.256
+49.898
+
+3	Isaac Acks #71	2006 Mitsubishi Lancer Evo	51.686	44.656	
+52.475
+51.686
+
+4	Ryan Gaines #117	2020 Maserati Ghibli S Gransport	57.768	49.911	
+65.756
+57.768
+
+M
+1	Marshall Grice #95 (BM)	2021 Unbalanced Engineering	45.516	44.696	
+45.516
+
+2	Jason Swindle #5 (BM)	2020 Unbalanced Engineeri Lynx	45.849	45.023	
+47.257
+46.422
+45.849
+
+3	Douglas Hargrove #17 (FM)	1983 R&D Special	53.152	48.740	
+53.152
+52.297 +1
+
+P
+1	Mike Maier #136 (CP)	1965 Ford GT 350	48.952	42.588	
+49.192 +2
+48.952
+
+2	Tom Exley #25 (XP)	1987 Mazda Rx7	48.285	43.456	
+49.286
+48.825 +1
+48.285
+
+3	Brianne Maier #336 (CP)	1965 Ford GT 350	52.198	45.412	
+55.074
+53.089 +1
+52.198
+
+4	Deanne Komush #52 (DP)	1982 Toyota Starlet	52.900	45.758	
+55.265
+52.900
+53.280
+
+5	Michael Ansell #177 (CP)	1969 Chevrolet `Camaro	54.421	47.346	
+54.285 +3
+54.421
+
+6	Dwayne Komush #152 (DP)	1982 Toyota Starlet	56.259	48.664	
+55.969 +1
+54.259 +2
+
+7	David Silva #16 (CP)	1994 Ford Mustang	55.972	48.695	
+58.195
+55.972
+
+8	Sandra Gartner #125 (XP)	1987 Mazda Rx7 Turbo	54.443	48.998	
+54.443
+54.040 +1
+
+9	Darrel Lunge #903 (DP)	1975 BMW 2002	999.000	999.000	
+56.734 DNF
+55.545 DNF
+
 S1
 1	David Carson #477 (DS)	2022 Subaru BRZ	53.713	43.400	
 55.358
@@ -385,6 +539,32 @@ S1
 63.251
 61.403
 
+S2
+1	Brandon Phillips #14 (HS)	2018 Honda Accord	55.077	42.849	
+56.840
+55.077
+
+2	Brenna Comacchio #4 (HS)	2018 Honda Accord	57.404	44.660	
+57.495
+56.935 DNF
+56.404 +1
+
+3	Donald Lew #52 (CS)	2025 Mazda MX-5 Club	56.536	45.850	
+58.518 DNF
+56.536
+
+4	Craig Boyle #5 (GS)	2023 Hyundai Elantra N	57.228	46.240	
+57.228
+57.568
+
+5	Ibtisam A. #764 (CS)	2019 Mazda Miata RF	57.408	46.557	
+58.919
+57.408
+
+6	Shane Chin #202 (GS)	2023 Honda Civic Si	60.694	49.040	
+61.005
+60.694
+
 SM
 1	DARIN NELMS #66 (SSM)	2001 Mazda Miata	62.372	55.012	
 68.576
@@ -393,9 +573,75 @@ SM
 64.874
 66.575
 
+SP
+1	Steve Mclaughlin #911 (ESP)	2020 Nissan 370Z	51.786	43.500	
+52.052 +1
+51.786
+
+2	Patrick Drudge #61 (ESP)	2019 Nissan 370Z	52.082	43.748	
+52.082
+52.538
+
+3	Rob Boynton #198 (SSP)	2002 Porsche GT2	53.055	45.786	
+54.064
+53.055
+
+4	Stephanie Medeiros #611 (ESP)	2019 Nissan 370Z	56.054	47.085	
+55.321 +1
+56.054
+
+ST1
+1	Mark Lewis #88 (AST)	2020 Mazda MX-5	52.853	44.343	
+52.853
+52.515 +3
+
+2	Andre Piernot #19 (EST)	1990 Mazda Miata	55.018	44.674	
+56.129
+55.018
+
+3	Keith Bullock #18 (EST)	1990 Mazda Miata	55.607	45.152	
+55.607
+56.395
+55.692
+
+4	Eric Martin #74 (SSC)	2013 Scion FR-S	56.296	45.318	
+56.810
+56.296
+
+5	Bill Charron #9 (SST)	2018 Porsche 718 Cayman GTS	54.538	45.866	
+55.110
+54.538
+
+6	Andy Chen #6 (DST)	2014 Subaru BRZ	63.385	52.039	
+63.601
+63.385
+
+X
+1	Andy McKee #141 (XB)	1993 Mazda RX7	48.723	42.876	
+49.183
+48.723
+
+2	Eric Gnesa #93 (XB)	2009 Porsche Cayman S	50.693	44.609	
+50.693
+50.518 +3
+50.932
+
+3	Tom Ellam #38 (XB)	1972 Mazda RX3	51.414	45.244	
+51.654
+51.414
+
+4	Lisa Gnesa #193 (XB)	2009 Porsche Cayman S	51.517	45.334	
+52.495
+51.517
+
 XL
-1	Alana McKee #141 (XB)	1993 Mazda RX7	53.151	46.772	
+1	Alana McKee #141 (XB)	1993 Mazda RX7	52.233	45.965	
 57.437 +1
 55.367 +1
 54.522
 53.151
+52.233
+
+2	Erika McKee #41 (XB)	1993 Mazda RX7	53.455	47.040	
+53.455
+53.294 +1
