@@ -7,77 +7,77 @@ Overall Class PAX
 
 Overall
 Rank	Driver	Class - Number	Time
-1	Justin Tsang	BST #88	59.842
-2	Teresa Neidel-McKee	XS-XB #41	59.844
-3	Eric Gnesa	XS-XB #93	60.018
-4	Steve Lau	XS-XA #18	60.352
-5	Tom Ellam	XS-XB #38	60.382
-6	Lisa Gnesa	XS-XB #193	60.403
-7	Tara Shapowal	XS-XA #187	60.681
-8	Monty Pack	S1-SS #15	60.906
-9	James Clenney	XS-EVX #76	60.993
-10	Drew Powers	XS-XB #138	61.052
-11	Chris Cox	XS-EVX #178	61.487
-12	Patrick Drudge	SST #126	61.964
-13	Cody Mountjoy	S2-BS #23	61.990
-14	Navid Kahangi	XS-EVX #80	62.077
-15	Edwin Liu	SST #58	62.327
-16	Jonathan Lugod	CST #94	62.425
-17	Erika McKee	XS-XB #14	63.175
-18	Christopher Cook	CST #9	63.280
-19	Phil Castro	XS-XA #87	63.405
-20	Glen Anderson	CST #79	63.670
-21	Muamong Yiengyouav	CST #134	63.889
-22	Pilar Miranda	XS-EVX #180	64.059
-23	Christopher Rosario	S4-GS #33	64.062
-24	Ed Runnion	CST #18	64.090
-25	Justin Bowen	XS-EVX #48	64.205
-26	Shawn Tokairin	AST #938	64.352
-27	Da Chang	CST #63	64.463
-28	Kristen Acharya	AST #117	64.524
-29	Alex Petrovsky	AST #12	64.657
-30	Dhiraj Jadhav	S4-GS #9	65.304
-31	Mack Tsang	BST #188	65.684
-32	John Hartford	N-CST #108	65.860
-33	Kaustav Acharya	S4-GS #90	65.954
-34	Yon Visell	BST #131	66.041
-35	Gregory Kehoe	BST #95	66.168
-36	Jessica Yeung Lugod	CST #194	66.494
-37	James Laeno	XS-XU #96	66.552
-38	Dennis Quilantang	CST #137	67.028
-39	John Fabian	DST #55	67.113
-40	Jonah Olsen	BST #370	67.684
-41	Arvind Govindaraj	AST #17	67.810
-42	Gary Fazekas	S2-FS #46	68.102
-43	Katja Seltmann	BST #31	68.767
-44	Noah Sulzberg	BST #8	69.655
-45	Eugene Bulavin	N-GS #410	70.207
-46	Bert Schneider	S2-BS #22	72.140
-47	Scott Abuso	CST #28	72.743
-48	Patty Jeschien	S4-HS #23	73.333
-49	Megan Anderson	CST #76	73.678
-50	Myles Wang	CST #6	74.460
-51	Thomas Bock	N-BS #707	74.545
-52	Tzen-Chuen Ng	N-BS #56	74.609
-53	Nami Ranjbarsadeghi	N-GS #24	74.949
-54	Anthony Zwain	XS-XU #139	75.113
-55	Jordan Stone	N-DST #88	75.599
-56	Brandon Ha	N-CST #25	75.734
-57	Vincent Boc	N-BS #273	76.324
-58	Karthik Anand	N-GS #909	77.041
-59	Farouk Rice	N-BST #78	77.183
-60	Anthony Chu	N-HS #26	82.430
-61	Hector Wong	N-XB #94	83.286
-62	Alexander Bowen	S4-HS #1	83.355
-63	Raymond Ha	N-CST #23	89.110
-64	Kris Ludwig	BST #151	94.322
-65	Mikhail Korobetskiy	N-BST #350	107.101
-66	Michael Bowen	S4-GS #331	107.645
-67	Andrei Malyshev	N-GS #77	999.000
-67	Tony Rodriguez	XS-XU #39	999.000
-67	Alexander Blum	N-BST #178	999.000
-67	Kate Engelking	AST #9	999.000
-67	Frank Frick	BST #28	999.000
+1	Teresa Neidel-McKee	XS-XB #41	58.789
+2	Steve Lau	XS-XA #18	59.588
+3	Justin Tsang	BST #88	59.842
+4	Eric Gnesa	XS-XB #93	60.018
+5	Tara Shapowal	XS-XA #187	60.019
+6	Mack Tsang	BST #188	60.085
+7	Tom Ellam	XS-XB #38	60.382
+8	Lisa Gnesa	XS-XB #193	60.403
+9	James Clenney	XS-EVX #76	60.656
+10	James Laeno	XS-XU #96	60.779
+11	Monty Pack	S1-SS #15	60.906
+12	Chris Cox	XS-EVX #178	60.915
+13	Drew Powers	XS-XB #138	61.052
+14	Tony Rodriguez	XS-XU #39	61.504
+15	Navid Kahangi	XS-EVX #80	61.571
+16	Patrick Drudge	SST #126	61.964
+17	Cody Mountjoy	S2-BS #23	61.990
+18	Edwin Liu	SST #58	62.327
+19	Jonathan Lugod	CST #94	62.425
+20	Arvind Govindaraj	AST #17	62.449
+21	Pilar Miranda	XS-EVX #180	63.013
+22	Phil Castro	XS-XA #87	63.103
+23	Erika McKee	XS-XB #14	63.175
+24	Christopher Cook	CST #9	63.280
+25	Shawn Tokairin	AST #938	63.333
+26	Alex Petrovsky	AST #12	63.504
+27	Glen Anderson	CST #79	63.670
+28	Muamong Yiengyouav	CST #134	63.889
+29	Christopher Rosario	S4-GS #33	64.062
+30	Ed Runnion	CST #18	64.090
+31	Justin Bowen	XS-EVX #48	64.205
+32	Da Chang	CST #63	64.463
+33	Kristen Acharya	AST #117	64.524
+34	Dhiraj Jadhav	S4-GS #9	65.304
+35	Yon Visell	BST #131	65.372
+36	John Hartford	N-CST #108	65.860
+37	Jonah Olsen	BST #370	65.870
+38	Kaustav Acharya	S4-GS #90	65.954
+39	Gregory Kehoe	BST #95	66.168
+40	Jessica Yeung Lugod	CST #194	66.494
+41	John Fabian	DST #55	66.503
+42	Katja Seltmann	BST #31	66.734
+43	Dennis Quilantang	CST #137	67.028
+44	Gary Fazekas	S2-FS #46	68.102
+45	Anthony Zwain	XS-XU #139	69.015
+46	Noah Sulzberg	BST #8	69.655
+47	Eugene Bulavin	N-GS #410	70.207
+48	Bert Schneider	S2-BS #22	72.140
+49	Kate Engelking	AST #9	72.582
+50	Scott Abuso	CST #28	72.743
+51	Jordan Stone	N-DST #88	72.831
+52	Patty Jeschien	S4-HS #23	73.333
+53	Megan Anderson	CST #76	73.678
+54	Hector Wong	N-XB #94	73.831
+55	Myles Wang	CST #6	74.460
+56	Thomas Bock	N-BS #707	74.545
+57	Tzen-Chuen Ng	N-BS #56	74.609
+58	Nami Ranjbarsadeghi	N-GS #24	74.949
+59	Farouk Rice	N-BST #78	75.499
+60	Brandon Ha	N-CST #25	75.734
+61	Vincent Boc	N-BS #273	76.324
+62	Karthik Anand	N-GS #909	77.041
+63	Alexander Blum	N-BST #178	78.223
+64	Anthony Chu	N-HS #26	82.430
+65	Alexander Bowen	S4-HS #1	83.355
+66	Kris Ludwig	BST #151	84.524
+67	Raymond Ha	N-CST #23	89.110
+68	Mikhail Korobetskiy	N-BST #350	107.101
+69	Michael Bowen	S4-GS #331	107.645
+70	Andrei Malyshev	N-GS #77	999.000
+70	Frank Frick	BST #28	999.000
 
 [[PAX_VIEW]]
 Participants: 71
@@ -86,79 +86,79 @@ Date: 2026-08-22
 
 Overall Class PAX
 
-PAX
-Rank	Driver	Class - Number	Indexed Time
-1	Justin Tsang	BST #88	49.968
-2	Cody Mountjoy	S2-BS #23	51.017
-3	Monty Pack	S1-SS #15	51.161
-4	James Clenney	XS-EVX #76	51.173
-5	Teresa Neidel-McKee	XS-XB #41	51.405
-6	Eric Gnesa	XS-XB #93	51.555
-7	Chris Cox	XS-EVX #178	51.587
-8	Jonathan Lugod	CST #94	51.750
-9	Christopher Rosario	S4-GS #33	51.826
-10	Tom Ellam	XS-XB #38	51.868
-11	Lisa Gnesa	XS-XB #193	51.886
-12	Patrick Drudge	SST #126	51.925
-13	Steve Lau	XS-XA #18	51.963
-14	Navid Kahangi	XS-EVX #80	52.082
-15	Edwin Liu	SST #58	52.230
-16	Tara Shapowal	XS-XA #187	52.246
-17	Drew Powers	XS-XB #138	52.443
-18	Christopher Cook	CST #9	52.459
-19	Glen Anderson	CST #79	52.782
-20	Dhiraj Jadhav	S4-GS #9	52.830
-21	Muamong Yiengyouav	CST #134	52.963
-22	Ed Runnion	CST #18	53.130
-23	Kaustav Acharya	S4-GS #90	53.356
-24	Da Chang	CST #63	53.439
-25	Pilar Miranda	XS-EVX #180	53.745
-26	Shawn Tokairin	AST #938	53.798
-27	Justin Bowen	XS-EVX #48	53.867
-28	Kristen Acharya	AST #117	53.942
-29	Alex Petrovsky	AST #12	54.053
-30	Erika McKee	XS-XB #14	54.267
-31	Phil Castro	XS-XA #87	54.591
-32	John Hartford	N-CST #108	54.597
-33	Mack Tsang	BST #188	54.846
-34	John Fabian	DST #55	55.032
-35	Jessica Yeung Lugod	CST #194	55.123
-36	Yon Visell	BST #131	55.144
-37	Gregory Kehoe	BST #95	55.250
-38	Dennis Quilantang	CST #137	55.566
-39	Gary Fazekas	S2-FS #46	55.639
-40	Jonah Olsen	BST #370	56.516
-41	Arvind Govindaraj	AST #17	56.689
-42	Eugene Bulavin	N-GS #410	56.797
-43	Patty Jeschien	S4-HS #23	57.199
-44	Katja Seltmann	BST #31	57.420
-45	James Laeno	XS-XU #96	57.833
-46	Noah Sulzberg	BST #8	58.161
-47	Bert Schneider	S2-BS #22	59.371
-48	Scott Abuso	CST #28	60.303
-49	Nami Ranjbarsadeghi	N-GS #24	60.633
-50	Megan Anderson	CST #76	61.079
-51	Thomas Bock	N-BS #707	61.350
-52	Tzen-Chuen Ng	N-BS #56	61.403
-53	Myles Wang	CST #6	61.727
-54	Jordan Stone	N-DST #88	61.991
-55	Karthik Anand	N-GS #909	62.326
-56	Brandon Ha	N-CST #25	62.783
-57	Vincent Boc	N-BS #273	62.814
-58	Anthony Chu	N-HS #26	64.295
-59	Farouk Rice	N-BST #78	64.447
-60	Alexander Bowen	S4-HS #1	65.016
-61	Anthony Zwain	XS-XU #139	65.273
-62	Hector Wong	N-XB #94	71.542
-63	Raymond Ha	N-CST #23	73.872
-64	Kris Ludwig	BST #151	78.758
-65	Michael Bowen	S4-GS #331	87.084
-66	Mikhail Korobetskiy	N-BST #350	89.429
-67	Andrei Malyshev	N-GS #77	999.000
-67	Tony Rodriguez	XS-XU #39	999.000
-67	Alexander Blum	N-BST #178	999.000
-67	Kate Engelking	AST #9	999.000
-67	Frank Frick	BST #28	999.000
+Overall
+Rank	Driver	Class - Number	Time
+1	Teresa Neidel-McKee	XS-XB #41	58.789
+2	Steve Lau	XS-XA #18	59.588
+3	Justin Tsang	BST #88	59.842
+4	Eric Gnesa	XS-XB #93	60.018
+5	Tara Shapowal	XS-XA #187	60.019
+6	Mack Tsang	BST #188	60.085
+7	Tom Ellam	XS-XB #38	60.382
+8	Lisa Gnesa	XS-XB #193	60.403
+9	James Clenney	XS-EVX #76	60.656
+10	James Laeno	XS-XU #96	60.779
+11	Monty Pack	S1-SS #15	60.906
+12	Chris Cox	XS-EVX #178	60.915
+13	Drew Powers	XS-XB #138	61.052
+14	Tony Rodriguez	XS-XU #39	61.504
+15	Navid Kahangi	XS-EVX #80	61.571
+16	Patrick Drudge	SST #126	61.964
+17	Cody Mountjoy	S2-BS #23	61.990
+18	Edwin Liu	SST #58	62.327
+19	Jonathan Lugod	CST #94	62.425
+20	Arvind Govindaraj	AST #17	62.449
+21	Pilar Miranda	XS-EVX #180	63.013
+22	Phil Castro	XS-XA #87	63.103
+23	Erika McKee	XS-XB #14	63.175
+24	Christopher Cook	CST #9	63.280
+25	Shawn Tokairin	AST #938	63.333
+26	Alex Petrovsky	AST #12	63.504
+27	Glen Anderson	CST #79	63.670
+28	Muamong Yiengyouav	CST #134	63.889
+29	Christopher Rosario	S4-GS #33	64.062
+30	Ed Runnion	CST #18	64.090
+31	Justin Bowen	XS-EVX #48	64.205
+32	Da Chang	CST #63	64.463
+33	Kristen Acharya	AST #117	64.524
+34	Dhiraj Jadhav	S4-GS #9	65.304
+35	Yon Visell	BST #131	65.372
+36	John Hartford	N-CST #108	65.860
+37	Jonah Olsen	BST #370	65.870
+38	Kaustav Acharya	S4-GS #90	65.954
+39	Gregory Kehoe	BST #95	66.168
+40	Jessica Yeung Lugod	CST #194	66.494
+41	John Fabian	DST #55	66.503
+42	Katja Seltmann	BST #31	66.734
+43	Dennis Quilantang	CST #137	67.028
+44	Gary Fazekas	S2-FS #46	68.102
+45	Anthony Zwain	XS-XU #139	69.015
+46	Noah Sulzberg	BST #8	69.655
+47	Eugene Bulavin	N-GS #410	70.207
+48	Bert Schneider	S2-BS #22	72.140
+49	Kate Engelking	AST #9	72.582
+50	Scott Abuso	CST #28	72.743
+51	Jordan Stone	N-DST #88	72.831
+52	Patty Jeschien	S4-HS #23	73.333
+53	Megan Anderson	CST #76	73.678
+54	Hector Wong	N-XB #94	73.831
+55	Myles Wang	CST #6	74.460
+56	Thomas Bock	N-BS #707	74.545
+57	Tzen-Chuen Ng	N-BS #56	74.609
+58	Nami Ranjbarsadeghi	N-GS #24	74.949
+59	Farouk Rice	N-BST #78	75.499
+60	Brandon Ha	N-CST #25	75.734
+61	Vincent Boc	N-BS #273	76.324
+62	Karthik Anand	N-GS #909	77.041
+63	Alexander Blum	N-BST #178	78.223
+64	Anthony Chu	N-HS #26	82.430
+65	Alexander Bowen	S4-HS #1	83.355
+66	Kris Ludwig	BST #151	84.524
+67	Raymond Ha	N-CST #23	89.110
+68	Mikhail Korobetskiy	N-BST #350	107.101
+69	Michael Bowen	S4-GS #331	107.645
+70	Andrei Malyshev	N-GS #77	999.000
+70	Frank Frick	BST #28	999.000
 
 [[CLASS_VIEW]]
 Participants: 71
@@ -167,362 +167,76 @@ Date: 2026-08-22
 
 Overall Class PAX
 
-SELECT CLASS
-AST
-BST
-CST
-DST
-N
-S1
-S2
-S4
-SST
-XS
-Class
-Position	Driver	Car	Best Raw	Best Pax	Raw Times
-AST
-1	Shawn Tokairin #938	2020 Mazda Mx5 Miata	64.352	53.798	
-64.352
-70.046 RRN
-
-2	Kristen Acharya #117	2020 Mazda TheAnswer	64.524	53.942	
-66.411
-64.524
-
-3	Alex Petrovsky #12	2024 Mazda MX-5	64.657	54.053	
-67.531
-64.657
-
-4	Arvind Govindaraj #17	2020 Mazda MX-5	67.810	56.689	
-63.810 +2
-63.103 +3
-
-5	Kate Engelking #9	2019 Mazda MX5	999.000	999.000	
-89.224 DNF
-
-BST
-1	Justin Tsang #88	2006 Mitsubishi Lancer	59.842	49.968	
-60.726 +1
-59.842
-
-2	Mack Tsang #188	2006 Mitsubishi Lancer RalliArt	65.684	54.846	
-59.684 +3
-
-3	Yon Visell #131	2010 Porsche Cayman S	66.041	55.144	
-62.655 +4
-62.041 +2
-
-4	Gregory Kehoe #95	2009 Nissan 370Z	66.168	55.250	
-70.977 +1
-66.168
-
-5	Jonah Olsen #370	2014 Nissan 370z NISMO	67.684	56.516	
-74.723
-67.684
-
-6	Katja Seltmann #31	2010 Porsche Cayman S	68.767	57.420	
-66.767 +1
-
-7	Noah Sulzberg #8	2015 Mini Cooper Hardtop	69.655	58.161	
-69.655
-
-8	Kris Ludwig #151	2013 Hyundai Genesis Coupe	94.322	78.758	
-88.322 +3
-86.945 DNF
-
-9	Frank Frick #28	2026 Volkswagen Golf R	999.000	999.000	
-88.684 DNF
-
-CST
-1	Jonathan Lugod #94	2007 Honda S2000	62.425	51.750	
-63.621
-63.034 +1
-62.425
-62.988
-
-2	Christopher Cook #9	2002 Honda S2000	63.280	52.459	
-65.331 +2
-64.334 +2
-64.427
-63.280
-
-3	Glen Anderson #79	2022 Subaru BRZ	63.670	52.782	
-65.566
-64.257
-63.961
-63.805
-63.670
-
-4	Muamong Yiengyouav #134	2007 Honda S2000	63.889	52.963	
-66.679
-64.977 +2
-64.737 +1
-63.889
-
-5	Ed Runnion #18	2022 Subaru BRZ	64.090	53.130	
-65.276
-65.192
-64.278
-64.090
-
-6	Da Chang #63	2009 Mazda Miata	64.463	53.439	
-66.976
-66.585
-64.463
-65.755
-
-7	Jessica Yeung Lugod #194	2023 Subaru BRZ	66.494	55.123	
-68.331 DNF
-66.144 +1
-64.345 +3
-64.494 +1
-
-8	Dennis Quilantang #137	2022 Subaru BRZ	67.028	55.566	
-68.129 +1
-77.592 +1
-67.267
-67.028
-
-9	Scott Abuso #28	2022 Subaru BRZ	72.743	60.303	
-124.225
-78.478 +2
-75.873 DNF
-72.703 DNF
-72.743
-
-10	Megan Anderson #76	2022 Subaru BRZ	73.678	61.079	
-73.678
-
-11	Myles Wang #6	2023 Toyota GR86	74.460	61.727	
-75.459
-16.428 RRN
-74.460
-72.974 +1
-
-DST
-1	John Fabian #55	2005 Mazda RX-8	67.113	55.032	
-67.113
-
-SST
-1	Patrick Drudge #126	2024 Toyota Supra	61.964	51.925	
-62.152
-61.964
-
-2	Edwin Liu #58	2013 Nissan GT-R	62.327	52.230	
-66.584
-62.327
-
-N
-1	John Hartford #108 (CST)	2025 Toyota GR86	65.860	54.597	
-67.703
-67.061 +1
-65.700 +1
-65.860
-
-2	Eugene Bulavin #410 (GS)	2025 Hyundai Elantra N	70.207	56.797	
-77.748
-73.693
-72.273
-70.207
-
-3	Nami Ranjbarsadeghi #24 (GS)	2017 Audi A4	74.949	60.633	
-79.496 +1
-79.673 DNF
-77.822
-74.949
-
-4	Thomas Bock #707 (BS)	2021 Audi RS6	74.545	61.350	
-80.249
-77.354 +2
-85.904 DNF
-74.545
-
-5	Tzen-Chuen Ng #56 (BS)	2021 BMW M2 Competition	74.609	61.403	
-127.348 DNF
-75.911 +1
-72.609 +1
-71.992 +2
-
-6	Jordan Stone #88 (DST)	2014 Volkswagen Jetta	75.599	61.991	
-75.599
-
-7	Karthik Anand #909 (GS)	2026 Hyundai Elantra N	77.041	62.326	
-97.766
-119.753
-79.974
-77.041
-
-8	Brandon Ha #25 (CST)	2022 Toyota GR86	75.734	62.783	
-81.445
-79.299
-77.340
-75.734
-
-9	Vincent Boc #273 (BS)	2025 Honda Civic Type R	76.324	62.814	
-79.266
-119.814 RRN
-80.528
-76.676
-76.324
-
-10	Anthony Chu #26 (HS)	2015 Mini Cooper Hardtop	82.430	64.295	
-91.054 DNF
-87.895
-82.430
-83.028
-
-11	Farouk Rice #78 (BST)	2026 Toyota GR Corolla	77.183	64.447	
-80.119
-77.183
-
-12	Hector Wong #94 (XB)	2015 Scion FR-S	83.286	71.542	
-81.286 +1
-
-13	Raymond Ha #23 (CST)	2023 Toyota GR86	89.110	73.872	
-112.436 DNF
-105.177 DNF
-87.204 DNF
-89.110
-
-14	Mikhail Korobetskiy #350 (BST)	2007 Nissan 350Z	107.101	89.429	
-90.225 DNF
-107.101
-
-15	Andrei Malyshev #77 (GS)	2019 Audi A6	999.000	999.000	
-86.538 DNF
-78.346 DNF
-82.322 DNF
-75.712 DNF
-
-15	Alexander Blum #178 (BST)	2002 BMW 325i	999.000	999.000	
-83.572 DNF
-
-S1
-1	Monty Pack #15 (SS)	2018 Porsche GT3	60.906	51.161	
-61.809
-61.164
-60.906
-61.012
-
-S2
-1	Cody Mountjoy #23 (BS)	2025 Toyota GR Corolla	61.990	51.017	
-62.321
-64.637
-62.400 +1
-63.646 +1
-61.990
-
-2	Gary Fazekas #46 (FS)	2022 Ford Mustang	68.102	55.639	
-86.664
-69.143
-69.884
-68.102
-70.689 DNF
-
-3	Bert Schneider #22 (BS)	1999 Chevrolet Corvette	72.140	59.371	
-74.126
-82.518
-72.756
-72.140
-72.980
-
-S4
-1	Christopher Rosario #33 (GS)	2024 Hyundai Elantra N	64.062	51.826	
-64.062
-64.367
-63.521 DNF
-64.206 +2
-
-2	Dhiraj Jadhav #9 (GS)	2025 Hyundai Elantra N	65.304	52.830	
-68.791 +1
-66.656 +1
-65.326 +2
-65.304
-
-3	Kaustav Acharya #90 (GS)	2025 Hyundai Elantra N-doscopy	65.954	53.356	
-67.203
-66.482
-65.954
-75.256 RRN
-66.330
-
-4	Patty Jeschien #23 (HS)	2015 Mini Cooper S	73.333	57.199	
-75.786
-73.333
-72.771 +1
-71.772 +1
-
-5	Alexander Bowen #1 (HS)	2022 Honda Accord	83.355	65.016	
-112.847 DNF
-95.094
-90.454
-83.355
-
-6	Michael Bowen #331 (GS)	2022 Mazda 3	107.645	87.084	
-107.645
-98.456 DNF
-103.489 RRN
-91.077 DNF
-
-XS
-1	James Clenney #76 (EVX)	2025 Tesla Model 3 Performance	60.993	51.173	
-62.273 +1
-60.993
-
-2	Teresa Neidel-McKee #41 (XB)	1993 Mazda RX7	59.844	51.405	
-59.844
-
-3	Eric Gnesa #93 (XB)	2009 Porsche Cayman S	60.018	51.555	
-60.018
-61.542 DNF
-
-4	Chris Cox #178 (EVX)	2018 Tesla Model 3	61.487	51.587	
-61.487
-
-5	Tom Ellam #38 (XB)	1972 Mazda RX3	60.382	51.868	
-60.382
-
-6	Lisa Gnesa #193 (XB)	2009 Porsche Cayman S	60.403	51.886	
-62.410 +1
-60.403
-
-7	Steve Lau #18 (XA)	2010 Porsche Cayman	60.352	51.963	
-59.602 +1
-60.352
-
-8	Navid Kahangi #80 (EVX)	2024 Tesla Model 3 Performance	62.077	52.082	
-62.077
-
-9	Tara Shapowal #187 (XA)	2010 Porsche Cayman	60.681	52.246	
-60.681
-
-10	Drew Powers #138 (XB)	2014 Porsche Cayman S	61.052	52.443	
-61.052
-61.192
-
-11	Pilar Miranda #180 (EVX)	2024 Tesla Model 3	64.059	53.745	
-65.402
-64.059
-
-12	Justin Bowen #48 (EVX)	2024 Tesla Model 3 Performance	64.205	53.867	
-63.257 DNF
-62.205 +1
-
-13	Erika McKee #14 (XB)	1993 Mazda RX7	63.175	54.267	
-63.755 +1
-63.175
-
-14	Phil Castro #87 (XA)	2015 Mitsubishi Lancer Evolution X	63.405	54.591	
-64.273
-63.405
-
-15	James Laeno #96 (XU)	Mazda Exocet	66.552	57.833	
-62.552 +2
-64.384 DNF
-
-16	Anthony Zwain #139 (XU)	2004 BMW M3	75.113	65.273	
-75.113
-68.981 DNF
-
-17	Tony Rodriguez #39 (XU)	2003 BMW M3	999.000	999.000	
-65.202 DNF
+Overall
+Rank	Driver	Class - Number	Time
+1	Teresa Neidel-McKee	XS-XB #41	58.789
+2	Steve Lau	XS-XA #18	59.588
+3	Justin Tsang	BST #88	59.842
+4	Eric Gnesa	XS-XB #93	60.018
+5	Tara Shapowal	XS-XA #187	60.019
+6	Mack Tsang	BST #188	60.085
+7	Tom Ellam	XS-XB #38	60.382
+8	Lisa Gnesa	XS-XB #193	60.403
+9	James Clenney	XS-EVX #76	60.656
+10	James Laeno	XS-XU #96	60.779
+11	Monty Pack	S1-SS #15	60.906
+12	Chris Cox	XS-EVX #178	60.915
+13	Drew Powers	XS-XB #138	61.052
+14	Tony Rodriguez	XS-XU #39	61.504
+15	Navid Kahangi	XS-EVX #80	61.571
+16	Patrick Drudge	SST #126	61.964
+17	Cody Mountjoy	S2-BS #23	61.990
+18	Edwin Liu	SST #58	62.327
+19	Jonathan Lugod	CST #94	62.425
+20	Arvind Govindaraj	AST #17	62.449
+21	Pilar Miranda	XS-EVX #180	63.013
+22	Phil Castro	XS-XA #87	63.103
+23	Erika McKee	XS-XB #14	63.175
+24	Christopher Cook	CST #9	63.280
+25	Shawn Tokairin	AST #938	63.333
+26	Alex Petrovsky	AST #12	63.504
+27	Glen Anderson	CST #79	63.670
+28	Muamong Yiengyouav	CST #134	63.889
+29	Christopher Rosario	S4-GS #33	64.062
+30	Ed Runnion	CST #18	64.090
+31	Justin Bowen	XS-EVX #48	64.205
+32	Da Chang	CST #63	64.463
+33	Kristen Acharya	AST #117	64.524
+34	Dhiraj Jadhav	S4-GS #9	65.304
+35	Yon Visell	BST #131	65.372
+36	John Hartford	N-CST #108	65.860
+37	Jonah Olsen	BST #370	65.870
+38	Kaustav Acharya	S4-GS #90	65.954
+39	Gregory Kehoe	BST #95	66.168
+40	Jessica Yeung Lugod	CST #194	66.494
+41	John Fabian	DST #55	66.503
+42	Katja Seltmann	BST #31	66.734
+43	Dennis Quilantang	CST #137	67.028
+44	Gary Fazekas	S2-FS #46	68.102
+45	Anthony Zwain	XS-XU #139	69.015
+46	Noah Sulzberg	BST #8	69.655
+47	Eugene Bulavin	N-GS #410	70.207
+48	Bert Schneider	S2-BS #22	72.140
+49	Kate Engelking	AST #9	72.582
+50	Scott Abuso	CST #28	72.743
+51	Jordan Stone	N-DST #88	72.831
+52	Patty Jeschien	S4-HS #23	73.333
+53	Megan Anderson	CST #76	73.678
+54	Hector Wong	N-XB #94	73.831
+55	Myles Wang	CST #6	74.460
+56	Thomas Bock	N-BS #707	74.545
+57	Tzen-Chuen Ng	N-BS #56	74.609
+58	Nami Ranjbarsadeghi	N-GS #24	74.949
+59	Farouk Rice	N-BST #78	75.499
+60	Brandon Ha	N-CST #25	75.734
+61	Vincent Boc	N-BS #273	76.324
+62	Karthik Anand	N-GS #909	77.041
+63	Alexander Blum	N-BST #178	78.223
+64	Anthony Chu	N-HS #26	82.430
+65	Alexander Bowen	S4-HS #1	83.355
+66	Kris Ludwig	BST #151	84.524
+67	Raymond Ha	N-CST #23	89.110
+68	Mikhail Korobetskiy	N-BST #350	107.101
+69	Michael Bowen	S4-GS #331	107.645
+70	Andrei Malyshev	N-GS #77	999.000
+70	Frank Frick	BST #28	999.000
