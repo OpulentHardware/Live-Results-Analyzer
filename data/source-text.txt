@@ -897,7 +897,7 @@ P
 63.408 +2
 64.840 +2
 61.030 +1
-14.763 DNF
+81.012 DNF
 
 3	Michael Ansell #177 (CP)	1969 Chevrolet `Camaro	65.252	56.247	
 65.252
