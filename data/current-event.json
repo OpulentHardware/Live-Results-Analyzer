@@ -1,26 +1,26 @@
 {
   "status": "ok",
   "sourceUrl": "https://live.sfrautox.com/#N",
-  "updatedAt": "2026-08-23T17:29:35.001Z",
+  "updatedAt": "2026-08-23T17:51:19.069Z",
   "event": {
     "title": "2026 SFRSCCA #09 Live Results",
     "date": "2026-08-23",
-    "participants": 30,
+    "participants": 34,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-08-23T17:29:35.001Z",
+    "updatedAt": "2026-08-23T17:51:19.069Z",
     "status": "ok"
   },
   "meta": {
     "title": "2026 SFRSCCA #09 Live Results",
     "date": "2026-08-23",
-    "participants": 30,
+    "participants": 34,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-08-23T17:29:35.001Z",
+    "updatedAt": "2026-08-23T17:51:19.069Z",
     "status": "ok"
   },
   "title": "2026 SFRSCCA #09 Live Results",
   "date": "2026-08-23",
-  "participants": 30,
+  "participants": 34,
   "overall": [
     {
       "rank": 1,
@@ -96,7 +96,8 @@
       "runs": [
         "61.967",
         "62.295 +2",
-        "60.835"
+        "60.835",
+        "61.237"
       ],
       "bestRaw": 60.835,
       "bestPax": 51.101
@@ -186,6 +187,27 @@
     {
       "rank": 9,
       "position": 9,
+      "driver": "Cody Mountjoy",
+      "class": "S2-BS",
+      "cls": "S2-BS",
+      "number": "#23",
+      "classNumber": "S2-BS #23",
+      "time": 64.326,
+      "rawTime": 64.326,
+      "indexedTime": null,
+      "car": "(BS) 2025 Toyota GR Corolla",
+      "runs": [
+        "65.265 +3",
+        "65.084 +1",
+        "63.924 +1",
+        "64.326"
+      ],
+      "bestRaw": 64.326,
+      "bestPax": 52.94
+    },
+    {
+      "rank": 10,
+      "position": 10,
       "driver": "Douglas Hargrove",
       "class": "M-FM",
       "cls": "M-FM",
@@ -196,14 +218,33 @@
       "indexedTime": null,
       "car": "(FM) 1983 R&D Special",
       "runs": [
-        "64.498"
+        "64.498",
+        "64.627"
       ],
       "bestRaw": 64.498,
       "bestPax": 59.144
     },
     {
-      "rank": 10,
-      "position": 10,
+      "rank": 11,
+      "position": 11,
+      "driver": "Reed Gibson",
+      "class": "SC-CSX",
+      "cls": "SC-CSX",
+      "number": "#12",
+      "classNumber": "SC-CSX #12",
+      "time": 64.576,
+      "rawTime": 64.576,
+      "indexedTime": null,
+      "car": "(CSX) 2015 Mazda Miata in da Clerb",
+      "runs": [
+        "64.576"
+      ],
+      "bestRaw": 64.576,
+      "bestPax": 51.854
+    },
+    {
+      "rank": 12,
+      "position": 12,
       "driver": "Glen Anderson",
       "class": "CST",
       "cls": "CST",
@@ -223,8 +264,8 @@
       "bestPax": 53.83
     },
     {
-      "rank": 11,
-      "position": 11,
+      "rank": 13,
+      "position": 13,
       "driver": "Josh Maze",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -244,8 +285,8 @@
       "bestPax": 53.495
     },
     {
-      "rank": 12,
-      "position": 12,
+      "rank": 14,
+      "position": 14,
       "driver": "Jessica Yeung Lugod",
       "class": "CST",
       "cls": "CST",
@@ -258,14 +299,15 @@
       "runs": [
         "65.455",
         "65.119",
+        "64.775 +1",
         "65.007 +1"
       ],
       "bestRaw": 65.119,
       "bestPax": 53.983
     },
     {
-      "rank": 13,
-      "position": 13,
+      "rank": 15,
+      "position": 15,
       "driver": "Da Chang",
       "class": "CST",
       "cls": "CST",
@@ -278,14 +320,15 @@
       "runs": [
         "67.328",
         "65.874",
-        "65.508"
+        "65.508",
+        "65.460 +1"
       ],
       "bestRaw": 65.508,
       "bestPax": 54.306
     },
     {
-      "rank": 14,
-      "position": 14,
+      "rank": 16,
+      "position": 16,
       "driver": "Wilson Velandia",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -305,28 +348,26 @@
       "bestPax": 54.153
     },
     {
-      "rank": 15,
-      "position": 15,
-      "driver": "Cody Mountjoy",
-      "class": "S2-BS",
-      "cls": "S2-BS",
-      "number": "#23",
-      "classNumber": "S2-BS #23",
-      "time": 65.924,
-      "rawTime": 65.924,
+      "rank": 17,
+      "position": 17,
+      "driver": "Pilar Miranda",
+      "class": "XS-EVX",
+      "cls": "XS-EVX",
+      "number": "#180",
+      "classNumber": "XS-EVX #180",
+      "time": 66.005,
+      "rawTime": 66.005,
       "indexedTime": null,
-      "car": "(BS) 2025 Toyota GR Corolla",
+      "car": "(EVX) 2024 Tesla Model 3",
       "runs": [
-        "65.265 +3",
-        "65.084 +1",
-        "63.924 +1"
+        "66.005"
       ],
-      "bestRaw": 65.924,
-      "bestPax": 54.255
+      "bestRaw": 66.005,
+      "bestPax": 55.378
     },
     {
-      "rank": 16,
-      "position": 16,
+      "rank": 18,
+      "position": 18,
       "driver": "Kaustav Acharya",
       "class": "S4-GS",
       "cls": "S4-GS",
@@ -346,8 +387,8 @@
       "bestPax": 53.439
     },
     {
-      "rank": 17,
-      "position": 17,
+      "rank": 19,
+      "position": 19,
       "driver": "Muamong Yiengyouav",
       "class": "CST",
       "cls": "CST",
@@ -366,8 +407,8 @@
       "bestPax": 54.931
     },
     {
-      "rank": 18,
-      "position": 18,
+      "rank": 20,
+      "position": 20,
       "driver": "Ed Runnion",
       "class": "CST",
       "cls": "CST",
@@ -380,14 +421,15 @@
       "runs": [
         "67.660",
         "66.212 +1",
-        "66.288"
+        "66.288",
+        "66.138 +2"
       ],
       "bestRaw": 66.288,
       "bestPax": 54.952
     },
     {
-      "rank": 19,
-      "position": 19,
+      "rank": 21,
+      "position": 21,
       "driver": "Dhiraj Jadhav",
       "class": "S4-GS",
       "cls": "S4-GS",
@@ -407,8 +449,8 @@
       "bestPax": 54.012
     },
     {
-      "rank": 20,
-      "position": 20,
+      "rank": 22,
+      "position": 22,
       "driver": "Christopher Cook",
       "class": "CST",
       "cls": "CST",
@@ -428,8 +470,8 @@
       "bestPax": 55.474
     },
     {
-      "rank": 21,
-      "position": 21,
+      "rank": 23,
+      "position": 23,
       "driver": "John Hartford",
       "class": "N-CST",
       "cls": "N-CST",
@@ -448,28 +490,47 @@
       "bestPax": 55.614
     },
     {
-      "rank": 22,
-      "position": 22,
+      "rank": 24,
+      "position": 24,
+      "driver": "Lisa Gnesa",
+      "class": "XS-XB",
+      "cls": "XS-XB",
+      "number": "#193",
+      "classNumber": "XS-XB #193",
+      "time": 67.155,
+      "rawTime": 67.155,
+      "indexedTime": null,
+      "car": "(XB) 2009 Porsche Cayman S",
+      "runs": [
+        "63.155 +2"
+      ],
+      "bestRaw": 67.155,
+      "bestPax": 57.686
+    },
+    {
+      "rank": 25,
+      "position": 25,
       "driver": "Dennis Quilantang",
       "class": "CST",
       "cls": "CST",
       "number": "#137",
       "classNumber": "CST #137",
-      "time": 69.12,
-      "rawTime": 69.12,
+      "time": 68.585,
+      "rawTime": 68.585,
       "indexedTime": null,
       "car": "2022 Subaru BRZ",
       "runs": [
         "70.182",
         "69.120",
-        "68.291 +1"
+        "68.291 +1",
+        "68.585"
       ],
-      "bestRaw": 69.12,
-      "bestPax": 57.3
+      "bestRaw": 68.585,
+      "bestPax": 56.856
     },
     {
-      "rank": 23,
-      "position": 23,
+      "rank": 26,
+      "position": 26,
       "driver": "Jeremy Leung",
       "class": "CST",
       "cls": "CST",
@@ -488,8 +549,8 @@
       "bestPax": 57.771
     },
     {
-      "rank": 24,
-      "position": 24,
+      "rank": 27,
+      "position": 27,
       "driver": "Megan Anderson",
       "class": "CST",
       "cls": "CST",
@@ -509,28 +570,29 @@
       "bestPax": 58.373
     },
     {
-      "rank": 25,
-      "position": 25,
+      "rank": 28,
+      "position": 28,
       "driver": "Gary Fazekas",
       "class": "S2-FS",
       "cls": "S2-FS",
       "number": "#46",
       "classNumber": "S2-FS #46",
-      "time": 70.861,
-      "rawTime": 70.861,
+      "time": 70.632,
+      "rawTime": 70.632,
       "indexedTime": null,
       "car": "(FS) 2022 Ford Mustang",
       "runs": [
         "71.738 +1",
         "70.861",
-        "69.786 +1"
+        "69.786 +1",
+        "68.632 +1"
       ],
-      "bestRaw": 70.861,
-      "bestPax": 57.893
+      "bestRaw": 70.632,
+      "bestPax": 57.706
     },
     {
-      "rank": 26,
-      "position": 26,
+      "rank": 29,
+      "position": 29,
       "driver": "Bert Schneider",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -550,8 +612,8 @@
       "bestPax": 59.133
     },
     {
-      "rank": 27,
-      "position": 27,
+      "rank": 30,
+      "position": 30,
       "driver": "Patty Jeschien",
       "class": "S4-HS",
       "cls": "S4-HS",
@@ -570,8 +632,8 @@
       "bestPax": 58.645
     },
     {
-      "rank": 28,
-      "position": 28,
+      "rank": 31,
+      "position": 31,
       "driver": "Nami Ranjbarsadeghi",
       "class": "N-GS",
       "cls": "N-GS",
@@ -591,8 +653,8 @@
       "bestPax": 61.085
     },
     {
-      "rank": 29,
-      "position": 29,
+      "rank": 32,
+      "position": 32,
       "driver": "Cheng Zhu",
       "class": "N-FS",
       "cls": "N-FS",
@@ -609,23 +671,24 @@
       "bestPax": 69.959
     },
     {
-      "rank": 30,
-      "position": 30,
+      "rank": 33,
+      "position": 33,
       "driver": "Shengsheng Xu",
       "class": "S2-BS",
       "cls": "S2-BS",
       "number": "#9",
       "classNumber": "S2-BS #9",
-      "time": 93.035,
-      "rawTime": 93.035,
+      "time": 92.29,
+      "rawTime": 92.29,
       "indexedTime": null,
       "car": "(BS) 2020 BMW M2C",
       "runs": [
         "99.528 +1",
-        "93.035"
+        "93.035",
+        "92.290"
       ],
-      "bestRaw": 93.035,
-      "bestPax": 76.567
+      "bestRaw": 92.29,
+      "bestPax": 75.954
     }
   ],
   "pax": [
@@ -644,7 +707,8 @@
       "runs": [
         "61.967",
         "62.295 +2",
-        "60.835"
+        "60.835",
+        "61.237"
       ],
       "bestRaw": 60.835,
       "bestPax": 51.101
@@ -694,6 +758,24 @@
     {
       "rank": 4,
       "position": 4,
+      "driver": "Reed Gibson",
+      "class": "SC-CSX",
+      "cls": "SC-CSX",
+      "number": "#12",
+      "classNumber": "SC-CSX #12",
+      "time": 51.854,
+      "rawTime": null,
+      "indexedTime": 51.854,
+      "car": "(CSX) 2015 Mazda Miata in da Clerb",
+      "runs": [
+        "64.576"
+      ],
+      "bestRaw": 64.576,
+      "bestPax": 51.854
+    },
+    {
+      "rank": 5,
+      "position": 5,
       "driver": "Alex Muresan",
       "class": "S4-GS",
       "cls": "S4-GS",
@@ -712,8 +794,8 @@
       "bestPax": 51.893
     },
     {
-      "rank": 5,
-      "position": 5,
+      "rank": 6,
+      "position": 6,
       "driver": "Monty Pack",
       "class": "S1-SS",
       "cls": "S1-SS",
@@ -732,8 +814,8 @@
       "bestPax": 52.656
     },
     {
-      "rank": 6,
-      "position": 6,
+      "rank": 7,
+      "position": 7,
       "driver": "Ben Martinez",
       "class": "M-CM",
       "cls": "M-CM",
@@ -752,8 +834,29 @@
       "bestPax": 52.89
     },
     {
-      "rank": 7,
-      "position": 7,
+      "rank": 8,
+      "position": 8,
+      "driver": "Cody Mountjoy",
+      "class": "S2-BS",
+      "cls": "S2-BS",
+      "number": "#23",
+      "classNumber": "S2-BS #23",
+      "time": 52.94,
+      "rawTime": null,
+      "indexedTime": 52.94,
+      "car": "(BS) 2025 Toyota GR Corolla",
+      "runs": [
+        "65.265 +3",
+        "65.084 +1",
+        "63.924 +1",
+        "64.326"
+      ],
+      "bestRaw": 64.326,
+      "bestPax": 52.94
+    },
+    {
+      "rank": 9,
+      "position": 9,
       "driver": "Kaustav Acharya",
       "class": "S4-GS",
       "cls": "S4-GS",
@@ -773,8 +876,8 @@
       "bestPax": 53.439
     },
     {
-      "rank": 8,
-      "position": 8,
+      "rank": 10,
+      "position": 10,
       "driver": "Josh Maze",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -794,8 +897,8 @@
       "bestPax": 53.495
     },
     {
-      "rank": 9,
-      "position": 9,
+      "rank": 11,
+      "position": 11,
       "driver": "Roger Kroog",
       "class": "M-FM",
       "cls": "M-FM",
@@ -814,8 +917,8 @@
       "bestPax": 53.723
     },
     {
-      "rank": 10,
-      "position": 10,
+      "rank": 12,
+      "position": 12,
       "driver": "Glen Anderson",
       "class": "CST",
       "cls": "CST",
@@ -835,8 +938,8 @@
       "bestPax": 53.83
     },
     {
-      "rank": 11,
-      "position": 11,
+      "rank": 13,
+      "position": 13,
       "driver": "Jessica Yeung Lugod",
       "class": "CST",
       "cls": "CST",
@@ -849,14 +952,15 @@
       "runs": [
         "65.455",
         "65.119",
+        "64.775 +1",
         "65.007 +1"
       ],
       "bestRaw": 65.119,
       "bestPax": 53.983
     },
     {
-      "rank": 12,
-      "position": 12,
+      "rank": 14,
+      "position": 14,
       "driver": "Dhiraj Jadhav",
       "class": "S4-GS",
       "cls": "S4-GS",
@@ -876,8 +980,8 @@
       "bestPax": 54.012
     },
     {
-      "rank": 13,
-      "position": 13,
+      "rank": 15,
+      "position": 15,
       "driver": "Wilson Velandia",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -897,28 +1001,8 @@
       "bestPax": 54.153
     },
     {
-      "rank": 14,
-      "position": 14,
-      "driver": "Cody Mountjoy",
-      "class": "S2-BS",
-      "cls": "S2-BS",
-      "number": "#23",
-      "classNumber": "S2-BS #23",
-      "time": 54.255,
-      "rawTime": null,
-      "indexedTime": 54.255,
-      "car": "(BS) 2025 Toyota GR Corolla",
-      "runs": [
-        "65.265 +3",
-        "65.084 +1",
-        "63.924 +1"
-      ],
-      "bestRaw": 65.924,
-      "bestPax": 54.255
-    },
-    {
-      "rank": 15,
-      "position": 15,
+      "rank": 16,
+      "position": 16,
       "driver": "Da Chang",
       "class": "CST",
       "cls": "CST",
@@ -931,14 +1015,15 @@
       "runs": [
         "67.328",
         "65.874",
-        "65.508"
+        "65.508",
+        "65.460 +1"
       ],
       "bestRaw": 65.508,
       "bestPax": 54.306
     },
     {
-      "rank": 16,
-      "position": 16,
+      "rank": 17,
+      "position": 17,
       "driver": "Boris Vujasinovic",
       "class": "M-FM",
       "cls": "M-FM",
@@ -956,8 +1041,8 @@
       "bestPax": 54.576
     },
     {
-      "rank": 17,
-      "position": 17,
+      "rank": 18,
+      "position": 18,
       "driver": "Muamong Yiengyouav",
       "class": "CST",
       "cls": "CST",
@@ -976,8 +1061,8 @@
       "bestPax": 54.931
     },
     {
-      "rank": 18,
-      "position": 18,
+      "rank": 19,
+      "position": 19,
       "driver": "Ed Runnion",
       "class": "CST",
       "cls": "CST",
@@ -990,14 +1075,33 @@
       "runs": [
         "67.660",
         "66.212 +1",
-        "66.288"
+        "66.288",
+        "66.138 +2"
       ],
       "bestRaw": 66.288,
       "bestPax": 54.952
     },
     {
-      "rank": 19,
-      "position": 19,
+      "rank": 20,
+      "position": 20,
+      "driver": "Pilar Miranda",
+      "class": "XS-EVX",
+      "cls": "XS-EVX",
+      "number": "#180",
+      "classNumber": "XS-EVX #180",
+      "time": 55.378,
+      "rawTime": null,
+      "indexedTime": 55.378,
+      "car": "(EVX) 2024 Tesla Model 3",
+      "runs": [
+        "66.005"
+      ],
+      "bestRaw": 66.005,
+      "bestPax": 55.378
+    },
+    {
+      "rank": 21,
+      "position": 21,
       "driver": "Christopher Cook",
       "class": "CST",
       "cls": "CST",
@@ -1017,8 +1121,8 @@
       "bestPax": 55.474
     },
     {
-      "rank": 20,
-      "position": 20,
+      "rank": 22,
+      "position": 22,
       "driver": "John Hartford",
       "class": "N-CST",
       "cls": "N-CST",
@@ -1037,28 +1141,68 @@
       "bestPax": 55.614
     },
     {
-      "rank": 21,
-      "position": 21,
+      "rank": 23,
+      "position": 23,
       "driver": "Dennis Quilantang",
       "class": "CST",
       "cls": "CST",
       "number": "#137",
       "classNumber": "CST #137",
-      "time": 57.3,
+      "time": 56.856,
       "rawTime": null,
-      "indexedTime": 57.3,
+      "indexedTime": 56.856,
       "car": "2022 Subaru BRZ",
       "runs": [
         "70.182",
         "69.120",
-        "68.291 +1"
+        "68.291 +1",
+        "68.585"
       ],
-      "bestRaw": 69.12,
-      "bestPax": 57.3
+      "bestRaw": 68.585,
+      "bestPax": 56.856
     },
     {
-      "rank": 22,
-      "position": 22,
+      "rank": 24,
+      "position": 24,
+      "driver": "Lisa Gnesa",
+      "class": "XS-XB",
+      "cls": "XS-XB",
+      "number": "#193",
+      "classNumber": "XS-XB #193",
+      "time": 57.686,
+      "rawTime": null,
+      "indexedTime": 57.686,
+      "car": "(XB) 2009 Porsche Cayman S",
+      "runs": [
+        "63.155 +2"
+      ],
+      "bestRaw": 67.155,
+      "bestPax": 57.686
+    },
+    {
+      "rank": 25,
+      "position": 25,
+      "driver": "Gary Fazekas",
+      "class": "S2-FS",
+      "cls": "S2-FS",
+      "number": "#46",
+      "classNumber": "S2-FS #46",
+      "time": 57.706,
+      "rawTime": null,
+      "indexedTime": 57.706,
+      "car": "(FS) 2022 Ford Mustang",
+      "runs": [
+        "71.738 +1",
+        "70.861",
+        "69.786 +1",
+        "68.632 +1"
+      ],
+      "bestRaw": 70.632,
+      "bestPax": 57.706
+    },
+    {
+      "rank": 26,
+      "position": 26,
       "driver": "Jeremy Leung",
       "class": "CST",
       "cls": "CST",
@@ -1077,28 +1221,8 @@
       "bestPax": 57.771
     },
     {
-      "rank": 23,
-      "position": 23,
-      "driver": "Gary Fazekas",
-      "class": "S2-FS",
-      "cls": "S2-FS",
-      "number": "#46",
-      "classNumber": "S2-FS #46",
-      "time": 57.893,
-      "rawTime": null,
-      "indexedTime": 57.893,
-      "car": "(FS) 2022 Ford Mustang",
-      "runs": [
-        "71.738 +1",
-        "70.861",
-        "69.786 +1"
-      ],
-      "bestRaw": 70.861,
-      "bestPax": 57.893
-    },
-    {
-      "rank": 24,
-      "position": 24,
+      "rank": 27,
+      "position": 27,
       "driver": "Megan Anderson",
       "class": "CST",
       "cls": "CST",
@@ -1118,8 +1242,8 @@
       "bestPax": 58.373
     },
     {
-      "rank": 25,
-      "position": 25,
+      "rank": 28,
+      "position": 28,
       "driver": "Patty Jeschien",
       "class": "S4-HS",
       "cls": "S4-HS",
@@ -1138,8 +1262,8 @@
       "bestPax": 58.645
     },
     {
-      "rank": 26,
-      "position": 26,
+      "rank": 29,
+      "position": 29,
       "driver": "Bert Schneider",
       "class": "S2-BS",
       "cls": "S2-BS",
@@ -1159,8 +1283,8 @@
       "bestPax": 59.133
     },
     {
-      "rank": 27,
-      "position": 27,
+      "rank": 30,
+      "position": 30,
       "driver": "Douglas Hargrove",
       "class": "M-FM",
       "cls": "M-FM",
@@ -1171,14 +1295,15 @@
       "indexedTime": 59.144,
       "car": "(FM) 1983 R&D Special",
       "runs": [
-        "64.498"
+        "64.498",
+        "64.627"
       ],
       "bestRaw": 64.498,
       "bestPax": 59.144
     },
     {
-      "rank": 28,
-      "position": 28,
+      "rank": 31,
+      "position": 31,
       "driver": "Nami Ranjbarsadeghi",
       "class": "N-GS",
       "cls": "N-GS",
@@ -1198,8 +1323,8 @@
       "bestPax": 61.085
     },
     {
-      "rank": 29,
-      "position": 29,
+      "rank": 32,
+      "position": 32,
       "driver": "Cheng Zhu",
       "class": "N-FS",
       "cls": "N-FS",
@@ -1216,23 +1341,24 @@
       "bestPax": 69.959
     },
     {
-      "rank": 30,
-      "position": 30,
+      "rank": 33,
+      "position": 33,
       "driver": "Shengsheng Xu",
       "class": "S2-BS",
       "cls": "S2-BS",
       "number": "#9",
       "classNumber": "S2-BS #9",
-      "time": 76.567,
+      "time": 75.954,
       "rawTime": null,
-      "indexedTime": 76.567,
+      "indexedTime": 75.954,
       "car": "(BS) 2020 BMW M2C",
       "runs": [
         "99.528 +1",
-        "93.035"
+        "93.035",
+        "92.290"
       ],
-      "bestRaw": 93.035,
-      "bestPax": 76.567
+      "bestRaw": 92.29,
+      "bestPax": 75.954
     }
   ],
   "classes": {
@@ -1296,6 +1422,7 @@
         "runs": [
           "65.455",
           "65.119",
+          "64.775 +1",
           "65.007 +1"
         ]
       },
@@ -1316,7 +1443,8 @@
         "runs": [
           "67.328",
           "65.874",
-          "65.508"
+          "65.508",
+          "65.460 +1"
         ]
       },
       {
@@ -1356,7 +1484,8 @@
         "runs": [
           "67.660",
           "66.212 +1",
-          "66.288"
+          "66.288",
+          "66.138 +2"
         ]
       },
       {
@@ -1389,15 +1518,16 @@
         "number": "#137",
         "car": "2022 Subaru BRZ",
         "classNumber": "CST #137",
-        "bestRaw": 69.12,
-        "bestPax": 57.3,
-        "rawTime": 69.12,
-        "indexedTime": 57.3,
-        "time": 69.12,
+        "bestRaw": 68.585,
+        "bestPax": 56.856,
+        "rawTime": 68.585,
+        "indexedTime": 56.856,
+        "time": 68.585,
         "runs": [
           "70.182",
           "69.120",
-          "68.291 +1"
+          "68.291 +1",
+          "68.585"
         ]
       },
       {
@@ -1517,7 +1647,8 @@
         "indexedTime": 59.144,
         "time": 64.498,
         "runs": [
-          "64.498"
+          "64.498",
+          "64.627"
         ]
       }
     ],
@@ -1600,7 +1731,8 @@
         "runs": [
           "61.967",
           "62.295 +2",
-          "60.835"
+          "60.835",
+          "61.237"
         ]
       },
       {
@@ -1628,6 +1760,27 @@
       {
         "position": 1,
         "rank": 1,
+        "driver": "Cody Mountjoy",
+        "class": "S2",
+        "cls": "S2",
+        "number": "#23",
+        "car": "(BS) 2025 Toyota GR Corolla",
+        "classNumber": "S2 #23",
+        "bestRaw": 64.326,
+        "bestPax": 52.94,
+        "rawTime": 64.326,
+        "indexedTime": 52.94,
+        "time": 64.326,
+        "runs": [
+          "65.265 +3",
+          "65.084 +1",
+          "63.924 +1",
+          "64.326"
+        ]
+      },
+      {
+        "position": 2,
+        "rank": 2,
         "driver": "Josh Maze",
         "class": "S2",
         "cls": "S2",
@@ -1647,8 +1800,8 @@
         ]
       },
       {
-        "position": 2,
-        "rank": 2,
+        "position": 3,
+        "rank": 3,
         "driver": "Wilson Velandia",
         "class": "S2",
         "cls": "S2",
@@ -1668,26 +1821,6 @@
         ]
       },
       {
-        "position": 3,
-        "rank": 3,
-        "driver": "Cody Mountjoy",
-        "class": "S2",
-        "cls": "S2",
-        "number": "#23",
-        "car": "(BS) 2025 Toyota GR Corolla",
-        "classNumber": "S2 #23",
-        "bestRaw": 65.924,
-        "bestPax": 54.255,
-        "rawTime": 65.924,
-        "indexedTime": 54.255,
-        "time": 65.924,
-        "runs": [
-          "65.265 +3",
-          "65.084 +1",
-          "63.924 +1"
-        ]
-      },
-      {
         "position": 4,
         "rank": 4,
         "driver": "Gary Fazekas",
@@ -1696,15 +1829,16 @@
         "number": "#46",
         "car": "(FS) 2022 Ford Mustang",
         "classNumber": "S2 #46",
-        "bestRaw": 70.861,
-        "bestPax": 57.893,
-        "rawTime": 70.861,
-        "indexedTime": 57.893,
-        "time": 70.861,
+        "bestRaw": 70.632,
+        "bestPax": 57.706,
+        "rawTime": 70.632,
+        "indexedTime": 57.706,
+        "time": 70.632,
         "runs": [
           "71.738 +1",
           "70.861",
-          "69.786 +1"
+          "69.786 +1",
+          "68.632 +1"
         ]
       },
       {
@@ -1737,14 +1871,15 @@
         "number": "#9",
         "car": "(BS) 2020 BMW M2C",
         "classNumber": "S2 #9",
-        "bestRaw": 93.035,
-        "bestPax": 76.567,
-        "rawTime": 93.035,
-        "indexedTime": 76.567,
-        "time": 93.035,
+        "bestRaw": 92.29,
+        "bestPax": 75.954,
+        "rawTime": 92.29,
+        "indexedTime": 75.954,
+        "time": 92.29,
         "runs": [
           "99.528 +1",
-          "93.035"
+          "93.035",
+          "92.290"
         ]
       }
     ],
@@ -1768,6 +1903,24 @@
           "64.106",
           "63.869",
           "63.572 +5"
+        ]
+      },
+      {
+        "position": 1,
+        "rank": 1,
+        "driver": "Reed Gibson",
+        "class": "S4",
+        "cls": "S4",
+        "number": "#12",
+        "car": "(CSX) 2015 Mazda Miata in da Clerb",
+        "classNumber": "S4 #12",
+        "bestRaw": 64.576,
+        "bestPax": 51.854,
+        "rawTime": 64.576,
+        "indexedTime": 51.854,
+        "time": 64.576,
+        "runs": [
+          "64.576"
         ]
       },
       {
@@ -1852,6 +2005,44 @@
           "76.292"
         ]
       }
+    ],
+    "XS": [
+      {
+        "position": 1,
+        "rank": 1,
+        "driver": "Pilar Miranda",
+        "class": "XS",
+        "cls": "XS",
+        "number": "#180",
+        "car": "(EVX) 2024 Tesla Model 3",
+        "classNumber": "XS #180",
+        "bestRaw": 66.005,
+        "bestPax": 55.378,
+        "rawTime": 66.005,
+        "indexedTime": 55.378,
+        "time": 66.005,
+        "runs": [
+          "66.005"
+        ]
+      },
+      {
+        "position": 2,
+        "rank": 2,
+        "driver": "Lisa Gnesa",
+        "class": "XS",
+        "cls": "XS",
+        "number": "#193",
+        "car": "(XB) 2009 Porsche Cayman S",
+        "classNumber": "XS #193",
+        "bestRaw": 67.155,
+        "bestPax": 57.686,
+        "rawTime": 67.155,
+        "indexedTime": 57.686,
+        "time": 67.155,
+        "runs": [
+          "63.155 +2"
+        ]
+      }
     ]
   },
   "classOrder": [
@@ -1860,20 +2051,22 @@
     "N",
     "S1",
     "S2",
-    "S4"
+    "S4",
+    "XS"
   ],
   "diagnostics": {
-    "sourceLineCount": 232,
-    "overallRows": 30,
-    "paxRows": 30,
-    "classGroups": 6,
+    "sourceLineCount": 262,
+    "overallRows": 33,
+    "paxRows": 33,
+    "classGroups": 7,
     "classRows": {
       "CST": 10,
       "M": 4,
       "N": 3,
       "S1": 2,
       "S2": 6,
-      "S4": 5
+      "S4": 6,
+      "XS": 2
     }
   }
 }
