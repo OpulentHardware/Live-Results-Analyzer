@@ -24,14 +24,14 @@ Rank	Driver	Class - Number	Time
 15	Timothy Naugler	EVX #7	56.551
 16	Justin Tsang	AS #88	56.609
 17	Bryan Stewart	CAMS #138	56.707
-18	Isaac Acks	XA #71	56.893
-19	James Clenney	EVX #76	57.000
-20	Renee Russell	SPL-CSP #92	57.401
-21	Vince Russell	SP-CSP #192	57.495
-22	Juven Lat	SS #31	57.593
-23	Nick Relampagos	CAMT #128	57.636
-24	Pilar Miranda	EVX #78	57.639
-25	Erika McKee	XL-XB #41	57.818
+18	Erika McKee	XL-XB #41	56.847
+19	Isaac Acks	XA #71	56.893
+20	James Clenney	EVX #76	57.000
+21	Renee Russell	SPL-CSP #92	57.401
+22	Vince Russell	SP-CSP #192	57.495
+23	Juven Lat	SS #31	57.593
+24	Nick Relampagos	CAMT #128	57.636
+25	Pilar Miranda	EVX #78	57.639
 26	Arvind Govindaraj	ST1-AST #1	57.870
 27	Chad Ryker	CAMT #14	57.879
 28	Khoa Cao	XA #115	58.061
@@ -58,48 +58,48 @@ Rank	Driver	Class - Number	Time
 49	John Rowe	S1-DS #24	59.959
 50	Muamong Yiengyouav	CST #134	59.990
 51	Kaustav Acharya	S1-BS #49	60.151
-52	Brendan Voges	CAMT #699	60.155
-53	Mohamed Chaabene	M-BM #27	60.269
-54	Jonah Olsen	CAMT #51	60.369
-55	Stephanie Medeiros	SP-ESP #611	60.473
-56	Andre Piernot	ST1-EST #19	60.545
-57	Gregory Kehoe	BST #95	60.631
-58	Philip Ma	S1-DS #75	60.950
-59	Michael Scott	CAMC #33	61.039
-60	Eric Martin	ST1-SSC #74	61.105
-61	JUSTIN SCHMELZER	CAMS #81	61.790
-62	Keith Bullock	ST1-EST #18	62.023
-63	Craig Johnson	CAMT #7	62.060
-64	David Silva	P-CP #16	62.118
-65	Lily Maier	CAMT #235	62.153
-66	Donald Lew	S2-CS #52	62.160
+52	Mohamed Chaabene	M-BM #27	60.269
+53	Jonah Olsen	CAMT #51	60.369
+54	Stephanie Medeiros	SP-ESP #611	60.473
+55	Andre Piernot	ST1-EST #19	60.545
+56	Gregory Kehoe	BST #95	60.631
+57	Philip Ma	S1-DS #75	60.950
+58	Michael Scott	CAMC #33	61.039
+59	Eric Martin	ST1-SSC #74	61.105
+60	JUSTIN SCHMELZER	CAMS #81	61.790
+61	Keith Bullock	ST1-EST #18	62.023
+62	Craig Johnson	CAMT #7	62.060
+63	David Silva	P-CP #16	62.118
+64	Lily Maier	CAMT #235	62.153
+65	Donald Lew	S2-CS #52	62.160
+66	Coby Hartman	CAMS #59	62.210
 67	Kelly Prior	X-XB #143	62.228
 68	Anurag Prakash	S2-CS #164	62.342
-69	Coby Hartman	CAMS #59	62.599
-70	Arie Villasol	SP-FSP #16	63.187
-71	Kevin Zhan	ST1-AST #113	63.281
-72	Tom Cuschieri	CAMT #44	63.482
+69	Arie Villasol	SP-FSP #16	63.187
+70	Kevin Zhan	ST1-AST #113	63.281
+71	Tom Cuschieri	CAMT #44	63.434
+72	Manny Pretti	CAMSV #66	63.578
 73	David Anderson	S2-ES #43	63.608
 74	Ivan Garcia	SP-CSP #777	63.659
 75	Dylan Hemman	S2-GS #32	63.689
 76	Adrien Araujo	AS #333	63.783
-77	Manny Pretti	CAMSV #66	63.957
-78	Zach Galiste	CAMC #3	64.159
-79	Leon Weinroth	CAMC #51	64.367
-80	Megan Anderson	CST #76	64.485
-81	Matthew Klein	CAMT #42	64.597
-82	Matthew Jones	CAMS #405	64.790
-83	Derrick Galiste	CAMC #31	64.794
-84	Jim Barnes	CAMSV #77	65.431
-85	Frank Stagnaro	P-CP #361	65.479
-86	John Alvarez	CAMSV #65	65.742
+77	Zach Galiste	CAMC #3	64.159
+78	Leon Weinroth	CAMC #51	64.367
+79	Megan Anderson	CST #76	64.485
+80	Matthew Klein	CAMT #42	64.597
+81	Matthew Jones	CAMS #405	64.790
+82	Derrick Galiste	CAMC #31	64.794
+83	John Alvarez	CAMSV #65	64.846
+84	Brendan Voges	CAMT #699	65.358
+85	Jim Barnes	CAMSV #77	65.431
+86	Frank Stagnaro	P-CP #361	65.479
 87	Tom Mill	BST #14	66.031
 88	Devin Perry	CAMT #77	66.225
 89	Sharon Alvarez	CAMSV #165	66.338
 90	Stephen Roberts	S2-HS #91	67.153
-91	Andrew Shutt	S2-CS #77	67.831
-92	Duck Pham	XA #2	67.858
-93	Steve Hobaugh	CAMC #32	68.378
+91	Steve Hobaugh	CAMC #32	67.477
+92	Andrew Shutt	S2-CS #77	67.831
+93	Duck Pham	XA #2	67.858
 94	DARIN NELMS	SM-SSM #66	68.457
 95	Kristen Jones	CAMS #742	68.811
 96	Don Burdge	CAMT #771	69.240
@@ -161,12 +161,12 @@ Rank	Driver	Class - Number	Indexed Time
 41	Patrick Drudge	ST1-SST #126	49.478
 42	Kaustav Acharya	S1-BS #49	49.564
 43	Kurt Thorson	AS #65	49.599
-44	Brendan Voges	CAMT #699	49.627
-45	Andre Marconett	CAMS #180	49.684
-46	Bill Charron	ST1-SST #9	49.738
-47	Jonah Olsen	CAMT #51	49.804
-48	Muamong Yiengyouav	CST #134	49.911
-49	Tom Kubo	SP-CSP #92	49.975
+44	Andre Marconett	CAMS #180	49.684
+45	Bill Charron	ST1-SST #9	49.738
+46	Jonah Olsen	CAMT #51	49.804
+47	Muamong Yiengyouav	CST #134	49.911
+48	Tom Kubo	SP-CSP #92	49.975
+49	Erika McKee	XL-XB #41	50.025
 50	Jesus Villarreal	SS #91	50.097
 51	David Anderson	S2-ES #43	50.123
 52	Khoa Cao	XA #115	50.164
@@ -176,38 +176,38 @@ Rank	Driver	Class - Number	Indexed Time
 56	Michael Scott	CAMC #33	50.662
 57	Stephanie Medeiros	SP-ESP #611	50.797
 58	Gregory Kehoe	BST #95	50.808
-59	Erika McKee	XL-XB #41	50.879
-60	Craig Johnson	CAMT #7	51.199
-61	Lily Maier	CAMT #235	51.276
-62	Rob Boynton	SP-SSP #1	51.361
-63	Jake Obniski	X-XB #43	51.446
-64	Dylan Hemman	S2-GS #32	51.460
-65	Mark Kiesel	P-BP #66	51.741
-66	Stephen Roberts	S2-HS #91	52.245
-67	Tom Cuschieri	CAMT #44	52.372
-68	JUSTIN SCHMELZER	CAMS #81	52.397
-69	Arie Villasol	SP-FSP #16	52.445
+59	Craig Johnson	CAMT #7	51.199
+60	Lily Maier	CAMT #235	51.276
+61	Rob Boynton	SP-SSP #1	51.361
+62	Jake Obniski	X-XB #43	51.446
+63	Dylan Hemman	S2-GS #32	51.460
+64	Mark Kiesel	P-BP #66	51.741
+65	Stephen Roberts	S2-HS #91	52.245
+66	Tom Cuschieri	CAMT #44	52.333
+67	JUSTIN SCHMELZER	CAMS #81	52.397
+68	Arie Villasol	SP-FSP #16	52.445
+69	Coby Hartman	CAMS #59	52.754
 70	Adrien Araujo	AS #333	53.003
-71	Coby Hartman	CAMS #59	53.083
-72	Kevin Zhan	ST1-AST #113	53.092
+71	Kevin Zhan	ST1-AST #113	53.092
+72	Manny Pretti	CAMSV #66	53.214
 73	Zach Galiste	CAMC #3	53.251
 74	Matthew Klein	CAMT #42	53.292
 75	Leon Weinroth	CAMC #51	53.424
-76	Manny Pretti	CAMSV #66	53.532
-77	Jeff Kiesel	M-EM #143	53.650
-78	Megan Anderson	CST #76	53.651
-79	Derrick Galiste	CAMC #31	53.779
+76	Jeff Kiesel	M-EM #143	53.650
+77	Megan Anderson	CST #76	53.651
+78	Derrick Galiste	CAMC #31	53.779
+79	Brendan Voges	CAMT #699	53.920
 80	David Silva	P-CP #16	54.042
-81	Ivan Garcia	SP-CSP #777	54.619
-82	Devin Perry	CAMT #77	54.635
-83	Kelly Prior	X-XB #143	54.760
-84	Jim Barnes	CAMSV #77	54.765
-85	Matthew Jones	CAMS #405	54.941
-86	Andrew Shutt	S2-CS #77	55.010
-87	John Alvarez	CAMSV #65	55.026
+81	John Alvarez	CAMSV #65	54.276
+82	Ivan Garcia	SP-CSP #777	54.619
+83	Devin Perry	CAMT #77	54.635
+84	Kelly Prior	X-XB #143	54.760
+85	Jim Barnes	CAMSV #77	54.765
+86	Matthew Jones	CAMS #405	54.941
+87	Andrew Shutt	S2-CS #77	55.010
 88	Tom Mill	BST #14	55.333
 89	Sharon Alvarez	CAMSV #165	55.524
-90	Steve Hobaugh	CAMC #32	56.753
+90	Steve Hobaugh	CAMC #32	56.005
 91	Frank Stagnaro	P-CP #361	56.966
 92	Don Burdge	CAMT #771	57.122
 93	George Tomkins	CST #711	58.101
@@ -327,11 +327,12 @@ CAMC
 68.159
 64.794
 
-5	Steve Hobaugh #32	2026 Cadillac ct5v	68.378	56.753	
+5	Steve Hobaugh #32	2026 Cadillac ct5v	67.477	56.005	
 69.948
 69.975
 68.378
 69.342
+67.477
 
 CAMS
 1	Bryan Stewart #138		56.707	48.087	
@@ -346,6 +347,7 @@ CAMS
 58.836 +1
 58.590
 60.140
+59.216
 
 3	JUSTIN SCHMELZER #81	1996 Dodge Viper	61.790	52.397	
 64.528
@@ -354,11 +356,12 @@ CAMS
 61.790
 61.542 +1
 
-4	Coby Hartman #59	2008 Chevrolet Corvette Z06	62.599	53.083	
+4	Coby Hartman #59	2008 Chevrolet Corvette Z06	62.210	52.754	
 81.059
 65.909
 64.831
 62.599
+62.210
 
 5	Matthew Jones #405	2003 Chevrolet Corvette Z06	64.790	54.941	
 67.291 +1
@@ -375,24 +378,26 @@ CAMS
 68.811
 
 CAMSV
-1	Manny Pretti #66	1966 Chevrolet corvette	63.957	53.532	
+1	Manny Pretti #66	1966 Chevrolet corvette	63.578	53.214	
 73.796
 63.957
 64.437
 63.575 +1
+63.578
 
-2	Jim Barnes #77	1968 Chevrolet corvette	65.431	54.765	
+2	John Alvarez #65	1965 Chevrolet Corvette	64.846	54.276	
+68.093
+66.799
+65.868
+65.742
+64.846
+
+3	Jim Barnes #77	1968 Chevrolet corvette	65.431	54.765	
 70.655
 68.426
 67.497
 65.885
 65.431
-
-3	John Alvarez #65	1965 Chevrolet Corvette	65.742	55.026	
-68.093
-66.799
-65.868
-65.742
 
 4	Sharon Alvarez #165	1965 Chevrolet Corvette	66.338	55.524	
 76.813
@@ -407,6 +412,7 @@ CAMT
 58.669
 58.532
 57.636
+58.060 +1
 
 2	Chad Ryker #14	1967 Ford Mustang	57.879	47.750	
 60.895
@@ -419,47 +425,50 @@ CAMT
 60.052
 59.436
 59.776
-69.318
 59.848
-
-4	Brendan Voges #699	1969 Chevrolet Camaro	60.155	49.627	
-80.292
-65.358
-80.502
-71.743
 60.155
 
-5	Jonah Olsen #51	1966 Ford Mustang	60.369	49.804	
+4	Jonah Olsen #51	1966 Ford Mustang	60.369	49.804	
 64.298
 61.867
 60.826
 61.172
 60.369
 
-6	Craig Johnson #7	1963 Ford Falcon	62.060	51.199	
+5	Craig Johnson #7	1963 Ford Falcon	62.060	51.199	
 65.009
 63.048
 61.060 +1
 61.788 +1
+68.349 DNF
 
-7	Lily Maier #235	1965 Ford Mustang	62.153	51.276	
+6	Lily Maier #235	1965 Ford Mustang	62.153	51.276	
 61.739 +1
 63.521
 62.153
 61.458 +1
+61.509 +1
 
-8	Tom Cuschieri #44	1971 Chevrolet Camaro	63.482	52.372	
+7	Tom Cuschieri #44	1971 Chevrolet Camaro	63.434	52.333	
 66.802
 63.899
 64.552
 63.482
+63.434
 
-9	Matthew Klein #42	1969 Chevy Firebird	64.597	53.292	
+8	Matthew Klein #42	1969 Chevy Firebird	64.597	53.292	
 80.740
 67.097
 66.044
 64.663
 64.597
+
+9	Brendan Voges #699	1969 Chevrolet Camaro	65.358	53.920	
+80.292
+65.358
+80.502
+71.743
+69.318
 
 10	Devin Perry #77	1996 Ford Mustang	66.225	54.635	
 72.858 +1
@@ -953,8 +962,9 @@ X
 62.646
 
 XL
-1	Erika McKee #41 (XB)	1993 Mazda RX7	57.818	50.879	
+1	Erika McKee #41 (XB)	1993 Mazda RX7	56.847	50.025	
 58.390 +3
 58.382
 57.756 +2
 56.818 +1
+56.847

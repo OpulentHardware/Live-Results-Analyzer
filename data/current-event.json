@@ -1,13 +1,13 @@
 {
   "status": "ok",
   "sourceUrl": "https://live.sfrautox.com/#N",
-  "updatedAt": "2026-10-24T21:12:55.425Z",
+  "updatedAt": "2026-10-24T23:23:25.054Z",
   "event": {
     "title": "2026 AAS #15 Live Results",
     "date": "2026-10-24",
     "participants": 101,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-10-24T21:12:55.425Z",
+    "updatedAt": "2026-10-24T23:23:25.054Z",
     "status": "ok"
   },
   "meta": {
@@ -15,7 +15,7 @@
     "date": "2026-10-24",
     "participants": 101,
     "sourceUrl": "https://live.sfrautox.com/#N",
-    "updatedAt": "2026-10-24T21:12:55.425Z",
+    "updatedAt": "2026-10-24T23:23:25.054Z",
     "status": "ok"
   },
   "title": "2026 AAS #15 Live Results",
@@ -392,6 +392,28 @@
     {
       "rank": 18,
       "position": 18,
+      "driver": "Erika McKee",
+      "class": "XL-XB",
+      "cls": "XL-XB",
+      "number": "#41",
+      "classNumber": "XL-XB #41",
+      "time": 56.847,
+      "rawTime": 56.847,
+      "indexedTime": null,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "58.390 +3",
+        "58.382",
+        "57.756 +2",
+        "56.818 +1",
+        "56.847"
+      ],
+      "bestRaw": 56.847,
+      "bestPax": 50.025
+    },
+    {
+      "rank": 19,
+      "position": 19,
       "driver": "Isaac Acks",
       "class": "XA",
       "cls": "XA",
@@ -412,8 +434,8 @@
       "bestPax": 49.155
     },
     {
-      "rank": 19,
-      "position": 19,
+      "rank": 20,
+      "position": 20,
       "driver": "James Clenney",
       "class": "EVX",
       "cls": "EVX",
@@ -434,8 +456,8 @@
       "bestPax": 47.879
     },
     {
-      "rank": 20,
-      "position": 20,
+      "rank": 21,
+      "position": 21,
       "driver": "Renee Russell",
       "class": "SPL-CSP",
       "cls": "SPL-CSP",
@@ -455,8 +477,8 @@
       "bestPax": 49.25
     },
     {
-      "rank": 21,
-      "position": 21,
+      "rank": 22,
+      "position": 22,
       "driver": "Vince Russell",
       "class": "SP-CSP",
       "cls": "SP-CSP",
@@ -477,8 +499,8 @@
       "bestPax": 49.33
     },
     {
-      "rank": 22,
-      "position": 22,
+      "rank": 23,
+      "position": 23,
       "driver": "Juven Lat",
       "class": "SS",
       "cls": "SS",
@@ -499,8 +521,8 @@
       "bestPax": 48.55
     },
     {
-      "rank": 23,
-      "position": 23,
+      "rank": 24,
+      "position": 24,
       "driver": "Nick Relampagos",
       "class": "CAMT",
       "cls": "CAMT",
@@ -514,14 +536,15 @@
         "59.528",
         "58.669",
         "58.532",
-        "57.636"
+        "57.636",
+        "58.060 +1"
       ],
       "bestRaw": 57.636,
       "bestPax": 47.549
     },
     {
-      "rank": 24,
-      "position": 24,
+      "rank": 25,
+      "position": 25,
       "driver": "Pilar Miranda",
       "class": "EVX",
       "cls": "EVX",
@@ -540,27 +563,6 @@
       ],
       "bestRaw": 57.639,
       "bestPax": 48.416
-    },
-    {
-      "rank": 25,
-      "position": 25,
-      "driver": "Erika McKee",
-      "class": "XL-XB",
-      "cls": "XL-XB",
-      "number": "#41",
-      "classNumber": "XL-XB #41",
-      "time": 57.818,
-      "rawTime": 57.818,
-      "indexedTime": null,
-      "car": "(XB) 1993 Mazda RX7",
-      "runs": [
-        "58.390 +3",
-        "58.382",
-        "57.756 +2",
-        "56.818 +1"
-      ],
-      "bestRaw": 57.818,
-      "bestPax": 50.879
     },
     {
       "rank": 26,
@@ -796,7 +798,8 @@
         "59.239",
         "58.836 +1",
         "58.590",
-        "60.140"
+        "60.140",
+        "59.216"
       ],
       "bestRaw": 58.59,
       "bestPax": 49.684
@@ -1016,8 +1019,8 @@
         "60.052",
         "59.436",
         "59.776",
-        "69.318",
-        "59.848"
+        "59.848",
+        "60.155"
       ],
       "bestRaw": 59.436,
       "bestPax": 49.034
@@ -1134,28 +1137,6 @@
     {
       "rank": 52,
       "position": 52,
-      "driver": "Brendan Voges",
-      "class": "CAMT",
-      "cls": "CAMT",
-      "number": "#699",
-      "classNumber": "CAMT #699",
-      "time": 60.155,
-      "rawTime": 60.155,
-      "indexedTime": null,
-      "car": "1969 Chevrolet Camaro",
-      "runs": [
-        "80.292",
-        "65.358",
-        "80.502",
-        "71.743",
-        "60.155"
-      ],
-      "bestRaw": 60.155,
-      "bestPax": 49.627
-    },
-    {
-      "rank": 53,
-      "position": 53,
       "driver": "Mohamed Chaabene",
       "class": "M-BM",
       "cls": "M-BM",
@@ -1175,8 +1156,8 @@
       "bestPax": 59.184
     },
     {
-      "rank": 54,
-      "position": 54,
+      "rank": 53,
+      "position": 53,
       "driver": "Jonah Olsen",
       "class": "CAMT",
       "cls": "CAMT",
@@ -1197,8 +1178,8 @@
       "bestPax": 49.804
     },
     {
-      "rank": 55,
-      "position": 55,
+      "rank": 54,
+      "position": 54,
       "driver": "Stephanie Medeiros",
       "class": "SP-ESP",
       "cls": "SP-ESP",
@@ -1219,8 +1200,8 @@
       "bestPax": 50.797
     },
     {
-      "rank": 56,
-      "position": 56,
+      "rank": 55,
+      "position": 55,
       "driver": "Andre Piernot",
       "class": "ST1-EST",
       "cls": "ST1-EST",
@@ -1241,8 +1222,8 @@
       "bestPax": 49.162
     },
     {
-      "rank": 57,
-      "position": 57,
+      "rank": 56,
+      "position": 56,
       "driver": "Gregory Kehoe",
       "class": "BST",
       "cls": "BST",
@@ -1263,8 +1244,8 @@
       "bestPax": 50.808
     },
     {
-      "rank": 58,
-      "position": 58,
+      "rank": 57,
+      "position": 57,
       "driver": "Philip Ma",
       "class": "S1-DS",
       "cls": "S1-DS",
@@ -1285,8 +1266,8 @@
       "bestPax": 49.247
     },
     {
-      "rank": 59,
-      "position": 59,
+      "rank": 58,
+      "position": 58,
       "driver": "Michael Scott",
       "class": "CAMC",
       "cls": "CAMC",
@@ -1307,8 +1288,8 @@
       "bestPax": 50.662
     },
     {
-      "rank": 60,
-      "position": 60,
+      "rank": 59,
+      "position": 59,
       "driver": "Eric Martin",
       "class": "ST1-SSC",
       "cls": "ST1-SSC",
@@ -1329,8 +1310,8 @@
       "bestPax": 49.189
     },
     {
-      "rank": 61,
-      "position": 61,
+      "rank": 60,
+      "position": 60,
       "driver": "JUSTIN SCHMELZER",
       "class": "CAMS",
       "cls": "CAMS",
@@ -1351,8 +1332,8 @@
       "bestPax": 52.397
     },
     {
-      "rank": 62,
-      "position": 62,
+      "rank": 61,
+      "position": 61,
       "driver": "Keith Bullock",
       "class": "ST1-EST",
       "cls": "ST1-EST",
@@ -1371,8 +1352,8 @@
       "bestPax": 50.362
     },
     {
-      "rank": 63,
-      "position": 63,
+      "rank": 62,
+      "position": 62,
       "driver": "Craig Johnson",
       "class": "CAMT",
       "cls": "CAMT",
@@ -1392,8 +1373,8 @@
       "bestPax": 51.199
     },
     {
-      "rank": 64,
-      "position": 64,
+      "rank": 63,
+      "position": 63,
       "driver": "David Silva",
       "class": "P-CP",
       "cls": "P-CP",
@@ -1414,8 +1395,8 @@
       "bestPax": 54.042
     },
     {
-      "rank": 65,
-      "position": 65,
+      "rank": 64,
+      "position": 64,
       "driver": "Lily Maier",
       "class": "CAMT",
       "cls": "CAMT",
@@ -1429,14 +1410,15 @@
         "61.739 +1",
         "63.521",
         "62.153",
-        "61.458 +1"
+        "61.458 +1",
+        "61.509 +1"
       ],
       "bestRaw": 62.153,
       "bestPax": 51.276
     },
     {
-      "rank": 66,
-      "position": 66,
+      "rank": 65,
+      "position": 65,
       "driver": "Donald Lew",
       "class": "S2-CS",
       "cls": "S2-CS",
@@ -1455,6 +1437,28 @@
       ],
       "bestRaw": 62.16,
       "bestPax": 50.411
+    },
+    {
+      "rank": 66,
+      "position": 66,
+      "driver": "Coby Hartman",
+      "class": "CAMS",
+      "cls": "CAMS",
+      "number": "#59",
+      "classNumber": "CAMS #59",
+      "time": 62.21,
+      "rawTime": 62.21,
+      "indexedTime": null,
+      "car": "2008 Chevrolet Corvette Z06",
+      "runs": [
+        "81.059",
+        "65.909",
+        "64.831",
+        "62.599",
+        "62.210"
+      ],
+      "bestRaw": 62.21,
+      "bestPax": 52.754
     },
     {
       "rank": 67,
@@ -1503,27 +1507,6 @@
     {
       "rank": 69,
       "position": 69,
-      "driver": "Coby Hartman",
-      "class": "CAMS",
-      "cls": "CAMS",
-      "number": "#59",
-      "classNumber": "CAMS #59",
-      "time": 62.599,
-      "rawTime": 62.599,
-      "indexedTime": null,
-      "car": "2008 Chevrolet Corvette Z06",
-      "runs": [
-        "81.059",
-        "65.909",
-        "64.831",
-        "62.599"
-      ],
-      "bestRaw": 62.599,
-      "bestPax": 53.083
-    },
-    {
-      "rank": 70,
-      "position": 70,
       "driver": "Arie Villasol",
       "class": "SP-FSP",
       "cls": "SP-FSP",
@@ -1544,8 +1527,8 @@
       "bestPax": 52.445
     },
     {
-      "rank": 71,
-      "position": 71,
+      "rank": 70,
+      "position": 70,
       "driver": "Kevin Zhan",
       "class": "ST1-AST",
       "cls": "ST1-AST",
@@ -1566,25 +1549,48 @@
       "bestPax": 53.092
     },
     {
-      "rank": 72,
-      "position": 72,
+      "rank": 71,
+      "position": 71,
       "driver": "Tom Cuschieri",
       "class": "CAMT",
       "cls": "CAMT",
       "number": "#44",
       "classNumber": "CAMT #44",
-      "time": 63.482,
-      "rawTime": 63.482,
+      "time": 63.434,
+      "rawTime": 63.434,
       "indexedTime": null,
       "car": "1971 Chevrolet Camaro",
       "runs": [
         "66.802",
         "63.899",
         "64.552",
-        "63.482"
+        "63.482",
+        "63.434"
       ],
-      "bestRaw": 63.482,
-      "bestPax": 52.372
+      "bestRaw": 63.434,
+      "bestPax": 52.333
+    },
+    {
+      "rank": 72,
+      "position": 72,
+      "driver": "Manny Pretti",
+      "class": "CAMSV",
+      "cls": "CAMSV",
+      "number": "#66",
+      "classNumber": "CAMSV #66",
+      "time": 63.578,
+      "rawTime": 63.578,
+      "indexedTime": null,
+      "car": "1966 Chevrolet corvette",
+      "runs": [
+        "73.796",
+        "63.957",
+        "64.437",
+        "63.575 +1",
+        "63.578"
+      ],
+      "bestRaw": 63.578,
+      "bestPax": 53.214
     },
     {
       "rank": 73,
@@ -1677,27 +1683,6 @@
     {
       "rank": 77,
       "position": 77,
-      "driver": "Manny Pretti",
-      "class": "CAMSV",
-      "cls": "CAMSV",
-      "number": "#66",
-      "classNumber": "CAMSV #66",
-      "time": 63.957,
-      "rawTime": 63.957,
-      "indexedTime": null,
-      "car": "1966 Chevrolet corvette",
-      "runs": [
-        "73.796",
-        "63.957",
-        "64.437",
-        "63.575 +1"
-      ],
-      "bestRaw": 63.957,
-      "bestPax": 53.532
-    },
-    {
-      "rank": 78,
-      "position": 78,
       "driver": "Zach Galiste",
       "class": "CAMC",
       "cls": "CAMC",
@@ -1718,8 +1703,8 @@
       "bestPax": 53.251
     },
     {
-      "rank": 79,
-      "position": 79,
+      "rank": 78,
+      "position": 78,
       "driver": "Leon Weinroth",
       "class": "CAMC",
       "cls": "CAMC",
@@ -1740,8 +1725,8 @@
       "bestPax": 53.424
     },
     {
-      "rank": 80,
-      "position": 80,
+      "rank": 79,
+      "position": 79,
       "driver": "Megan Anderson",
       "class": "CST",
       "cls": "CST",
@@ -1762,8 +1747,8 @@
       "bestPax": 53.651
     },
     {
-      "rank": 81,
-      "position": 81,
+      "rank": 80,
+      "position": 80,
       "driver": "Matthew Klein",
       "class": "CAMT",
       "cls": "CAMT",
@@ -1784,8 +1769,8 @@
       "bestPax": 53.292
     },
     {
-      "rank": 82,
-      "position": 82,
+      "rank": 81,
+      "position": 81,
       "driver": "Matthew Jones",
       "class": "CAMS",
       "cls": "CAMS",
@@ -1806,8 +1791,8 @@
       "bestPax": 54.941
     },
     {
-      "rank": 83,
-      "position": 83,
+      "rank": 82,
+      "position": 82,
       "driver": "Derrick Galiste",
       "class": "CAMC",
       "cls": "CAMC",
@@ -1828,8 +1813,52 @@
       "bestPax": 53.779
     },
     {
+      "rank": 83,
+      "position": 83,
+      "driver": "John Alvarez",
+      "class": "CAMSV",
+      "cls": "CAMSV",
+      "number": "#65",
+      "classNumber": "CAMSV #65",
+      "time": 64.846,
+      "rawTime": 64.846,
+      "indexedTime": null,
+      "car": "1965 Chevrolet Corvette",
+      "runs": [
+        "68.093",
+        "66.799",
+        "65.868",
+        "65.742",
+        "64.846"
+      ],
+      "bestRaw": 64.846,
+      "bestPax": 54.276
+    },
+    {
       "rank": 84,
       "position": 84,
+      "driver": "Brendan Voges",
+      "class": "CAMT",
+      "cls": "CAMT",
+      "number": "#699",
+      "classNumber": "CAMT #699",
+      "time": 65.358,
+      "rawTime": 65.358,
+      "indexedTime": null,
+      "car": "1969 Chevrolet Camaro",
+      "runs": [
+        "80.292",
+        "65.358",
+        "80.502",
+        "71.743",
+        "69.318"
+      ],
+      "bestRaw": 65.358,
+      "bestPax": 53.92
+    },
+    {
+      "rank": 85,
+      "position": 85,
       "driver": "Jim Barnes",
       "class": "CAMSV",
       "cls": "CAMSV",
@@ -1850,8 +1879,8 @@
       "bestPax": 54.765
     },
     {
-      "rank": 85,
-      "position": 85,
+      "rank": 86,
+      "position": 86,
       "driver": "Frank Stagnaro",
       "class": "P-CP",
       "cls": "P-CP",
@@ -1866,27 +1895,6 @@
       ],
       "bestRaw": 65.479,
       "bestPax": 56.966
-    },
-    {
-      "rank": 86,
-      "position": 86,
-      "driver": "John Alvarez",
-      "class": "CAMSV",
-      "cls": "CAMSV",
-      "number": "#65",
-      "classNumber": "CAMSV #65",
-      "time": 65.742,
-      "rawTime": 65.742,
-      "indexedTime": null,
-      "car": "1965 Chevrolet Corvette",
-      "runs": [
-        "68.093",
-        "66.799",
-        "65.868",
-        "65.742"
-      ],
-      "bestRaw": 65.742,
-      "bestPax": 55.026
     },
     {
       "rank": 87,
@@ -1975,6 +1983,28 @@
     {
       "rank": 91,
       "position": 91,
+      "driver": "Steve Hobaugh",
+      "class": "CAMC",
+      "cls": "CAMC",
+      "number": "#32",
+      "classNumber": "CAMC #32",
+      "time": 67.477,
+      "rawTime": 67.477,
+      "indexedTime": null,
+      "car": "2026 Cadillac ct5v",
+      "runs": [
+        "69.948",
+        "69.975",
+        "68.378",
+        "69.342",
+        "67.477"
+      ],
+      "bestRaw": 67.477,
+      "bestPax": 56.005
+    },
+    {
+      "rank": 92,
+      "position": 92,
       "driver": "Andrew Shutt",
       "class": "S2-CS",
       "cls": "S2-CS",
@@ -1995,8 +2025,8 @@
       "bestPax": 55.01
     },
     {
-      "rank": 92,
-      "position": 92,
+      "rank": 93,
+      "position": 93,
       "driver": "Duck Pham",
       "class": "XA",
       "cls": "XA",
@@ -2015,27 +2045,6 @@
       ],
       "bestRaw": 67.858,
       "bestPax": 58.629
-    },
-    {
-      "rank": 93,
-      "position": 93,
-      "driver": "Steve Hobaugh",
-      "class": "CAMC",
-      "cls": "CAMC",
-      "number": "#32",
-      "classNumber": "CAMC #32",
-      "time": 68.378,
-      "rawTime": 68.378,
-      "indexedTime": null,
-      "car": "2026 Cadillac ct5v",
-      "runs": [
-        "69.948",
-        "69.975",
-        "68.378",
-        "69.342"
-      ],
-      "bestRaw": 68.378,
-      "bestPax": 56.753
     },
     {
       "rank": 94,
@@ -2357,7 +2366,8 @@
         "59.528",
         "58.669",
         "58.532",
-        "57.636"
+        "57.636",
+        "58.060 +1"
       ],
       "bestRaw": 57.636,
       "bestPax": 47.549
@@ -2832,8 +2842,8 @@
         "60.052",
         "59.436",
         "59.776",
-        "69.318",
-        "59.848"
+        "59.848",
+        "60.155"
       ],
       "bestRaw": 59.436,
       "bestPax": 49.034
@@ -3148,28 +3158,6 @@
     {
       "rank": 44,
       "position": 44,
-      "driver": "Brendan Voges",
-      "class": "CAMT",
-      "cls": "CAMT",
-      "number": "#699",
-      "classNumber": "CAMT #699",
-      "time": 49.627,
-      "rawTime": null,
-      "indexedTime": 49.627,
-      "car": "1969 Chevrolet Camaro",
-      "runs": [
-        "80.292",
-        "65.358",
-        "80.502",
-        "71.743",
-        "60.155"
-      ],
-      "bestRaw": 60.155,
-      "bestPax": 49.627
-    },
-    {
-      "rank": 45,
-      "position": 45,
       "driver": "Andre Marconett",
       "class": "CAMS",
       "cls": "CAMS",
@@ -3183,14 +3171,15 @@
         "59.239",
         "58.836 +1",
         "58.590",
-        "60.140"
+        "60.140",
+        "59.216"
       ],
       "bestRaw": 58.59,
       "bestPax": 49.684
     },
     {
-      "rank": 46,
-      "position": 46,
+      "rank": 45,
+      "position": 45,
       "driver": "Bill Charron",
       "class": "ST1-SST",
       "cls": "ST1-SST",
@@ -3211,8 +3200,8 @@
       "bestPax": 49.738
     },
     {
-      "rank": 47,
-      "position": 47,
+      "rank": 46,
+      "position": 46,
       "driver": "Jonah Olsen",
       "class": "CAMT",
       "cls": "CAMT",
@@ -3233,8 +3222,8 @@
       "bestPax": 49.804
     },
     {
-      "rank": 48,
-      "position": 48,
+      "rank": 47,
+      "position": 47,
       "driver": "Muamong Yiengyouav",
       "class": "CST",
       "cls": "CST",
@@ -3255,8 +3244,8 @@
       "bestPax": 49.911
     },
     {
-      "rank": 49,
-      "position": 49,
+      "rank": 48,
+      "position": 48,
       "driver": "Tom Kubo",
       "class": "SP-CSP",
       "cls": "SP-CSP",
@@ -3273,6 +3262,28 @@
       ],
       "bestRaw": 58.246,
       "bestPax": 49.975
+    },
+    {
+      "rank": 49,
+      "position": 49,
+      "driver": "Erika McKee",
+      "class": "XL-XB",
+      "cls": "XL-XB",
+      "number": "#41",
+      "classNumber": "XL-XB #41",
+      "time": 50.025,
+      "rawTime": null,
+      "indexedTime": 50.025,
+      "car": "(XB) 1993 Mazda RX7",
+      "runs": [
+        "58.390 +3",
+        "58.382",
+        "57.756 +2",
+        "56.818 +1",
+        "56.847"
+      ],
+      "bestRaw": 56.847,
+      "bestPax": 50.025
     },
     {
       "rank": 50,
@@ -3473,27 +3484,6 @@
     {
       "rank": 59,
       "position": 59,
-      "driver": "Erika McKee",
-      "class": "XL-XB",
-      "cls": "XL-XB",
-      "number": "#41",
-      "classNumber": "XL-XB #41",
-      "time": 50.879,
-      "rawTime": null,
-      "indexedTime": 50.879,
-      "car": "(XB) 1993 Mazda RX7",
-      "runs": [
-        "58.390 +3",
-        "58.382",
-        "57.756 +2",
-        "56.818 +1"
-      ],
-      "bestRaw": 57.818,
-      "bestPax": 50.879
-    },
-    {
-      "rank": 60,
-      "position": 60,
       "driver": "Craig Johnson",
       "class": "CAMT",
       "cls": "CAMT",
@@ -3513,8 +3503,8 @@
       "bestPax": 51.199
     },
     {
-      "rank": 61,
-      "position": 61,
+      "rank": 60,
+      "position": 60,
       "driver": "Lily Maier",
       "class": "CAMT",
       "cls": "CAMT",
@@ -3528,14 +3518,15 @@
         "61.739 +1",
         "63.521",
         "62.153",
-        "61.458 +1"
+        "61.458 +1",
+        "61.509 +1"
       ],
       "bestRaw": 62.153,
       "bestPax": 51.276
     },
     {
-      "rank": 62,
-      "position": 62,
+      "rank": 61,
+      "position": 61,
       "driver": "Rob Boynton",
       "class": "SP-SSP",
       "cls": "SP-SSP",
@@ -3556,8 +3547,8 @@
       "bestPax": 51.361
     },
     {
-      "rank": 63,
-      "position": 63,
+      "rank": 62,
+      "position": 62,
       "driver": "Jake Obniski",
       "class": "X-XB",
       "cls": "X-XB",
@@ -3578,8 +3569,8 @@
       "bestPax": 51.446
     },
     {
-      "rank": 64,
-      "position": 64,
+      "rank": 63,
+      "position": 63,
       "driver": "Dylan Hemman",
       "class": "S2-GS",
       "cls": "S2-GS",
@@ -3600,8 +3591,8 @@
       "bestPax": 51.46
     },
     {
-      "rank": 65,
-      "position": 65,
+      "rank": 64,
+      "position": 64,
       "driver": "Mark Kiesel",
       "class": "P-BP",
       "cls": "P-BP",
@@ -3623,8 +3614,8 @@
       "bestPax": 51.741
     },
     {
-      "rank": 66,
-      "position": 66,
+      "rank": 65,
+      "position": 65,
       "driver": "Stephen Roberts",
       "class": "S2-HS",
       "cls": "S2-HS",
@@ -3644,29 +3635,30 @@
       "bestPax": 52.245
     },
     {
-      "rank": 67,
-      "position": 67,
+      "rank": 66,
+      "position": 66,
       "driver": "Tom Cuschieri",
       "class": "CAMT",
       "cls": "CAMT",
       "number": "#44",
       "classNumber": "CAMT #44",
-      "time": 52.372,
+      "time": 52.333,
       "rawTime": null,
-      "indexedTime": 52.372,
+      "indexedTime": 52.333,
       "car": "1971 Chevrolet Camaro",
       "runs": [
         "66.802",
         "63.899",
         "64.552",
-        "63.482"
+        "63.482",
+        "63.434"
       ],
-      "bestRaw": 63.482,
-      "bestPax": 52.372
+      "bestRaw": 63.434,
+      "bestPax": 52.333
     },
     {
-      "rank": 68,
-      "position": 68,
+      "rank": 67,
+      "position": 67,
       "driver": "JUSTIN SCHMELZER",
       "class": "CAMS",
       "cls": "CAMS",
@@ -3687,8 +3679,8 @@
       "bestPax": 52.397
     },
     {
-      "rank": 69,
-      "position": 69,
+      "rank": 68,
+      "position": 68,
       "driver": "Arie Villasol",
       "class": "SP-FSP",
       "cls": "SP-FSP",
@@ -3707,6 +3699,28 @@
       ],
       "bestRaw": 63.187,
       "bestPax": 52.445
+    },
+    {
+      "rank": 69,
+      "position": 69,
+      "driver": "Coby Hartman",
+      "class": "CAMS",
+      "cls": "CAMS",
+      "number": "#59",
+      "classNumber": "CAMS #59",
+      "time": 52.754,
+      "rawTime": null,
+      "indexedTime": 52.754,
+      "car": "2008 Chevrolet Corvette Z06",
+      "runs": [
+        "81.059",
+        "65.909",
+        "64.831",
+        "62.599",
+        "62.210"
+      ],
+      "bestRaw": 62.21,
+      "bestPax": 52.754
     },
     {
       "rank": 70,
@@ -3733,27 +3747,6 @@
     {
       "rank": 71,
       "position": 71,
-      "driver": "Coby Hartman",
-      "class": "CAMS",
-      "cls": "CAMS",
-      "number": "#59",
-      "classNumber": "CAMS #59",
-      "time": 53.083,
-      "rawTime": null,
-      "indexedTime": 53.083,
-      "car": "2008 Chevrolet Corvette Z06",
-      "runs": [
-        "81.059",
-        "65.909",
-        "64.831",
-        "62.599"
-      ],
-      "bestRaw": 62.599,
-      "bestPax": 53.083
-    },
-    {
-      "rank": 72,
-      "position": 72,
       "driver": "Kevin Zhan",
       "class": "ST1-AST",
       "cls": "ST1-AST",
@@ -3772,6 +3765,28 @@
       ],
       "bestRaw": 63.281,
       "bestPax": 53.092
+    },
+    {
+      "rank": 72,
+      "position": 72,
+      "driver": "Manny Pretti",
+      "class": "CAMSV",
+      "cls": "CAMSV",
+      "number": "#66",
+      "classNumber": "CAMSV #66",
+      "time": 53.214,
+      "rawTime": null,
+      "indexedTime": 53.214,
+      "car": "1966 Chevrolet corvette",
+      "runs": [
+        "73.796",
+        "63.957",
+        "64.437",
+        "63.575 +1",
+        "63.578"
+      ],
+      "bestRaw": 63.578,
+      "bestPax": 53.214
     },
     {
       "rank": 73,
@@ -3842,27 +3857,6 @@
     {
       "rank": 76,
       "position": 76,
-      "driver": "Manny Pretti",
-      "class": "CAMSV",
-      "cls": "CAMSV",
-      "number": "#66",
-      "classNumber": "CAMSV #66",
-      "time": 53.532,
-      "rawTime": null,
-      "indexedTime": 53.532,
-      "car": "1966 Chevrolet corvette",
-      "runs": [
-        "73.796",
-        "63.957",
-        "64.437",
-        "63.575 +1"
-      ],
-      "bestRaw": 63.957,
-      "bestPax": 53.532
-    },
-    {
-      "rank": 77,
-      "position": 77,
       "driver": "Jeff Kiesel",
       "class": "M-EM",
       "cls": "M-EM",
@@ -3884,8 +3878,8 @@
       "bestPax": 48.077
     },
     {
-      "rank": 78,
-      "position": 78,
+      "rank": 77,
+      "position": 77,
       "driver": "Megan Anderson",
       "class": "CST",
       "cls": "CST",
@@ -3906,8 +3900,8 @@
       "bestPax": 53.651
     },
     {
-      "rank": 79,
-      "position": 79,
+      "rank": 78,
+      "position": 78,
       "driver": "Derrick Galiste",
       "class": "CAMC",
       "cls": "CAMC",
@@ -3926,6 +3920,28 @@
       ],
       "bestRaw": 64.794,
       "bestPax": 53.779
+    },
+    {
+      "rank": 79,
+      "position": 79,
+      "driver": "Brendan Voges",
+      "class": "CAMT",
+      "cls": "CAMT",
+      "number": "#699",
+      "classNumber": "CAMT #699",
+      "time": 53.92,
+      "rawTime": null,
+      "indexedTime": 53.92,
+      "car": "1969 Chevrolet Camaro",
+      "runs": [
+        "80.292",
+        "65.358",
+        "80.502",
+        "71.743",
+        "69.318"
+      ],
+      "bestRaw": 65.358,
+      "bestPax": 53.92
     },
     {
       "rank": 80,
@@ -3952,6 +3968,28 @@
     {
       "rank": 81,
       "position": 81,
+      "driver": "John Alvarez",
+      "class": "CAMSV",
+      "cls": "CAMSV",
+      "number": "#65",
+      "classNumber": "CAMSV #65",
+      "time": 54.276,
+      "rawTime": null,
+      "indexedTime": 54.276,
+      "car": "1965 Chevrolet Corvette",
+      "runs": [
+        "68.093",
+        "66.799",
+        "65.868",
+        "65.742",
+        "64.846"
+      ],
+      "bestRaw": 64.846,
+      "bestPax": 54.276
+    },
+    {
+      "rank": 82,
+      "position": 82,
       "driver": "Ivan Garcia",
       "class": "SP-CSP",
       "cls": "SP-CSP",
@@ -3972,8 +4010,8 @@
       "bestPax": 54.619
     },
     {
-      "rank": 82,
-      "position": 82,
+      "rank": 83,
+      "position": 83,
       "driver": "Devin Perry",
       "class": "CAMT",
       "cls": "CAMT",
@@ -3994,8 +4032,8 @@
       "bestPax": 54.635
     },
     {
-      "rank": 83,
-      "position": 83,
+      "rank": 84,
+      "position": 84,
       "driver": "Kelly Prior",
       "class": "X-XB",
       "cls": "X-XB",
@@ -4016,8 +4054,8 @@
       "bestPax": 54.76
     },
     {
-      "rank": 84,
-      "position": 84,
+      "rank": 85,
+      "position": 85,
       "driver": "Jim Barnes",
       "class": "CAMSV",
       "cls": "CAMSV",
@@ -4038,8 +4076,8 @@
       "bestPax": 54.765
     },
     {
-      "rank": 85,
-      "position": 85,
+      "rank": 86,
+      "position": 86,
       "driver": "Matthew Jones",
       "class": "CAMS",
       "cls": "CAMS",
@@ -4060,8 +4098,8 @@
       "bestPax": 54.941
     },
     {
-      "rank": 86,
-      "position": 86,
+      "rank": 87,
+      "position": 87,
       "driver": "Andrew Shutt",
       "class": "S2-CS",
       "cls": "S2-CS",
@@ -4080,27 +4118,6 @@
       ],
       "bestRaw": 67.831,
       "bestPax": 55.01
-    },
-    {
-      "rank": 87,
-      "position": 87,
-      "driver": "John Alvarez",
-      "class": "CAMSV",
-      "cls": "CAMSV",
-      "number": "#65",
-      "classNumber": "CAMSV #65",
-      "time": 55.026,
-      "rawTime": null,
-      "indexedTime": 55.026,
-      "car": "1965 Chevrolet Corvette",
-      "runs": [
-        "68.093",
-        "66.799",
-        "65.868",
-        "65.742"
-      ],
-      "bestRaw": 65.742,
-      "bestPax": 55.026
     },
     {
       "rank": 88,
@@ -4151,18 +4168,19 @@
       "cls": "CAMC",
       "number": "#32",
       "classNumber": "CAMC #32",
-      "time": 56.753,
+      "time": 56.005,
       "rawTime": null,
-      "indexedTime": 56.753,
+      "indexedTime": 56.005,
       "car": "2026 Cadillac ct5v",
       "runs": [
         "69.948",
         "69.975",
         "68.378",
-        "69.342"
+        "69.342",
+        "67.477"
       ],
-      "bestRaw": 68.378,
-      "bestPax": 56.753
+      "bestRaw": 67.477,
+      "bestPax": 56.005
     },
     {
       "rank": 91,
@@ -4651,16 +4669,17 @@
         "number": "#32",
         "car": "2026 Cadillac ct5v",
         "classNumber": "CAMC #32",
-        "bestRaw": 68.378,
-        "bestPax": 56.753,
-        "rawTime": 68.378,
-        "indexedTime": 56.753,
-        "time": 68.378,
+        "bestRaw": 67.477,
+        "bestPax": 56.005,
+        "rawTime": 67.477,
+        "indexedTime": 56.005,
+        "time": 67.477,
         "runs": [
           "69.948",
           "69.975",
           "68.378",
-          "69.342"
+          "69.342",
+          "67.477"
         ]
       }
     ],
@@ -4695,16 +4714,17 @@
         "number": "#66",
         "car": "1966 Chevrolet corvette",
         "classNumber": "CAMS #66",
-        "bestRaw": 63.957,
-        "bestPax": 53.532,
-        "rawTime": 63.957,
-        "indexedTime": 53.532,
-        "time": 63.957,
+        "bestRaw": 63.578,
+        "bestPax": 53.214,
+        "rawTime": 63.578,
+        "indexedTime": 53.214,
+        "time": 63.578,
         "runs": [
           "73.796",
           "63.957",
           "64.437",
-          "63.575 +1"
+          "63.575 +1",
+          "63.578"
         ]
       },
       {
@@ -4725,29 +4745,30 @@
           "59.239",
           "58.836 +1",
           "58.590",
-          "60.140"
+          "60.140",
+          "59.216"
         ]
       },
       {
         "position": 2,
         "rank": 2,
-        "driver": "Jim Barnes",
+        "driver": "John Alvarez",
         "class": "CAMS",
         "cls": "CAMS",
-        "number": "#77",
-        "car": "1968 Chevrolet corvette",
-        "classNumber": "CAMS #77",
-        "bestRaw": 65.431,
-        "bestPax": 54.765,
-        "rawTime": 65.431,
-        "indexedTime": 54.765,
-        "time": 65.431,
+        "number": "#65",
+        "car": "1965 Chevrolet Corvette",
+        "classNumber": "CAMS #65",
+        "bestRaw": 64.846,
+        "bestPax": 54.276,
+        "rawTime": 64.846,
+        "indexedTime": 54.276,
+        "time": 64.846,
         "runs": [
-          "70.655",
-          "68.426",
-          "67.497",
-          "65.885",
-          "65.431"
+          "68.093",
+          "66.799",
+          "65.868",
+          "65.742",
+          "64.846"
         ]
       },
       {
@@ -4775,22 +4796,23 @@
       {
         "position": 3,
         "rank": 3,
-        "driver": "John Alvarez",
+        "driver": "Jim Barnes",
         "class": "CAMS",
         "cls": "CAMS",
-        "number": "#65",
-        "car": "1965 Chevrolet Corvette",
-        "classNumber": "CAMS #65",
-        "bestRaw": 65.742,
-        "bestPax": 55.026,
-        "rawTime": 65.742,
-        "indexedTime": 55.026,
-        "time": 65.742,
+        "number": "#77",
+        "car": "1968 Chevrolet corvette",
+        "classNumber": "CAMS #77",
+        "bestRaw": 65.431,
+        "bestPax": 54.765,
+        "rawTime": 65.431,
+        "indexedTime": 54.765,
+        "time": 65.431,
         "runs": [
-          "68.093",
-          "66.799",
-          "65.868",
-          "65.742"
+          "70.655",
+          "68.426",
+          "67.497",
+          "65.885",
+          "65.431"
         ]
       },
       {
@@ -4802,16 +4824,17 @@
         "number": "#59",
         "car": "2008 Chevrolet Corvette Z06",
         "classNumber": "CAMS #59",
-        "bestRaw": 62.599,
-        "bestPax": 53.083,
-        "rawTime": 62.599,
-        "indexedTime": 53.083,
-        "time": 62.599,
+        "bestRaw": 62.21,
+        "bestPax": 52.754,
+        "rawTime": 62.21,
+        "indexedTime": 52.754,
+        "time": 62.21,
         "runs": [
           "81.059",
           "65.909",
           "64.831",
-          "62.599"
+          "62.599",
+          "62.210"
         ]
       },
       {
@@ -4900,7 +4923,8 @@
           "59.528",
           "58.669",
           "58.532",
-          "57.636"
+          "57.636",
+          "58.060 +1"
         ]
       },
       {
@@ -4943,35 +4967,13 @@
           "60.052",
           "59.436",
           "59.776",
-          "69.318",
-          "59.848"
+          "59.848",
+          "60.155"
         ]
       },
       {
         "position": 4,
         "rank": 4,
-        "driver": "Brendan Voges",
-        "class": "CAMT",
-        "cls": "CAMT",
-        "number": "#699",
-        "car": "1969 Chevrolet Camaro",
-        "classNumber": "CAMT #699",
-        "bestRaw": 60.155,
-        "bestPax": 49.627,
-        "rawTime": 60.155,
-        "indexedTime": 49.627,
-        "time": 60.155,
-        "runs": [
-          "80.292",
-          "65.358",
-          "80.502",
-          "71.743",
-          "60.155"
-        ]
-      },
-      {
-        "position": 5,
-        "rank": 5,
         "driver": "Jonah Olsen",
         "class": "CAMT",
         "cls": "CAMT",
@@ -4992,8 +4994,8 @@
         ]
       },
       {
-        "position": 6,
-        "rank": 6,
+        "position": 5,
+        "rank": 5,
         "driver": "Craig Johnson",
         "class": "CAMT",
         "cls": "CAMT",
@@ -5013,8 +5015,8 @@
         ]
       },
       {
-        "position": 7,
-        "rank": 7,
+        "position": 6,
+        "rank": 6,
         "driver": "Lily Maier",
         "class": "CAMT",
         "cls": "CAMT",
@@ -5030,33 +5032,35 @@
           "61.739 +1",
           "63.521",
           "62.153",
-          "61.458 +1"
+          "61.458 +1",
+          "61.509 +1"
         ]
       },
       {
-        "position": 8,
-        "rank": 8,
+        "position": 7,
+        "rank": 7,
         "driver": "Tom Cuschieri",
         "class": "CAMT",
         "cls": "CAMT",
         "number": "#44",
         "car": "1971 Chevrolet Camaro",
         "classNumber": "CAMT #44",
-        "bestRaw": 63.482,
-        "bestPax": 52.372,
-        "rawTime": 63.482,
-        "indexedTime": 52.372,
-        "time": 63.482,
+        "bestRaw": 63.434,
+        "bestPax": 52.333,
+        "rawTime": 63.434,
+        "indexedTime": 52.333,
+        "time": 63.434,
         "runs": [
           "66.802",
           "63.899",
           "64.552",
-          "63.482"
+          "63.482",
+          "63.434"
         ]
       },
       {
-        "position": 9,
-        "rank": 9,
+        "position": 8,
+        "rank": 8,
         "driver": "Matthew Klein",
         "class": "CAMT",
         "cls": "CAMT",
@@ -5074,6 +5078,28 @@
           "66.044",
           "64.663",
           "64.597"
+        ]
+      },
+      {
+        "position": 9,
+        "rank": 9,
+        "driver": "Brendan Voges",
+        "class": "CAMT",
+        "cls": "CAMT",
+        "number": "#699",
+        "car": "1969 Chevrolet Camaro",
+        "classNumber": "CAMT #699",
+        "bestRaw": 65.358,
+        "bestPax": 53.92,
+        "rawTime": 65.358,
+        "indexedTime": 53.92,
+        "time": 65.358,
+        "runs": [
+          "80.292",
+          "65.358",
+          "80.502",
+          "71.743",
+          "69.318"
         ]
       },
       {
@@ -6475,16 +6501,17 @@
         "number": "#41",
         "car": "(XB) 1993 Mazda RX7",
         "classNumber": "X #41",
-        "bestRaw": 57.818,
-        "bestPax": 50.879,
-        "rawTime": 57.818,
-        "indexedTime": 50.879,
-        "time": 57.818,
+        "bestRaw": 56.847,
+        "bestPax": 50.025,
+        "rawTime": 56.847,
+        "indexedTime": 50.025,
+        "time": 56.847,
         "runs": [
           "58.390 +3",
           "58.382",
           "57.756 +2",
-          "56.818 +1"
+          "56.818 +1",
+          "56.847"
         ]
       },
       {
@@ -6642,7 +6669,7 @@
     "X"
   ],
   "diagnostics": {
-    "sourceLineCount": 852,
+    "sourceLineCount": 862,
     "overallRows": 101,
     "paxRows": 101,
     "classGroups": 18,
