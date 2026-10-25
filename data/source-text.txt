@@ -7,15 +7,15 @@ Overall Class PAX
 
 Overall
 Rank	Driver	Class - Number	Time
-1	Tom Exley	P-XP #25	51.579
-2	Andy McKee	X-XB #141	52.057
+1	Andy McKee	X-XB #141	51.530
+2	Tom Exley	P-XP #25	51.579
 3	Mike Maier	P-CP #136	52.302
 4	Ben Martinez	M-CM #60	52.432
 5	Tara Shapowal	XA #187	52.585
 6	Steve Lau	XA #18	52.840
-7	Eric Gnesa	X-XB #93	53.422
-8	Steve Mclaughlin	SP-DSP #911	53.888
-9	Erika McKee	XL-XB #41	54.110
+7	Eric Gnesa	X-XB #93	53.368
+8	Erika McKee	XL-XB #41	53.702
+9	Steve Mclaughlin	SP-DSP #911	53.888
 10	Lisa Gnesa	X-XB #193	54.267
 11	Isaac Acks	XA #71	54.293
 12	Justin Bowen	EVX #48	54.533
@@ -26,14 +26,14 @@ Rank	Driver	Class - Number	Time
 17	Justin Tsang	AS #88	55.013
 18	Vince Russell	SP-CSP #192	55.051
 19	Timothy Naugler	EVX #7	55.320
-20	Tom Kubo	SP-CSP #92	55.436
-21	Arvind Govindaraj	ST1-AST #1	55.539
+20	Arvind Govindaraj	ST1-AST #1	55.375
+21	Tom Kubo	SP-CSP #92	55.436
 22	Renee Russell	SPL-CSP #92	55.663
-23	Pilar Miranda	EVX #78	55.805
-24	Patrick Drudge	ST1-SST #126	55.978
-25	Kristen Acharya	S1-BS #490	56.061
-26	Alex Muresan	S1-BS #181	56.193
-27	Johnathon Stewart	P-CP #36	56.219
+23	Johnathon Stewart	P-CP #36	55.670
+24	Pilar Miranda	EVX #78	55.805
+25	Patrick Drudge	ST1-SST #126	55.978
+26	Kristen Acharya	S1-BS #490	56.061
+27	Alex Muresan	S1-BS #181	56.193
 28	Rich Lee	S1-BS #99	56.346
 29	Erik Acks	AS #68	56.408
 30	Kurt Thorson	AS #65	56.472
@@ -52,11 +52,11 @@ Rank	Driver	Class - Number	Time
 43	Patrick Schluper	S1-DS #116	57.952
 44	Darren Voges	CAMT #669	58.255
 45	Kevin Jung	S1-BS #17	58.439
-46	Stephanie Medeiros	SP-ESP #611	58.626
-47	Michael Scott	CAMC #33	58.633
-48	Muamong Yiengyouav	CST #134	58.690
-49	David Silva	P-CP #16	58.747
-50	Andre Piernot	ST1-EST #19	58.880
+46	Andre Piernot	ST1-EST #19	58.615
+47	Stephanie Medeiros	SP-ESP #611	58.626
+48	Michael Scott	CAMC #33	58.633
+49	Muamong Yiengyouav	CST #134	58.690
+50	David Silva	P-CP #16	58.747
 51	Monica Huang	XA #171	58.886
 52	Gregory Kehoe	BST #95	59.072
 53	Eileen Blando	S1-DS #91	59.131
@@ -70,19 +70,19 @@ Rank	Driver	Class - Number	Time
 61	Leon Weinroth	CAMC #51	60.027
 62	Lily Maier	CAMT #235	60.119
 63	Craig Johnson	CAMT #7	60.209
-64	Zach Galiste	CAMC #3	61.367
-65	Stephen Roberts	S2-HS #91	62.571
-66	Johanna Guarino	BST #571	62.870
-67	Derrick Galiste	CAMC #31	63.115
-68	Douglas McConnell	P-XP #771	63.425
+64	Zach Galiste	CAMC #3	60.884
+65	Douglas McConnell	P-XP #771	62.299
+66	Stephen Roberts	S2-HS #91	62.571
+67	Johanna Guarino	BST #571	62.870
+68	Derrick Galiste	CAMC #31	63.115
 69	Devin Perry	CAMT #77	63.592
 70	Alvin Ongyod	ST1-GST #508	63.663
-71	DARIN NELMS	SM-SSM #66	65.497
+71	DARIN NELMS	SM-SSM #66	65.082
 72	Andy Chen	S1-DS #611	66.120
 73	Ajinkya Gode	CST #241	66.911
 74	Jian Ha	S2-HS #511	67.315
-75	Chris Santos	S2-HS #151	68.075
-76	Don Burdge	CAMT #771	68.157
+75	Don Burdge	CAMT #771	67.418
+76	Chris Santos	S2-HS #151	68.075
 77	Cheng Zhu	S1-FS #188	68.484
 78	Megan Anderson	CST #76	69.212
 79	Bryan Stewart	CAMS #138	999.000
@@ -96,21 +96,21 @@ Overall Class PAX
 
 PAX
 Rank	Driver	Class - Number	Indexed Time
-1	Tara Shapowal	XA #187	45.433
-2	Mike Maier	P-CP #136	45.502
-3	Steve Lau	XA #18	45.653
-4	Mack Tsang	AS #188	45.711
-5	Justin Tsang	AS #88	45.715
-6	Justin Bowen	EVX #48	45.807
-7	Andy McKee	X-XB #141	45.810
+1	Andy McKee	X-XB #141	45.346
+2	Tara Shapowal	XA #187	45.433
+3	Mike Maier	P-CP #136	45.502
+4	Steve Lau	XA #18	45.653
+5	Mack Tsang	AS #188	45.711
+6	Justin Tsang	AS #88	45.715
+7	Justin Bowen	EVX #48	45.807
 8	James Clenney	EVX #76	45.854
 9	Steve Mclaughlin	SP-DSP #911	46.020
 10	Kristen Acharya	S1-BS #490	46.194
 11	Alex Muresan	S1-BS #181	46.303
 12	Tom Exley	P-XP #25	46.421
 13	Rich Lee	S1-BS #99	46.429
-14	Timothy Naugler	EVX #7	46.468
-15	Arvind Govindaraj	ST1-AST #1	46.597
+14	Arvind Govindaraj	ST1-AST #1	46.459
+15	Timothy Naugler	EVX #7	46.468
 16	Kaustav Acharya	S1-BS #49	46.766
 17	John Rowe	S1-DS #24	46.785
 18	Patrick Schluper	S1-DS #116	46.825
@@ -118,34 +118,34 @@ Rank	Driver	Class - Number	Indexed Time
 20	Pilar Miranda	EVX #78	46.876
 21	Isaac Acks	XA #71	46.909
 22	Kurt Thorson	AS #65	46.928
-23	Eric Gnesa	X-XB #93	47.011
+23	Eric Gnesa	X-XB #93	46.963
 24	Patrick Drudge	ST1-SST #126	47.077
 25	Ben Martinez	M-CM #60	47.188
 26	Vince Russell	SP-CSP #192	47.233
 27	Brian Hobaugh	XA #111	47.250
-28	Tom Kubo	SP-CSP #92	47.564
-29	Erika McKee	XL-XB #41	47.616
-30	Chad Ryker	CAMT #14	47.672
-31	Jonah Olsen	CAMT #51	47.702
-32	Lisa Gnesa	X-XB #193	47.754
-33	Renee Russell	SPL-CSP #92	47.758
-34	Eric Martin	ST1-SSC #74	47.765
-35	Eileen Blando	S1-DS #91	47.777
-36	Michael Jones	AS #26	47.789
-37	Andre Piernot	ST1-EST #19	47.810
+28	Erika McKee	XL-XB #41	47.257
+29	Tom Kubo	SP-CSP #92	47.564
+30	Andre Piernot	ST1-EST #19	47.595
+31	Chad Ryker	CAMT #14	47.672
+32	Jonah Olsen	CAMT #51	47.702
+33	Lisa Gnesa	X-XB #193	47.754
+34	Renee Russell	SPL-CSP #92	47.758
+35	Eric Martin	ST1-SSC #74	47.765
+36	Eileen Blando	S1-DS #91	47.777
+37	Michael Jones	AS #26	47.789
 38	Ed Runnion	CST #18	47.833
 39	James Laeno	X-XU #96	47.971
 40	Glen Anderson	CST #79	47.998
 41	Darren Voges	CAMT #669	48.060
 42	Kevin Jung	S1-BS #17	48.153
 43	Keith Bullock	ST1-EST #18	48.199
-44	Jesus Villarreal	SS #91	48.464
-45	Andre Marconett	CAMS #180	48.487
-46	Michael Scott	CAMC #33	48.665
-47	Stephen Roberts	S2-HS #91	48.680
-48	Muamong Yiengyouav	CST #134	48.830
-49	John Lawrence	XA #11	48.832
-50	Johnathon Stewart	P-CP #36	48.910
+44	Johnathon Stewart	P-CP #36	48.432
+45	Jesus Villarreal	SS #91	48.464
+46	Andre Marconett	CAMS #180	48.487
+47	Michael Scott	CAMC #33	48.665
+48	Stephen Roberts	S2-HS #91	48.680
+49	Muamong Yiengyouav	CST #134	48.830
+50	John Lawrence	XA #11	48.832
 51	Tiberiu Muresan	S1-BS #81	49.079
 52	Stephanie Medeiros	SP-ESP #611	49.245
 53	Boris Elpiner	AS #84	49.341
@@ -156,8 +156,8 @@ Rank	Driver	Class - Number	Indexed Time
 58	Craig Johnson	CAMT #7	49.672
 59	Leon Weinroth	CAMC #51	49.822
 60	Rob Boynton	SP-SSP #198	49.940
-61	Monica Huang	XA #171	50.877
-62	Zach Galiste	CAMC #3	50.934
+61	Zach Galiste	CAMC #3	50.533
+62	Monica Huang	XA #171	50.877
 63	David Silva	P-CP #16	51.109
 64	Jeremy Eaton	XA #12	51.312
 65	Alvin Ongyod	ST1-GST #508	51.567
@@ -168,12 +168,12 @@ Rank	Driver	Class - Number	Indexed Time
 70	Johanna Guarino	BST #571	52.685
 71	Chris Santos	S2-HS #151	52.962
 72	Andy Chen	S1-DS #611	53.424
-73	Ajinkya Gode	CST #241	55.669
-74	Cheng Zhu	S1-FS #188	56.019
-75	Don Burdge	CAMT #771	56.229
-76	Douglas McConnell	P-XP #771	57.082
-77	Megan Anderson	CST #76	57.584
-78	DARIN NELMS	SM-SSM #66	57.768
+73	Don Burdge	CAMT #771	55.619
+74	Ajinkya Gode	CST #241	55.669
+75	Cheng Zhu	S1-FS #188	56.019
+76	Douglas McConnell	P-XP #771	56.069
+77	DARIN NELMS	SM-SSM #66	57.402
+78	Megan Anderson	CST #76	57.584
 79	Bryan Stewart	CAMS #138	999.000
 
 [[CLASS_VIEW]]
@@ -254,12 +254,14 @@ BST
 59.389
 59.072
 59.285
+59.234
 
 2	Johanna Guarino #571	2021 Subaru WRX STI Limited	62.870	52.685	
 66.215 +1
 63.640
 62.870
 62.254 +1
+65.799
 
 CAMC
 1	Michael Scott #33	2014 Ford Mustang	58.633	48.665	
@@ -267,18 +269,21 @@ CAMC
 58.633
 58.948
 58.855
+59.458
 
 2	Leon Weinroth #51	2014 Ford Mustang V6	60.027	49.822	
 62.473
 61.144
 60.721
 60.027
+61.427
 
-3	Zach Galiste #3	2021 Chevrolet Camaro SS	61.367	50.934	
+3	Zach Galiste #3	2021 Chevrolet Camaro SS	60.884	50.533	
 60.701 +3
 61.993 +2
 61.966 +1
 61.367
+60.884
 
 4	Derrick Galiste #31	2015 Chevrolet Camaro	63.115	52.385	
 64.974
@@ -291,6 +296,7 @@ CAMS
 57.409
 57.637
 57.179
+57.406
 
 2	Bryan Stewart #138	2004 Chevrolet Z06	999.000	999.000	
 72.795 DNF
@@ -304,36 +310,42 @@ CAMT
 58.066
 58.192
 57.821
+58.450
 
 3	Darren Voges #669	1969 Chevrolet Camaro	58.255	48.060	
 59.299
 58.735
 58.255
 58.266
+58.421
 
 4	Lily Maier #235	1965 Ford Mustang	60.119	49.598	
 60.484
 60.626
 60.119
 60.998
+60.909
 
 5	Craig Johnson #7	1963 Ford Falcon	60.209	49.672	
 60.421
 60.617
 60.209
 62.141
+60.360
 
 6	Devin Perry #77	1996 Ford Mustang	63.592	52.463	
 64.419
 64.475
 63.679
 63.592
+63.535 +2
 
-7	Don Burdge #771	1996 Ford Mustang GT	68.157	56.229	
+7	Don Burdge #771	1996 Ford Mustang GT	67.418	55.619	
 68.157
 70.016 +1
 68.381 +1
 68.283 +1
+66.418 +1
 
 CST
 1	Ed Runnion #18	2022 Subaru BRZ	57.492	47.833	
@@ -379,24 +391,28 @@ EVX
 55.023
 55.222
 54.533
+54.725
 
 2	James Clenney #76	2025 Tesla Model 3 Performance	54.589	45.854	
 55.856
 55.347
 54.589
 54.683
+55.063
 
 3	Timothy Naugler #7	2022 Tesla Model 3 Performance	55.320	46.468	
 55.678
 55.756 +1
 55.320
 55.812
+55.396
 
 4	Pilar Miranda #78	Tesla Model 3 Performance	55.805	46.876	
 57.865 +1
 56.147
 55.862
 55.805
+56.100
 
 SS
 1	Jesus Villarreal #91	Chevrolet Corvette	57.490	48.464	
@@ -469,42 +485,50 @@ M
 52.889
 52.432
 59.645 DNF
+65.050
 
 P
 1	Mike Maier #136 (CP)	1965 Ford GT 350	52.302	45.502	
 52.454 +1
 52.302
 52.532
+52.906 +1
+54.237
 
 2	Tom Exley #25 (XP)	1987 Mazda Rx7	51.579	46.421	
 52.748 +2
 51.579
 52.075 +1
 52.172
+51.926
 
-3	Johnathon Stewart #36 (CP)	1965 Ford Shelby	56.219	48.910	
+3	Johnathon Stewart #36 (CP)	1965 Ford Shelby	55.670	48.432	
 58.085 +1
 55.219 +1
 54.921 +2
 54.694 +2
+55.670
 
 4	David Silva #16 (CP)	1994 Ford Mustang	58.747	51.109	
 60.874
 60.222
 59.251
 58.747
+58.771
 
 5	Michael Ansell #177 (CP)	1972 Chevrolet Corvette	59.320	51.608	
 60.768
 59.505 +1
 59.320
 58.586 +1
+58.890 +1
 
-6	Douglas McConnell #771 (XP)	1967 Austin Healey Sprite	63.425	57.082	
+6	Douglas McConnell #771 (XP)	1967 Austin Healey Sprite	62.299	56.069	
 68.094
 65.347
 66.025
 63.425
+62.299
 
 S1
 1	Kristen Acharya #490 (BS)	2026 Toyota Supra	56.061	46.194	
@@ -607,11 +631,12 @@ S2
 68.075
 
 SM
-1	DARIN NELMS #66 (SSM)	2001 Mazda Miata	65.497	57.768	
+1	DARIN NELMS #66 (SSM)	2001 Mazda Miata	65.082	57.402	
 67.745
 67.075
 65.497
 67.821
+65.082
 
 SP
 1	Steve Mclaughlin #911 (DSP)	2007 Nissan 350Z	53.888	46.020	
@@ -651,70 +676,81 @@ SPL
 62.982
 
 ST1
-1	Arvind Govindaraj #1 (AST)	2020 Mazda MX-5	55.539	46.597	
+1	Arvind Govindaraj #1 (AST)	2020 Mazda MX-5	55.375	46.459	
 55.341 +1
 55.539
 55.226 +1
 55.658
+55.375
 
 2	Patrick Drudge #126 (SST)	2024 Toyota Supra	55.978	47.077	
 57.478
 56.480
 55.967 +1
 55.978
+56.440
 
-3	Eric Martin #74 (SSC)	2013 Scion FR-S	59.336	47.765	
-60.836
-59.990
-59.336
-59.567 +1
-
-4	Andre Piernot #19 (EST)	1990 Mazda Miata	58.880	47.810	
+3	Andre Piernot #19 (EST)	1990 Mazda Miata	58.615	47.595	
 60.336
 59.107
 59.056
 58.880
+58.615
+
+4	Eric Martin #74 (SSC)	2013 Scion FR-S	59.336	47.765	
+60.836
+59.990
+59.336
+59.567 +1
+59.349 +1
 
 5	Keith Bullock #18 (EST)	1990 Mazda Miata	59.359	48.199	
 60.690
 59.744
 59.359
 59.422
+59.718
 
 6	Alvin Ongyod #508 (GST)	2007 Subaru WRX Wagon	63.663	51.567	
 65.145
 65.075
 64.867
 63.663
+63.857
 
 X
-1	Andy McKee #141 (XB)	1993 Mazda RX7	52.057	45.810	
+1	Andy McKee #141 (XB)	1993 Mazda RX7	51.530	45.346	
 52.858
 52.862
 52.057
 52.084
+51.530
 
-2	Eric Gnesa #93 (XB)	2009 Porsche Cayman S	53.422	47.011	
+2	Eric Gnesa #93 (XB)	2009 Porsche Cayman S	53.368	46.963	
 54.155
 53.739
 53.388 +1
 53.422
+53.368
 
 3	Lisa Gnesa #193 (XB)	2009 Porsche Cayman S	54.267	47.754	
 56.312
 54.525
 54.267
 59.147 +1
+54.500
 
 4	James Laeno #96 (XU)	Mazda Exocet	54.887	47.971	
 56.077
 56.448
 55.026
 54.887
+54.847 +1
 
 XL
-1	Erika McKee #41 (XB)	1993 Mazda RX7	54.110	47.616	
+1	Erika McKee #41 (XB)	1993 Mazda RX7	53.702	47.257	
 57.022 +5
 55.617 +1
 54.879
 54.110
+53.702
